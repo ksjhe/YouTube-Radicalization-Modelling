@@ -1,0 +1,66 @@
+---
+title: "testing"
+output: html_document
+---
+
+Importing Libraries
+```{r setup, include=FALSE}
+library(tidyverse)
+library("networkD3")
+library("rbokeh")
+```
+
+
+## R Markdown
+
+```{r}
+youtube <- read_csv("Community Recommendation Data")
+youtube <- youtube %>% select(-'X1',-'recommendation #',-'vid 2 recommendations #',-'vid 1 recommendations #',-'vid 3 recommendations #',-'vid 4 recommendations #',-'vid 5 recommendations #')
+youtube <- youtube %>% mutate('Step: 2 Channel' = paste(youtube$`Step: 2 Channel`, " 1"))
+```
+
+```{r}
+labels <- youtube %>% colnames()
+temp = 'Hello'
+#substr(temp,-5,100)
+for(title in labels){
+  if(str_detect(title,"Video")){
+    youtube <- youtube %>% select(-title)
+  }
+}
+youtube
+```
+
+
+```{r}
+
+nodes <- data.frame(names = unique(youtube$'Origin Channel'), stringsAsFactors = FALSE)
+nodes2 <- data.frame(names = unique(youtube$`Step: 2 Channel`), stringsAsFactors = FALSE)
+nodes <- rbind(nodes,nodes2)
+nodes <- nodes %>% unique()
+
+nodes <- cbind(nodes,node = c(0:17))
+nodes
+
+results<- youtube %>% select("Origin Channel","Step: 2 Channel")
+results <- results %>% mutate(transfers = 1)
+results
+
+results <- merge(results, nodes, by.x = "Origin Channel", by.y = "names")
+results
+results <- merge(results, nodes, by.x = "Step: 2 Channel", by.y = "names")
+links <- results[c("node.x","node.y","transfers")]
+colnames(links) <- c("source","target","value")
+links
+```
+
+```{r}
+sn <- sankeyNetwork(Links = links, Nodes = nodes, 
+                         Source = 'source', 
+                         Target = 'target', 
+                         Value = 'value', 
+                         NodeID = 'names',
+                         units = 'votes')
+saveNetwork(sn,"sankeyNetowkr")
+sn
+```
