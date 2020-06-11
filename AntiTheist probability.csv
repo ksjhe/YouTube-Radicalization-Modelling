@@ -1,179 +1,380 @@
-,Category,Next Channel,Probability
-0,Educational News,Rationality Rules,0.058823529411764705
-1,Educational News,YouTube,0.017488076311605722
-2,Educational News,The Atheist Experience,0.03815580286168521
-3,Educational News,CosmicSkeptic,0.05246422893481717
-4,Educational News,Rachel Oates,0.001589825119236884
-5,Educational News,Zeducation,0.001589825119236884
-6,Educational News,Talk Heathen,0.01589825119236884
-7,Educational News,Professor Dave Explains,0.0985691573926868
-8,Educational News,Sydney Watson,0.001589825119236884
-9,Educational News,TheThinkingAtheist,0.03179650238473768
-10,Educational News,Karl Marx,0.003179650238473768
-11,Educational News,Center for Inquiry,0.009538950715421303
-12,Educational News,FFRF,0.009538950715421303
-13,Educational News,AronRa,0.01589825119236884
-14,Educational News,Valsyrie,0.003179650238473768
-15,Educational News,Bart D. Ehrman,0.012718600953895072
-16,Educational News,Mike Licona,0.012718600953895072
-17,Educational News,socratesinthecity,0.0047694753577106515
-18,Educational News,Bubear56,0.001589825119236884
-19,Educational News,Atheist Canada,0.003179650238473768
-20,Educational News,ChristopherHitchslap,0.001589825119236884
-21,Educational News,Paulogia,0.04133545310015898
-22,Educational News,Genetically Modified Skeptic,0.011128775834658187
-23,Educational News,Jaden Lindner,0.001589825119236884
-24,Educational News,Viced Rhino,0.003179650238473768
-25,Educational News,Questioning The Narrative,0.001589825119236884
-26,Educational News,TMM,0.001589825119236884
-27,Educational News,Andhorhal,0.001589825119236884
-28,Educational News,Matt Fradd,0.001589825119236884
-29,Educational News,Bishop Robert Barron,0.001589825119236884
-30,Educational News,Fixed Point Foundation,0.001589825119236884
-31,Educational News,Skeptic,0.034976152623211444
-32,Educational News,University of Notre Dame,0.034976152623211444
-33,Educational News,Closer To Truth,0.011128775834658187
-34,Educational News,NCASVideo,0.003179650238473768
-35,Educational News,LiveTalksLA,0.006359300476947536
-36,Educational News,The NonSequitur Show,0.0047694753577106515
-37,Educational News,Discovery Science,0.001589825119236884
-38,Educational News,Talks at Google,0.00794912559618442
-39,Educational News,Jimmy Carr,0.011128775834658187
-40,Educational News,Official Jim Cornette,0.009538950715421303
-41,Educational News,FOCLOnline,0.001589825119236884
-42,Educational News,Matt Dillahunty,0.019077901430842606
-43,Educational News,BiolaUniversity,0.003179650238473768
-44,Educational News,92nd Street Y,0.034976152623211444
-45,Educational News,Agatan Foundation,0.003179650238473768
-46,Educational News,Charisma on Command,0.006359300476947536
-47,Educational News,Matteo Zilli,0.003179650238473768
-48,Educational News,TED Archive,0.003179650238473768
-49,Educational News,The Late Show with Stephen Colbert,0.009538950715421303
-50,Educational News,Beaulah Larkin,0.001589825119236884
-51,Educational News,How To Academy,0.001589825119236884
-52,Educational News,Josh Gad,0.00794912559618442
-53,Educational News,toxpac,0.001589825119236884
-54,Educational News,HooverInstitution,0.014308426073131956
-55,Educational News,theinfiniteyes,0.001589825119236884
-56,Educational News,Channel 4 News,0.001589825119236884
-57,Educational News,Muslim Debate Initiative Archive,0.003179650238473768
-58,Educational News,Lex Fridman,0.003179650238473768
-59,Educational News,GQ,0.003179650238473768
-60,Educational News,TheDooo,0.001589825119236884
-61,Educational News,UFC - Ultimate Fighting Championship,0.003179650238473768
-62,Educational News,Philip DeFranco,0.003179650238473768
-63,Educational News,Josh Keefe,0.003179650238473768
-64,Educational News,Cuck Philosophy,0.001589825119236884
-65,Educational News,PowerfulJRE,0.012718600953895072
-66,Educational News,MMA On Point,0.001589825119236884
-67,Educational News,azureScapegoat,0.001589825119236884
-68,Educational News,Sky News Australia,0.00794912559618442
-69,Educational News,Perimeter Institute for Theoretical Physics,0.003179650238473768
-70,Educational News,Overlook Horizon,0.001589825119236884
-71,Educational News,NASA,0.0047694753577106515
-72,Educational News,The Oriental Institute,0.003179650238473768
-73,Educational News,Sabine Hossenfelder,0.001589825119236884
-74,Educational News,Commonwealth Club,0.001589825119236884
-75,Educational News,"Humanists, Atheists, and Agnostics of Manitoba",0.003179650238473768
-76,Educational News,Danny Waysted,0.001589825119236884
-77,Educational News,space googlevesaire,0.001589825119236884
-78,Educational News,The Royal Institution,0.00794912559618442
-79,Educational News,Bioneers,0.001589825119236884
-80,Educational News,American Museum of Natural History,0.0047694753577106515
-81,Educational News,Pioneer Works,0.001589825119236884
-82,Educational News,The Middle Way Society,0.001589825119236884
-83,Educational News,David GN,0.001589825119236884
-84,Educational News,UC Santa Cruz,0.001589825119236884
-85,Educational News,Berlin Psychoanalytic,0.001589825119236884
-86,Educational News,Intelligence Squared,0.003179650238473768
-87,Educational News,Sean Carroll,0.001589825119236884
-88,Educational News,Ravi Zacharias International Ministries,0.001589825119236884
-89,Educational News,New York Daily News,0.001589825119236884
-90,Educational News,WGBHForum,0.003179650238473768
-91,Educational News,World Science Festival,0.0047694753577106515
-92,Educational News,BBC Documentary,0.001589825119236884
-93,Educational News,Christo Aivalis,0.001589825119236884
-94,Educational News,9 News Australia,0.001589825119236884
-95,Educational News,EAE,0.001589825119236884
-96,Educational News,Mr.Within's Gift,0.001589825119236884
-97,Educational News,Pop Culture Detective,0.001589825119236884
-98,Educational News,The New School,0.003179650238473768
-99,Educational News,StarMediaEN,0.003179650238473768
-100,Educational News,Anthony Pompliano,0.001589825119236884
-101,Educational News,StarTalk,0.001589825119236884
-102,Educational News,Gordon Ramsay,0.001589825119236884
-103,Educational News,National Constitution Center,0.001589825119236884
-104,Educational News,Unbelievable?,0.001589825119236884
-105,Educational News,Lewis Howes,0.003179650238473768
-106,Educational News,Bret Weinstein,0.001589825119236884
-107,Educational News,Tr3Vel0cita,0.003179650238473768
-108,Educational News,Ligonier Ministries,0.006359300476947536
-109,Educational News,Mark Rober,0.006359300476947536
-110,Educational News,Truth Seeker,0.001589825119236884
-111,Educational News,agadmator's Chess Channel,0.0047694753577106515
-112,Educational News,El Rincón De Giorgio,0.003179650238473768
-113,Educational News,Integrating Ethics: From Thought to Action,0.001589825119236884
-114,Educational News,jimgaffigan,0.001589825119236884
-115,Educational News,truTV,0.003179650238473768
-116,Educational News,Gabriel Iglesias,0.001589825119236884
-117,Educational News,Goalcast,0.001589825119236884
-118,Educational News,Eric Rosen,0.001589825119236884
-119,Educational News,The Agenda with Steve Paikin,0.001589825119236884
-120,Educational News,TEDx Talks,0.009538950715421303
-121,Educational News,Brown University,0.003179650238473768
-122,Educational News,The World of Boxing!,0.001589825119236884
-123,Educational News,WF Buckley Jr Program,0.001589825119236884
-124,Educational News,Gravitahn,0.003179650238473768
-125,Educational News,DW Documentary,0.001589825119236884
-126,Educational News,John Anderson,0.003179650238473768
-127,Educational News,University of California Television (UCTV),0.001589825119236884
-128,Educational News,Eckhart Tolle,0.003179650238473768
-129,Educational News,Friendly Atheist,0.003179650238473768
-130,Educational News,iERA,0.0047694753577106515
-131,Educational News,Fire Films,0.001589825119236884
-132,Educational News,LaughPlanet,0.0047694753577106515
-133,Educational News,Eyewitness News ABC7NY,0.001589825119236884
-134,Educational News,Vsauce,0.001589825119236884
-135,Educational News,CrashCourse,0.001589825119236884
-136,Educational News,The Salvation Army Kroc Center,0.001589825119236884
-137,Educational News,Steubenville Conferences,0.001589825119236884
-138,Educational News,LastWeekTonight,0.006359300476947536
-139,Educational News,Patriot Act,0.001589825119236884
-140,Educational News,JW Escape,0.001589825119236884
-141,Educational News,The Pondering Primate,0.001589825119236884
-142,Educational News,Kings and Generals,0.001589825119236884
-143,Educational News,The Pat McAfee Show,0.001589825119236884
-144,Educational News,Epic History TV,0.001589825119236884
-145,Educational News,La Resistencia en Movistar+,0.001589825119236884
-146,Educational News,The Aspen Institute,0.001589825119236884
-147,Educational News,PBS NewsHour,0.001589825119236884
-148,Educational News,Philosophy Tube,0.003179650238473768
-149,Educational News,The People,0.001589825119236884
-150,Educational News,Saturday Night Live,0.001589825119236884
-151,Educational News,Mississippi Public Broadcasting,0.003179650238473768
-152,Educational News,Penguin Random House,0.001589825119236884
-153,Educational News,Anders Jacobsson,0.001589825119236884
-154,Educational News,Vox Stoica,0.001589825119236884
-155,Educational News,Cross Examined,0.001589825119236884
-156,Educational News,Late Night with Seth Meyers,0.001589825119236884
-157,Educational News,Netflix Is A Joke,0.001589825119236884
-158,Educational News,The Veritas Forum,0.001589825119236884
-159,Educational News,Answers in Genesis,0.001589825119236884
-160,Educational News,WorshipMob,0.001589825119236884
-161,Educational News,Christ Community Chapel,0.001589825119236884
-162,Educational News,Stanford Graduate School of Business,0.001589825119236884
-163,Educational News,Victory Tulsa,0.001589825119236884
-164,Educational News,Bethel Music,0.001589825119236884
-165,Educational News,miracleofsound,0.001589825119236884
-166,Educational News,Holy Koolaid,0.003179650238473768
-167,Educational News,BBC Newsnight,0.001589825119236884
-168,Educational News,Jordan B Peterson,0.001589825119236884
-169,Educational News,Top 5 Best,0.001589825119236884
-170,Educational News,Ichigoku,0.001589825119236884
-171,Educational News,DarkMatter2525,0.001589825119236884
-172,Educational News,Fox News,0.001589825119236884
-173,Educational News,WGBH News,0.001589825119236884
-174,Educational News,VICE,0.001589825119236884
-175,Educational News,Nigel Farage,0.001589825119236884
-176,Educational News,John Cedars,0.001589825119236884
-177,Educational News,Bob Ross,0.001589825119236884
+,Category,Next Channel,Count
+0,AntiTheist,CoolHardLogic,8
+1,AntiTheist,TED,7
+2,AntiTheist,Professor Dave Explains,132
+3,AntiTheist,Everyday Astronaut,1
+4,AntiTheist,Mahrai Ziller,1
+5,AntiTheist,TEDx Talks,12
+6,AntiTheist,Understood,5
+7,AntiTheist,Megaprojects,1
+8,AntiTheist,The Royal Institution,11
+9,AntiTheist,HooverInstitution,46
+10,AntiTheist,Joe Scott,3
+11,AntiTheist,Seeker,1
+12,AntiTheist,Fox News,30
+13,AntiTheist,Stanford Health Care,2
+14,AntiTheist,DarkMatter2525,81
+15,AntiTheist,BiolaUniversity,23
+16,AntiTheist,YouTube,30
+17,AntiTheist,Shane Killian,11
+18,AntiTheist,Stanford,2
+19,AntiTheist,Charisma on Command,3
+20,AntiTheist,Kitco NEWS,1
+21,AntiTheist,MedCram - Medical Lectures Explained CLEARLY,1
+22,AntiTheist,Eckhart Tolle,1
+23,AntiTheist,The Moon,1
+24,AntiTheist,TMM,25
+25,AntiTheist,TheThinkingAtheist,14
+26,AntiTheist,ABCLibrarySales,1
+27,AntiTheist,Agatan Foundation,9
+28,AntiTheist,Pangburn,4
+29,AntiTheist,Mike Licona,5
+30,AntiTheist,Rationality Rules,1
+31,AntiTheist,Jordan B Peterson,6
+32,AntiTheist,Valsyrie,4
+33,AntiTheist,Matt Dillahunty,1
+34,AntiTheist,JaclynGlenn,22
+35,AntiTheist,Jimmy Snow,2
+36,AntiTheist,Rachel Oates,12
+37,AntiTheist,Cody Ko,2
+38,AntiTheist,Secular Talk,15
+39,AntiTheist,Levy Economics Institute,5
+40,AntiTheist,George Carlin Official YouTube Channel,7
+41,AntiTheist,MSNBC,13
+42,AntiTheist,LastWeekTonight,79
+43,AntiTheist,Vox,1
+44,AntiTheist,Patriot Act,14
+45,AntiTheist,Atheism-is-Unstoppable-2,6
+46,AntiTheist,The Rubin Report,1
+47,AntiTheist,92nd Street Y,102
+48,AntiTheist,The Laura Flanders Show,3
+49,AntiTheist,University of Notre Dame,123
+50,AntiTheist,Joon The King,2
+51,AntiTheist,Studio 10,8
+52,AntiTheist,Harvard Kennedy School's Institute of Politics,1
+53,AntiTheist,LegalEagle,9
+54,AntiTheist,Jocko Podcast,14
+55,AntiTheist,Philosophy Tube,7
+56,AntiTheist,potholer54,11
+57,AntiTheist,Bart D. Ehrman,13
+58,AntiTheist,NCASVideo,2
+59,AntiTheist,Minnesota Atheists,1
+60,AntiTheist,WGBHForum,46
+61,AntiTheist,Dan Hait,1
+62,AntiTheist,AronRa,5
+63,AntiTheist,BroJFullmer,1
+64,AntiTheist,The Bible Skeptic,1
+65,AntiTheist,NonStampCollector,1
+66,AntiTheist,YAFTV,1
+67,AntiTheist,CNN,2
+68,AntiTheist,The Atheist Experience,61
+69,AntiTheist,Premier On Demand,1
+70,AntiTheist,Way Back,1
+71,AntiTheist,Creationist Cat,9
+72,AntiTheist,Lindsay Ellis,6
+73,AntiTheist,Hip Hughes,1
+74,AntiTheist,TheLivingDinosaur,4
+75,AntiTheist,vainly112,1
+76,AntiTheist,Leo tunesse,1
+77,AntiTheist,Joanah Madzime,1
+78,AntiTheist,JonJorgenson,1
+79,AntiTheist,ABC Television Stations,1
+80,AntiTheist,Better Left Unsaid The Film,1
+81,AntiTheist,Radio ZU,1
+82,AntiTheist,Kurtis Baute,1
+83,AntiTheist,Mometrix Academy,1
+84,AntiTheist,Patrick Smith,1
+85,AntiTheist,The Financial Diet,1
+86,AntiTheist,TRT World,2
+87,AntiTheist,Politics and Prose,1
+88,AntiTheist,The New School,21
+89,AntiTheist,Paulogia,28
+90,AntiTheist,Thunderf00t,31
+91,AntiTheist,ElectroBOOM,1
+92,AntiTheist,Joseph Anderson,3
+93,AntiTheist,PBS Space Time,1
+94,AntiTheist,CareyHolzman,1
+95,AntiTheist,Atomic Shrimp,3
+96,AntiTheist,Razbuten,1
+97,AntiTheist,Vsauce,4
+98,AntiTheist,Larry Bundy Jr,4
+99,AntiTheist,History Buffs,5
+100,AntiTheist,Foundation for Economic Education,18
+101,AntiTheist,PowerfulJRE,37
+102,AntiTheist,Rolling Stone,9
+103,AntiTheist,Jubilee,3
+104,AntiTheist,CTFORUM,7
+105,AntiTheist,Talks at Google,3
+106,AntiTheist,Chicago Humanities Festival,3
+107,AntiTheist,Kurzgesagt – In a Nutshell,5
+108,AntiTheist,Josh Keefe,10
+109,AntiTheist,Samination,1
+110,AntiTheist,CrashCourse,2
+111,AntiTheist,BBC Newsnight,2
+112,AntiTheist,BibleProject,1
+113,AntiTheist,YaleCourses,6
+114,AntiTheist,Chael Sonnen,1
+115,AntiTheist,UWinnipeg,2
+116,AntiTheist,MyAllnew,1
+117,AntiTheist,Big Think,5
+118,AntiTheist,Johnny Bigger,1
+119,AntiTheist,American Battlefield Trust,9
+120,AntiTheist,jimgaffigan,5
+121,AntiTheist,ReasonTV,1
+122,AntiTheist,Telltale,28
+123,AntiTheist,Dry Bar Comedy,1
+124,AntiTheist,Technology Connections,1
+125,AntiTheist,jtskr25,1
+126,AntiTheist,Rolling EarthShip,2
+127,AntiTheist,Ben Eater,1
+128,AntiTheist,Nostalgia Nerd,1
+129,AntiTheist,Sam Harris,14
+130,AntiTheist,Real Time with Bill Maher,6
+131,AntiTheist,Atheist Foundation of Australia Inc,2
+132,AntiTheist,Gravitahn,1
+133,AntiTheist,Tom Bilyeu,3
+134,AntiTheist,First Congregational Church of LA,3
+135,AntiTheist,Lewis Howes,1
+136,AntiTheist,IslamMovie,1
+137,AntiTheist,Center for Inquiry,4
+138,AntiTheist,mahalodotcom,1
+139,AntiTheist,Skeptic,8
+140,AntiTheist,Freethought Arizona,1
+141,AntiTheist,Steve Shives,28
+142,AntiTheist,Lore Reloaded,3
+143,AntiTheist,Picard + Discovery Fandom,1
+144,AntiTheist,AngryJoeShow,1
+145,AntiTheist,MauLer,4
+146,AntiTheist,Little Moments T.V,1
+147,AntiTheist,Midnight's Edge,2
+148,AntiTheist,Jessie Gender,1
+149,AntiTheist,H3 Podcast,5
+150,AntiTheist,Repzilla,1
+151,AntiTheist,The Right Opinion,1
+152,AntiTheist,The Spiffing Brit,1
+153,AntiTheist,Chris Hansen,2
+154,AntiTheist,Repzion,1
+155,AntiTheist,Stevie Wolfe,1
+156,AntiTheist,RedLetterMedia,6
+157,AntiTheist,World's Strictest Parents,1
+158,AntiTheist,Yahoo Finance,1
+159,AntiTheist,Dr. Todd Grande,1
+160,AntiTheist,60 Minutes Australia,5
+161,AntiTheist,NFKRZ,1
+162,AntiTheist,The Agenda with Steve Paikin,2
+163,AntiTheist,Ben The Benevolent,1
+164,AntiTheist,Diego Cumplido,1
+165,AntiTheist,abcqanda,2
+166,AntiTheist,The Radical Revolution,2
+167,AntiTheist,MovementMaterial,3
+168,AntiTheist,Cult of Dusty,1
+169,AntiTheist,Inside Edition,1
+170,AntiTheist,Talk Heathen,6
+171,AntiTheist,The Late Show with Stephen Colbert,10
+172,AntiTheist,Brian Tyler Cohen,5
+173,AntiTheist,NBC News,6
+174,AntiTheist,NowThis News,3
+175,AntiTheist,Sandre The Teacher,1
+176,AntiTheist,Fraser Cain,2
+177,AntiTheist,Great Big Story,1
+178,AntiTheist,Brown University,2
+179,AntiTheist,CBC,10
+180,AntiTheist,CGP Grey,21
+181,AntiTheist,Lex Fridman,7
+182,AntiTheist,Closer To Truth,10
+183,AntiTheist,ProZD,1
+184,AntiTheist,Stanford Institute for Economic Policy Research (SIEPR),5
+185,AntiTheist,The Aspen Institute,8
+186,AntiTheist,Encore +,3
+187,AntiTheist,socratesinthecity,10
+188,AntiTheist,World Science Festival,10
+189,AntiTheist,Space & The Universe HD,2
+190,AntiTheist,American Museum of Natural History,3
+191,AntiTheist,Martymer 81,26
+192,AntiTheist,Darwin Hobbs - Topic,1
+193,AntiTheist,Viced Rhino,2
+194,AntiTheist,Ligonier Ministries,2
+195,AntiTheist,Closeted Claustrophobe,3
+196,AntiTheist,The Institute of Art and Ideas,2
+197,AntiTheist,Matteo Zilli,1
+198,AntiTheist,This Will Destroy You - Topic,1
+199,AntiTheist,Telltale Podcast,2
+200,AntiTheist,Hannah and Jake,10
+201,AntiTheist,Sybreed - Topic,1
+202,AntiTheist,Larry King,1
+203,AntiTheist,Friendly Atheist,5
+204,AntiTheist,iilluminaughtii,1
+205,AntiTheist,NateTalksToYou,12
+206,AntiTheist,Birdman,1
+207,AntiTheist,PewDiePie,3
+208,AntiTheist,Pyrocynical,1
+209,AntiTheist,Pop Culture Detective,2
+210,AntiTheist,Dr Shaym,1
+211,AntiTheist,Lo Strano Tipo,1
+212,AntiTheist,Good Morning Britain,2
+213,AntiTheist,CosmicSkeptic,19
+214,AntiTheist,Fredrik Knudsen,2
+215,AntiTheist,John Cedars,28
+216,AntiTheist,Official W5,2
+217,AntiTheist,UTOMIK,1
+218,AntiTheist,xwynns,1
+219,AntiTheist,The Kino Corner,1
+220,AntiTheist,YouTube Movies,32
+221,AntiTheist,Vance Gilbert,2
+222,AntiTheist,Renegade Cut,1
+223,AntiTheist,Breakfast Club Power 105.1 FM,1
+224,AntiTheist,Amazing Atheist,4
+225,AntiTheist,Todd in the Shadows,3
+226,AntiTheist,Cinemassacre,2
+227,AntiTheist,Rebecca Watson,3
+228,AntiTheist,Sabine Hossenfelder,1
+229,AntiTheist,Amanpour and Company,4
+230,AntiTheist,Johnny Harris,3
+231,AntiTheist,Polygon,1
+232,AntiTheist,The Uma Show,1
+233,AntiTheist,Late Night with Seth Meyers,4
+234,AntiTheist,Jeff Holiday,2
+235,AntiTheist,YourMovieSucksDOTorg,1
+236,AntiTheist,The Pondering Primate,1
+237,AntiTheist,British GQ,1
+238,AntiTheist,AIU-Resurrection,3
+239,AntiTheist,Vinheteiro,1
+240,AntiTheist,TVO Docs,5
+241,AntiTheist,GQ,6
+242,AntiTheist,John Anderson,1
+243,AntiTheist,Skavlan,1
+244,AntiTheist,The Heritage Foundation,1
+245,AntiTheist,Saddleback Church,1
+246,AntiTheist,BuzzFeedVideo,2
+247,AntiTheist,Vanity Fair,3
+248,AntiTheist,CBC News,1
+249,AntiTheist,NBC New York,2
+250,AntiTheist,The Met,1
+251,AntiTheist,Moyers & Company,2
+252,AntiTheist,Kevin O'Leary,2
+253,AntiTheist,The Fifth Estate,1
+254,AntiTheist,iERA,4
+255,AntiTheist,llliquidDiamonds,1
+256,AntiTheist,vitaloneorg,1
+257,AntiTheist,The New York Times,1
+258,AntiTheist,Carmelo Anthony,3
+259,AntiTheist,OxfordUnion,2
+260,AntiTheist,CNBC,1
+261,AntiTheist,Overly Sarcastic Productions,1
+262,AntiTheist,Civic Lab,1
+263,AntiTheist,Epic History TV,3
+264,AntiTheist,That Atheist Guy,3
+265,AntiTheist,Internet Historian,2
+266,AntiTheist,Professor Stick,1
+267,AntiTheist,LiveTalksLA,7
+268,AntiTheist,StarTalk,1
+269,AntiTheist,CDN,1
+270,AntiTheist,Unveiled,1
+271,AntiTheist,Jimmy Carr,9
+272,AntiTheist,Screen Rant,3
+273,AntiTheist,Axanar,1
+274,AntiTheist,Commonwealth Club,2
+275,AntiTheist,Mr Sunday Movies,1
+276,AntiTheist,Mr. Sci-Fi,1
+277,AntiTheist,Daryl Talks Games,1
+278,AntiTheist,Zane,1
+279,AntiTheist,blameitonjorge,1
+280,AntiTheist,Wisecrack,3
+281,AntiTheist,The Film Theorists,1
+282,AntiTheist,Mama Doctor Jones,1
+283,AntiTheist,Spark,1
+284,AntiTheist,Fixed Point Foundation,4
+285,AntiTheist,Anna Akana,1
+286,AntiTheist,M Czerna,1
+287,AntiTheist,Some More News,1
+288,AntiTheist,Isaac Arthur,1
+289,AntiTheist,tiffanyferg,1
+290,AntiTheist,truTV,1
+291,AntiTheist,The Sun,2
+292,AntiTheist,CBC News: The National,2
+293,AntiTheist,Washington Week,1
+294,AntiTheist,Second Thought,3
+295,AntiTheist,Noel Plum,2
+296,AntiTheist,PBS NewsHour,1
+297,AntiTheist,We Heart Lives,1
+298,AntiTheist,Kraut,1
+299,AntiTheist,StoryDive,1
+300,AntiTheist,Grow Successful,1
+301,AntiTheist,- Cogito -,6
+302,AntiTheist,MovieFlame,1
+303,AntiTheist,Making Music magazine,1
+304,AntiTheist,MotivationHub,1
+305,AntiTheist,Riff Ninja Productions,1
+306,AntiTheist,Two Minute Music Theory,1
+307,AntiTheist,UNCA Ramsey Library Video Production,2
+308,AntiTheist,John L. Brooks,1
+309,AntiTheist,Christ Community Chapel,2
+310,AntiTheist,mediamatters4america,1
+311,AntiTheist,Saturday Night Live,1
+312,AntiTheist,Netflix Is A Joke,1
+313,AntiTheist,Just For Laughs,1
+314,AntiTheist,J.J. McCullough,6
+315,AntiTheist,Capturing Christianity,1
+316,AntiTheist,The Oriental Institute,1
+317,AntiTheist,St Paul's Cathedral,1
+318,AntiTheist,Kenneth Copeland Ministries,1
+319,AntiTheist,King Crocoduck,4
+320,AntiTheist,Answers in Genesis,2
+321,AntiTheist,The NonSequitur Show,1
+322,AntiTheist,Steve McRae,1
+323,AntiTheist,Intelligence Squared,1
+324,AntiTheist,Hendrik Boerenerf,1
+325,AntiTheist,TrekCulture,1
+326,AntiTheist,Mike Johnson,1
+327,AntiTheist,Ketwolski,1
+328,AntiTheist,The Delve,1
+329,AntiTheist,Motivation Madness,1
+330,AntiTheist,Jody Mac,1
+331,AntiTheist,Town Hall Seattle,2
+332,AntiTheist,Perimeter Institute for Theoretical Physics,1
+333,AntiTheist,Baldy Catz,1
+334,AntiTheist,abasement,1
+335,AntiTheist,Genetically Modified Skeptic,3
+336,AntiTheist,RTÉ - IRELAND’S NATIONAL PUBLIC SERVICE MEDIA,2
+337,AntiTheist,melodysheep,1
+338,AntiTheist,Clamavi De Profundis,1
+339,AntiTheist,Numberphile,1
+340,AntiTheist,It's Okay To Be Smart,1
+341,AntiTheist,SMAADallas,1
+342,AntiTheist,The VR Sessions,1
+343,AntiTheist,Loudwire,4
+344,AntiTheist,Metal Grasshopper,1
+345,AntiTheist,Luca Pasquale,1
+346,AntiTheist,Sky News Australia,1
+347,AntiTheist,FFRF,2
+348,AntiTheist,Bantaawan lagundong,1
+349,AntiTheist,ChristopherHitchslap,1
+350,AntiTheist,Richard Dawkins Foundation for Reason & Science,1
+351,AntiTheist,Melvin Olontha,1
+352,AntiTheist,LaughPlanet,1
+353,AntiTheist,Adam Carolla,1
+354,AntiTheist,The Veritas Forum,2
+355,AntiTheist,Living Waters,1
+356,AntiTheist,UW Video,1
+357,AntiTheist,Gapminder Foundation,1
+358,AntiTheist,Andrew DC TV,1
+359,AntiTheist,bill wurtz,1
+360,AntiTheist,The Salvation Army Kroc Center,1
+361,AntiTheist,Tom Scott,1
+362,AntiTheist,History Matters,1
+363,AntiTheist,LPPFusion,1
+364,AntiTheist,OverSimplified,1
+365,AntiTheist,Real Engineering,1
+366,AntiTheist,Today I Found Out,1
+367,AntiTheist,Derek Van Schaik,1
+368,AntiTheist,WIRED,1
+369,AntiTheist,NASA,1
+370,AntiTheist,First We Feast,1
+371,AntiTheist,Skip and Shannon: UNDISPUTED,1
+372,AntiTheist,HSD Social Media,1
+373,AntiTheist,CinemaSins,1
+374,AntiTheist,APQ Online,1
+375,AntiTheist,Cynical Reviews,1
+376,AntiTheist,Seboss12,1
+377,AntiTheist,Cvit,1
+378,AntiTheist,Timcast IRL,1

@@ -1,171 +1,441 @@
-,Category,Next Channel,Probability
-0,Educational News,Carpe Donktum,0.026984126984126985
-1,Educational News,The Howard Stern Show,0.0015873015873015873
-2,Educational News,DESUS & MERO on SHOWTIME,0.0015873015873015873
-3,Educational News,Fox News,0.13174603174603175
-4,Educational News,GQ,0.015873015873015872
-5,Educational News,The Late Show with Stephen Colbert,0.004761904761904762
-6,Educational News,David Perkins,0.0015873015873015873
-7,Educational News,Nicki Swift,0.0015873015873015873
-8,Educational News,Evening Standard,0.0015873015873015873
-9,Educational News,KiSS RADiO,0.0015873015873015873
-10,Educational News,The Amazing Lucas,0.0015873015873015873
-11,Educational News,The Humanist Report,0.0015873015873015873
-12,Educational News,Josh Gad,0.012698412698412698
-13,Educational News,TooManyWeaponz,0.0015873015873015873
-14,Educational News,LevinTV,0.0015873015873015873
-15,Educational News,The Damage Report,0.0015873015873015873
-16,Educational News,The Daily Wire,0.0015873015873015873
-17,Educational News,jimgaffigan,0.01904761904761905
-18,Educational News,Reagan Library,0.006349206349206349
-19,Educational News,Saturday Night Live,0.0015873015873015873
-20,Educational News,FOX 13 News Utah,0.0015873015873015873
-21,Educational News,Rodney Dangerfield,0.0031746031746031746
-22,Educational News,Hillsdale College,0.004761904761904762
-23,Educational News,The Oriental Institute,0.0031746031746031746
-24,Educational News,Dustin Warncke,0.006349206349206349
-25,Educational News,MotivationHub,0.0031746031746031746
-26,Educational News,WIRED UK,0.0015873015873015873
-27,Educational News,MSNBC,0.006349206349206349
-28,Educational News,HooverInstitution,0.12063492063492064
-29,Educational News,PowerfulJRE,0.1126984126984127
-30,Educational News,Project Veritas Action,0.01904761904761905
-31,Educational News,92nd Street Y,0.0015873015873015873
-32,Educational News,TEDx Talks,0.004761904761904762
-33,Educational News,socratesinthecity,0.0031746031746031746
-34,Educational News,Lewis Howes,0.0031746031746031746
-35,Educational News,Senator Ted Cruz,0.0015873015873015873
-36,Educational News,Fox Business,0.0015873015873015873
-37,Educational News,TED,0.0031746031746031746
-38,Educational News,Talk Heathen,0.0015873015873015873
-39,Educational News,LastWeekTonight,0.011111111111111112
-40,Educational News,CNN Business,0.0015873015873015873
-41,Educational News,3Blue1Brown,0.0015873015873015873
-42,Educational News,Moyers & Company,0.007936507936507936
-43,Educational News,The Rubin Report,0.006349206349206349
-44,Educational News,CNN,0.0031746031746031746
-45,Educational News,Pawn Stars,0.0031746031746031746
-46,Educational News,Phil Robertson,0.0015873015873015873
-47,Educational News,Viva Frei,0.0031746031746031746
-48,Educational News,Matt Christiansen,0.0015873015873015873
-49,Educational News,Politics and Prose,0.0031746031746031746
-50,Educational News,WLWT,0.007936507936507936
-51,Educational News,Jordan B Peterson,0.007936507936507936
-52,Educational News,AmRen Podcasts,0.0031746031746031746
-53,Educational News,Room for Discussion,0.0015873015873015873
-54,Educational News,Levy Economics Institute,0.0015873015873015873
-55,Educational News,EdChoice,0.0031746031746031746
-56,Educational News,TVO Docs,0.004761904761904762
-57,Educational News,DW Documentary,0.004761904761904762
-58,Educational News,ReaganFoundation,0.0015873015873015873
-59,Educational News,Learn Liberty,0.0031746031746031746
-60,Educational News,The New School,0.0015873015873015873
-61,Educational News,Rolling Stone,0.0031746031746031746
-62,Educational News,OxfordUnion,0.0031746031746031746
-63,Educational News,BBC Newsnight,0.0015873015873015873
-64,Educational News,Larry Elder with Epoch Times,0.0015873015873015873
-65,Educational News,The Zero Hour with RJ Eskow,0.011111111111111112
-66,Educational News,NBC News,0.009523809523809525
-67,Educational News,Sky News Australia,0.020634920634920634
-68,Educational News,House Republican,0.0015873015873015873
-69,Educational News,PBS NewsHour,0.004761904761904762
-70,Educational News,Digiday,0.0015873015873015873
-71,Educational News,Ask A Mortician,0.0015873015873015873
-72,Educational News,The People,0.0015873015873015873
-73,Educational News,lordravenhill,0.0015873015873015873
-74,Educational News,Simulation,0.0015873015873015873
-75,Educational News,Patriot Act,0.0015873015873015873
-76,Educational News,Al Jazeera English,0.0015873015873015873
-77,Educational News,Cizik School of Nursing,0.0015873015873015873
-78,Educational News,Akkad Daily,0.014285714285714285
-79,Educational News,Jimmy Carr,0.01904761904761905
-80,Educational News,RedLetterMedia,0.011111111111111112
-81,Educational News,Vox,0.0015873015873015873
-82,Educational News,YouTube,0.0031746031746031746
-83,Educational News,George Carlin Official YouTube Channel,0.0015873015873015873
-84,Educational News,Channel 4 News,0.0031746031746031746
-85,Educational News,Leo Ashe,0.004761904761904762
-86,Educational News,Kitboga,0.0015873015873015873
-87,Educational News,Skavlan,0.007936507936507936
-88,Educational News,Studio 10,0.011111111111111112
-89,Educational News,Nathan Rojas,0.0015873015873015873
-90,Educational News,Zócalo Public Square,0.0015873015873015873
-91,Educational News,Rock & Roll Hall of Fame,0.0015873015873015873
-92,Educational News,Daveswildcamping,0.0015873015873015873
-93,Educational News,CBC News: The National,0.004761904761904762
-94,Educational News,British GQ,0.0015873015873015873
-95,Educational News,ReasonTV,0.004761904761904762
-96,Educational News,Foundation for Economic Education,0.023809523809523808
-97,Educational News,The Spiffing Brit,0.004761904761904762
-98,Educational News,Jake Baskinger,0.0015873015873015873
-99,Educational News,Mark Rober,0.004761904761904762
-100,Educational News,Everyday Astronaut,0.0015873015873015873
-101,Educational News,Real Time with Bill Maher,0.0015873015873015873
-102,Educational News,Atomic Shrimp,0.0031746031746031746
-103,Educational News,Charisma on Command,0.0031746031746031746
-104,Educational News,9 News Australia,0.011111111111111112
-105,Educational News,NowThis News,0.004761904761904762
-106,Educational News,The Telegraph,0.0015873015873015873
-107,Educational News,BMOnus,0.006349206349206349
-108,Educational News,Invicta,0.0015873015873015873
-109,Educational News,Bononza,0.0015873015873015873
-110,Educational News,ABC News (Australia),0.0031746031746031746
-111,Educational News,Derek Van Schaik,0.004761904761904762
-112,Educational News,Eric Garcetti,0.009523809523809525
-113,Educational News,ABC7 News Bay Area,0.0031746031746031746
-114,Educational News,The Tribe India Official,0.0015873015873015873
-115,Educational News,truTV,0.0031746031746031746
-116,Educational News,Fort Worth Star-Telegram,0.0015873015873015873
-117,Educational News,First Coast News,0.0015873015873015873
-118,Educational News,Liberty University,0.0031746031746031746
-119,Educational News,First We Feast,0.0015873015873015873
-120,Educational News,abcqanda,0.0031746031746031746
-121,Educational News,LaughPlanet,0.006349206349206349
-122,Educational News,Sky News,0.0015873015873015873
-123,Educational News,KMBC 9,0.0031746031746031746
-124,Educational News,CBS News,0.0031746031746031746
-125,Educational News,The Symposium,0.0031746031746031746
-126,Educational News,PewDiePie,0.0015873015873015873
-127,Educational News,InfernoPlus,0.0015873015873015873
-128,Educational News,Jubilee,0.0015873015873015873
-129,Educational News,11Alive,0.0015873015873015873
-130,Educational News,NBCLA,0.0015873015873015873
-131,Educational News,USA TODAY,0.0031746031746031746
-132,Educational News,Fire Films,0.006349206349206349
-133,Educational News,SHOWTIME,0.0015873015873015873
-134,Educational News,agadmator's Chess Channel,0.0031746031746031746
-135,Educational News,The World of Boxing!,0.0015873015873015873
-136,Educational News,John Bartholomew,0.0031746031746031746
-137,Educational News,ABC News,0.0015873015873015873
-138,Educational News,Jocko Podcast,0.0015873015873015873
-139,Educational News,CBC Vancouver,0.0015873015873015873
-140,Educational News,Washington Post,0.0031746031746031746
-141,Educational News,Markiplier,0.0015873015873015873
-142,Educational News,Nick Lutsko,0.0015873015873015873
-143,Educational News,Professor Dave Explains,0.0015873015873015873
-144,Educational News,Channel Awesome,0.0015873015873015873
-145,Educational News,CGP Grey,0.0015873015873015873
-146,Educational News,The Mechanic Shark Channel,0.0015873015873015873
-147,Educational News,MauLer,0.0015873015873015873
-148,Educational News,Triggernometry,0.0015873015873015873
-149,Educational News,ProductiehuisEU,0.0015873015873015873
-150,Educational News,Ricky Gervais,0.0015873015873015873
-151,Educational News,Donut Media,0.0015873015873015873
-152,Educational News,Channel 4,0.0015873015873015873
-153,Educational News,History Buffs,0.0015873015873015873
-154,Educational News,CNBC Prime,0.0015873015873015873
-155,Educational News,Half as Interesting,0.0015873015873015873
-156,Educational News,Sargon of Cincinnati,0.0015873015873015873
-157,Educational News,YouTube Movies,0.0015873015873015873
-158,Educational News,The Pat McAfee Show,0.0015873015873015873
-159,Educational News,MrBeast,0.0015873015873015873
-160,Educational News,Variety,0.0015873015873015873
-161,Educational News,TODAY,0.0015873015873015873
-162,Educational News,George Harrison,0.0015873015873015873
-163,Educational News,Christ Community Chapel,0.0015873015873015873
-164,Educational News,The Act Man,0.0015873015873015873
-165,Educational News,Gabriel Iglesias,0.0015873015873015873
-166,Educational News,Good Mythical Morning,0.0015873015873015873
-167,Educational News,Josh Hawley,0.0015873015873015873
-168,Educational News,Christo Aivalis,0.0015873015873015873
-169,Educational News,Late Night with Seth Meyers,0.0015873015873015873
+,Category,Next Channel,Count
+0,Provocateur,Russell Brand,44
+1,Provocateur,YouTube,82
+2,Provocateur,Long Now Foundation,1
+3,Provocateur,Sadhguru,2
+4,Provocateur,PowerfulJRE,38
+5,Provocateur,First We Feast,8
+6,Provocateur,The Rubin Report,13
+7,Provocateur,Tom Bilyeu,1
+8,Provocateur,Shemaroo Spiritual Life,1
+9,Provocateur,Center for Inquiry,6
+10,Provocateur,TEDx Talks,5
+11,Provocateur,The Sun,2
+12,Provocateur,Therealizedman,8
+13,Provocateur,Funny Compilations,9
+14,Provocateur,Comedy Central UK,1
+15,Provocateur,The Jayleno Fly,5
+16,Provocateur,Alan Carr: Chatty Man,4
+17,Provocateur,BBC Newsnight,4
+18,Provocateur,Patriot Act,4
+19,Provocateur,Akkad Daily,21
+20,Provocateur,Skavlan,13
+21,Provocateur,YellowFlash 2,1
+22,Provocateur,StevenCrowder,24
+23,Provocateur,HooverInstitution,60
+24,Provocateur,Fox News,206
+25,Provocateur,Studio 10,14
+26,Provocateur,MILO,12
+27,Provocateur,CNBC,7
+28,Provocateur,Gravitahn,14
+29,Provocateur,Real Time with Bill Maher,19
+30,Provocateur,MovementMaterial,24
+31,Provocateur,Furry Memes,1
+32,Provocateur,The Fallen State,1
+33,Provocateur,YouTube Movies,2
+34,Provocateur,Room for Discussion,20
+35,Provocateur,Acnologia,5
+36,Provocateur,Jeremy Vine on 5 - Official Channel,6
+37,Provocateur,Fire Films,19
+38,Provocateur,Dayzer Husky,1
+39,Provocateur,Heidelberger Symposium,2
+40,Provocateur,The Invisible Man,6
+41,Provocateur,Team Coco,2
+42,Provocateur,Valuetainment,12
+43,Provocateur,UnHerd,2
+44,Provocateur,Sargon of Akkad Live,11
+45,Provocateur,Sargon of Akkad,12
+46,Provocateur,Foundation for Economic Education,79
+47,Provocateur,Revenge Of The Cis,39
+48,Provocateur,Channel 4 News,2
+49,Provocateur,,3
+50,Provocateur,Project Veritas Action,5
+51,Provocateur,Paul Joseph Watson,8
+52,Provocateur,Jocko Podcast,14
+53,Provocateur,Kevin O'Leary,5
+54,Provocateur,Tyrone Magnus,2
+55,Provocateur,Project Veritas,8
+56,Provocateur,Leadership Institute,6
+57,Provocateur,Trigger Happy Media,1
+58,Provocateur,Domination Station,12
+59,Provocateur,LastWeekTonight,5
+60,Provocateur,The Late Late Show,1
+61,Provocateur,Jesse Lee Peterson,3
+62,Provocateur,MillionDollarExtreme2,7
+63,Provocateur,Kirix,3
+64,Provocateur,thankscomputer,2
+65,Provocateur,madworld tv,1
+66,Provocateur,Comedy Central,11
+67,Provocateur,Juventinita: Back to Black and White,4
+68,Provocateur,taggerung,2
+69,Provocateur,The Vomit,2
+70,Provocateur,Just For Laughs,4
+71,Provocateur,Bombstrap,1
+72,Provocateur,Michael Bernhardt,4
+73,Provocateur,Shootin Shark,1
+74,Provocateur,Alienmode,4
+75,Provocateur,abcqanda,33
+76,Provocateur,MDEneverdies,3
+77,Provocateur,jaxhunt,2
+78,Provocateur,lil shitpost [MDE.TV],8
+79,Provocateur,Carpe Donktum,20
+80,Provocateur,Charisma on Command,16
+81,Provocateur,Birdman,1
+82,Provocateur,George Carlin Official YouTube Channel,8
+83,Provocateur,LaughPlanet,10
+84,Provocateur,America First with Sebastian Gorka,21
+85,Provocateur,Jimmy Carr,21
+86,Provocateur,Triggered Newscast,5
+87,Provocateur,CrowderBits,7
+88,Provocateur,JRE Clips,15
+89,Provocateur,The Officer Tatum,12
+90,Provocateur,Tariq Radio,9
+91,Provocateur,REVOLT TV,3
+92,Provocateur,Breakfast Club Power 105.1 FM,12
+93,Provocateur,GQ,3
+94,Provocateur,KING RASHIDI,3
+95,Provocateur,NBC News,11
+96,Provocateur,Chicago Humanities Festival,5
+97,Provocateur,Portland State University,2
+98,Provocateur,Comedy Hype,5
+99,Provocateur,Jonathan R Whitfield,1
+100,Provocateur,Ben Shapiro,10
+101,Provocateur,Netflix Is A Joke,5
+102,Provocateur,Now You See It,1
+103,Provocateur,British GQ,1
+104,Provocateur,Professor Dave Explains,5
+105,Provocateur,Sky News Australia,4
+106,Provocateur,talkRADIO,9
+107,Provocateur,Dame Pesos,4
+108,Provocateur,Jeff Taylor,2
+109,Provocateur,SavedBy,2
+110,Provocateur,SJWCentral,4
+111,Provocateur,Italian Wine Podcast,11
+112,Provocateur,Fleccas Talks,2
+113,Provocateur,Cant Get Right with Kurt Metzger,1
+114,Provocateur,The Late Show with Stephen Colbert,3
+115,Provocateur,FATPOS189,2
+116,Provocateur,HydeWars,3
+117,Provocateur,Channel 4,4
+118,Provocateur,Anything Goes With James English,1
+119,Provocateur,Bioneers,2
+120,Provocateur,Late Night with Seth Meyers,3
+121,Provocateur,Johnny Bigger,2
+122,Provocateur,The Tonight Show Starring Jimmy Fallon,1
+123,Provocateur,The Symposium,2
+124,Provocateur,Sam O'Nella Academy,1
+125,Provocateur,Runesmith,1
+126,Provocateur,Rimmy - Downunder Gaming,1
+127,Provocateur,Learn Liberty,2
+128,Provocateur,THE REAL BRAD LEA,1
+129,Provocateur,60 Minutes Australia,3
+130,Provocateur,Trigger Warning Media,1
+131,Provocateur,Sovereign Nations,1
+132,Provocateur,The Book Club,49
+133,Provocateur,Feulingnightmare,1
+134,Provocateur,Maximilien Robespierre,5
+135,Provocateur,RoiialPain,1
+136,Provocateur,ABC13 Houston,1
+137,Provocateur,NBC New York,12
+138,Provocateur,MommyRamblingsBlog,2
+139,Provocateur,Screen Rant,1
+140,Provocateur,BlazeTV,1
+141,Provocateur,Rebel HQ,1
+142,Provocateur,jimgaffigan,9
+143,Provocateur,The Real News Network,21
+144,Provocateur,Sargon of Cincinnati,1
+145,Provocateur,Newsmax TV,5
+146,Provocateur,MrBeast,1
+147,Provocateur,ReasonTV,1
+148,Provocateur,Cinemassacre,1
+149,Provocateur,AngryJoeShow,3
+150,Provocateur,Talks at Google,2
+151,Provocateur,FGTeeV,1
+152,Provocateur,illegalalien2,2
+153,Provocateur,The National,1
+154,Provocateur,Ana Ramírez,3
+155,Provocateur,Think Club,3
+156,Provocateur,Who Wants To Be A Millionaire?,1
+157,Provocateur,WatchTheDaily,4
+158,Provocateur,Warp Records,1
+159,Provocateur,Triggerd,4
+160,Provocateur,Sargent House,1
+161,Provocateur,Atun-Shei Films,1
+162,Provocateur,Izm Radio,7
+163,Provocateur,WYCC PBS Chicago,2
+164,Provocateur,1453malcolmx,4
+165,Provocateur,YP INSTAGRAM LIVE,1
+166,Provocateur,Brandy,1
+167,Provocateur,Brown University,4
+168,Provocateur,MSNBC,3
+169,Provocateur,BlessedBeatz Media,1
+170,Provocateur,djvlad,2
+171,Provocateur,Young Money Radio,1
+172,Provocateur,MTV News,1
+173,Provocateur,The School of Life,1
+174,Provocateur,Donald Glover,1
+175,Provocateur,KeyboardKramer,5
+176,Provocateur,Secular Talk,2
+177,Provocateur,The Radical Revolution,1
+178,Provocateur,Philosophy Tube,2
+179,Provocateur,The Dick Show,13
+180,Provocateur,Strat-Edgy Productions,1
+181,Provocateur,The Critical Drinker,1
+182,Provocateur,Internet Historian: Incognito Mode,1
+183,Provocateur,SciManDan,1
+184,Provocateur,MandaloreGaming,1
+185,Provocateur,RedLetterMedia,6
+186,Provocateur,HOT 97,4
+187,Provocateur,Eric Weinstein,2
+188,Provocateur,Odd Salon,1
+189,Provocateur,The Laura Flanders Show,1
+190,Provocateur,YOUNG PHARAOH,1
+191,Provocateur,"Jill Wener, MD- The Meditating Doctor",1
+192,Provocateur,Aba & Preach,3
+193,Provocateur,Universal Comedy,2
+194,Provocateur,PewDiePie,1
+195,Provocateur,Mayor Ted Wheeler,17
+196,Provocateur,Timcast IRL,2
+197,Provocateur,Timcast,1
+198,Provocateur,CSCJB,1
+199,Provocateur,ClangersTV,2
+200,Provocateur,All Gas No Brakes,4
+201,Provocateur,Kitboga,1
+202,Provocateur,Mummy Napkin,1
+203,Provocateur,The Jimmy Dore Show,1
+204,Provocateur,Million Dollar Extreme 3,1
+205,Provocateur,Gavin McInnes,10
+206,Provocateur,As/Is,1
+207,Provocateur,Get a Job,1
+208,Provocateur,penguinz0,1
+209,Provocateur,CensoredTV,4
+210,Provocateur,Rebel News,3
+211,Provocateur,VAULT,1
+212,Provocateur,cer spence,2
+213,Provocateur,H3 Podcast Highlights,1
+214,Provocateur,Jericho Green,1
+215,Provocateur,Censored Movie,1
+216,Provocateur,Avi Yemini,8
+217,Provocateur,Washington Post,1
+218,Provocateur,CBC News,1
+219,Provocateur,Nicki Swift,1
+220,Provocateur,Senator Ted Cruz,4
+221,Provocateur,Dinesh D'Souza,12
+222,Provocateur,FOX 10 Phoenix,2
+223,Provocateur,The Eric Metaxas Radio Show,1
+224,Provocateur,PragerU,5
+225,Provocateur,Anthony Brian Logan,3
+226,Provocateur,Razbuten,1
+227,Provocateur,Comedy Unleashed,1
+228,Provocateur,ideasman69,7
+229,Provocateur,Thoughty2,1
+230,Provocateur,Skam Boys,1
+231,Provocateur,bbcNolan,1
+232,Provocateur,tlc uk,1
+233,Provocateur,ReyRoSho,10
+234,Provocateur,TheAlmonteFilms,3
+235,Provocateur,Theo Von,3
+236,Provocateur,RTÉ - IRELAND’S NATIONAL PUBLIC SERVICE MEDIA,1
+237,Provocateur,Culture Of Music,1
+238,Provocateur,Zane,5
+239,Provocateur,John Paul Sears,1
+240,Provocateur,The Truth,1
+241,Provocateur,CBS New York,1
+242,Provocateur,Noisey,2
+243,Provocateur,inteNsifyCharts,1
+244,Provocateur,AmRen Podcasts,1
+245,Provocateur,TVO Docs,3
+246,Provocateur,Nicole Sandler,5
+247,Provocateur,VIBE Magazine,1
+248,Provocateur,American Renaissance,2
+249,Provocateur,John Anderson,2
+250,Provocateur,Vic Berger,1
+251,Provocateur,CBC,1
+252,Provocateur,DenialDeceitDelusion,1
+253,Provocateur,reelblack,1
+254,Provocateur,i24NEWS English,2
+255,Provocateur,Ryan Walker,4
+256,Provocateur,Kurzgesagt – In a Nutshell,2
+257,Provocateur,CGP Grey,7
+258,Provocateur,LibertyPen,2
+259,Provocateur,Bret Weinstein,5
+260,Provocateur,WordToTheWise,1
+261,Provocateur,YAFTV,4
+262,Provocateur,New Book of Daniel,2
+263,Provocateur,Bluewolf 23,1
+264,Provocateur,UKIP,2
+265,Provocateur,University of Notre Dame,1
+266,Provocateur,TYT Sports,1
+267,Provocateur,WE GOT A PROBLEM,3
+268,Provocateur,Official Jim Cornette,8
+269,Provocateur,American Battlefield Trust,6
+270,Provocateur,Nerdstalgic,1
+271,Provocateur,Enigma,2
+272,Provocateur,Bostic Reiva,1
+273,Provocateur,Internet Historian,2
+274,Provocateur,SΛKO,1
+275,Provocateur,AIERvideo,1
+276,Provocateur,Three Arrows,1
+277,Provocateur,GotYou Covered,1
+278,Provocateur,OxfordUnion,4
+279,Provocateur,tmcleanful,1
+280,Provocateur,Larry Elder with Epoch Times,3
+281,Provocateur,TODAY,1
+282,Provocateur,Simulation,1
+283,Provocateur,Mahyar Tousi,1
+284,Provocateur,Good Morning Britain,5
+285,Provocateur,videogamedunkey,3
+286,Provocateur,BMOnus,1
+287,Provocateur,Fox Business,3
+288,Provocateur,We Heart Lives,4
+289,Provocateur,Liberty University,5
+290,Provocateur,This Is 42,3
+291,Provocateur,MoreThanAGirl,3
+292,Provocateur,BDZ,1
+293,Provocateur,MIRZA MD ARIF,3
+294,Provocateur,Independent Institute,1
+295,Provocateur,Sleeping At Last,1
+296,Provocateur,addict.,1
+297,Provocateur,Randy Ronda,1
+298,Provocateur,es tee,1
+299,Provocateur,Marcia Wells,1
+300,Provocateur,Cyndi Lauper,1
+301,Provocateur,ChilledTideBeats,1
+302,Provocateur,Smooth Jazz All Stars - Topic,1
+303,Provocateur,JXMES VGHN,1
+304,Provocateur,ohnoitisnathan54,1
+305,Provocateur,Trap City,1
+306,Provocateur,Five Star,1
+307,Provocateur,Katie Hopkins OFFICIAL,1
+308,Provocateur,FoundFlix,1
+309,Provocateur,Andrew,1
+310,Provocateur,Utah Stories,3
+311,Provocateur,JJ Olatunji,2
+312,Provocateur,lilsimsie,2
+313,Provocateur,Antonio Prola,1
+314,Provocateur,h3h3Productions,2
+315,Provocateur,Primink,1
+316,Provocateur,Master Clipper,5
+317,Provocateur,Tattoo Hero,1
+318,Provocateur,Mass Appeal,1
+319,Provocateur,Scarce,2
+320,Provocateur,MyTalkShowHeroes,2
+321,Provocateur,Liberal Hivemind,3
+322,Provocateur,DRAGUNUV1130,1
+323,Provocateur,Thomas Petrou,1
+324,Provocateur,Novara Media,1
+325,Provocateur,Sienna Santer,1
+326,Provocateur,Kayla Marie Michaud,1
+327,Provocateur,Mute,1
+328,Provocateur,M Czerna,1
+329,Provocateur,WILTY? Nope!,1
+330,Provocateur,Coleman Hughes,1
+331,Provocateur,Rebel Wisdom,2
+332,Provocateur,Computing Forever,1
+333,Provocateur,TheQuartering,1
+334,Provocateur,USA TODAY,3
+335,Provocateur,Larry King,2
+336,Provocateur,Love Lies & Lacefronts,1
+337,Provocateur,The Kino Corner,3
+338,Provocateur,HOOD POLITICS,1
+339,Provocateur,SiriusXM,3
+340,Provocateur,Cody Ko,1
+341,Provocateur,MTV Decoded,1
+342,Provocateur,Desert Hooligans,1
+343,Provocateur,9MagTV,1
+344,Provocateur,Joe Budden TV,1
+345,Provocateur,Georgetown University,1
+346,Provocateur,The Andrew Schulz,1
+347,Provocateur,مصطفى الحسناوي,1
+348,Provocateur,Howie Carr,2
+349,Provocateur,Grow Successful,1
+350,Provocateur,The Graham Norton Show,2
+351,Provocateur,Rodrigo Notari,1
+352,Provocateur,Ricky Gervais,3
+353,Provocateur,mediamatters4america,1
+354,Provocateur,CNBC Make It.,1
+355,Provocateur,Kek Wills It,1
+356,Provocateur,Stanford,1
+357,Provocateur,Create Quantum Wealth,1
+358,Provocateur,Sitting Spiritually Ltd,1
+359,Provocateur,Discovering Music,1
+360,Provocateur,Peter Schiff,1
+361,Provocateur,The Fighter and The Kid,1
+362,Provocateur,Count Dankula Streams,1
+363,Provocateur,Fredrik Knudsen,1
+364,Provocateur,Count Dankula,3
+365,Provocateur,EddieVR,1
+366,Provocateur,JOE,1
+367,Provocateur,Binging with Babish,1
+368,Provocateur,LBC,2
+369,Provocateur,Crysta,2
+370,Provocateur,Jomboy Media,1
+371,Provocateur,The Olympian Project,1
+372,Provocateur,Guga Foods,1
+373,Provocateur,Gabriel Iglesias,2
+374,Provocateur,Ali-A,1
+375,Provocateur,Jim Davidson,1
+376,Provocateur,Power Tie,1
+377,Provocateur,Vaush,18
+378,Provocateur,Asmongold TV,1
+379,Provocateur,Alpha Male Conceited Chris,1
+380,Provocateur,LegalEagle,2
+381,Provocateur,NakeyJakey,1
+382,Provocateur,ITV News,2
+383,Provocateur,Julie Nolke,1
+384,Provocateur,Mike Nayna,1
+385,Provocateur,Danny Gonzalez,1
+386,Provocateur,DAMN CUH: A Podcast,1
+387,Provocateur,ABLAZE,1
+388,Provocateur,The Beatles,1
+389,Provocateur,Konfuzion,1
+390,Provocateur,Sophie Hajirah,1
+391,Provocateur,Danzig,1
+392,Provocateur,Anastasis Tzanis,1
+393,Provocateur,DerEntscheider,1
+394,Provocateur,Jreg,1
+395,Provocateur,Wim Hof,1
+396,Provocateur,Bloggingheads.tv,1
+397,Provocateur,TED Archive,1
+398,Provocateur,The Real Daytime,1
+399,Provocateur,Welding and stuff,1
+400,Provocateur,PBS NewsHour,2
+401,Provocateur,Caroline,1
+402,Provocateur,The Simpsons,1
+403,Provocateur,The Sean Ward Show,1
+404,Provocateur,BBC News,1
+405,Provocateur,Meu Prof Video Aula,1
+406,Provocateur,Emory University,1
+407,Provocateur,The New School,1
+408,Provocateur,abasement,1
+409,Provocateur,The Economist,1
+410,Provocateur,AIB,1
+411,Provocateur,The Aspen Institute,1
+412,Provocateur,Jordan Peterson Fan Club,1
+413,Provocateur,The Big Fat Quiz Channel,1
+414,Provocateur,MysteryMeep1,1
+415,Provocateur,Max Joseph,1
+416,Provocateur,Paul Simon,1
+417,Provocateur,The Liberal Conservative,1
+418,Provocateur,Jim and Sam Show,1
+419,Provocateur,Eckhart Tolle,1
+420,Provocateur,ReaganFoundation,2
+421,Provocateur,hbomberguy,1
+422,Provocateur,Zeducation,1
+423,Provocateur,HermosaBeachJoe,1
+424,Provocateur,TheEllenShow,1
+425,Provocateur,blacktreetv,1
+426,Provocateur,The Wendy Williams Show,1
+427,Provocateur,Nick Lutsko,1
+428,Provocateur,CNN Business,1
+429,Provocateur,Beta O'Dork,1
+430,Provocateur,Onipsi,2
+431,Provocateur,Nik Nikam,1
+432,Provocateur,MrandreasFTW,1
+433,Provocateur,Morris Beerepoot,1
+434,Provocateur,Dangerfield,1
+435,Provocateur,That Atheist Guy,1
+436,Provocateur,Thought Slime,1
+437,Provocateur,Beau of the Fifth Column,1
+438,Provocateur,wavywebsurf,1
+439,Provocateur,Vikkstar123,1

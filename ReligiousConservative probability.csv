@@ -1,258 +1,394 @@
-,Category,Next Channel,Probability
-0,Educational News,Girl Defined,0.047619047619047616
-1,Educational News,Grace to You,0.004761904761904762
-2,Educational News,Lewis Howes,0.0031746031746031746
-3,Educational News,Mindvalley Talks,0.0031746031746031746
-4,Educational News,socratesinthecity,0.011111111111111112
-5,Educational News,Christ Community Chapel,0.006349206349206349
-6,Educational News,Dustin Warncke,0.0015873015873015873
-7,Educational News,kirbyisaboss,0.0015873015873015873
-8,Educational News,Beloved Women with Christina Patterson,0.0015873015873015873
-9,Educational News,Bob Ross,0.0031746031746031746
-10,Educational News,Sovereign Alliance,0.0015873015873015873
-11,Educational News,Joseph Prince,0.0015873015873015873
-12,Educational News,ReformedSeminary,0.0015873015873015873
-13,Educational News,Dose of Truth,0.011111111111111112
-14,Educational News,Thinkers,0.0015873015873015873
-15,Educational News,Jordan B Peterson,0.007936507936507936
-16,Educational News,Going Underground on RT,0.0015873015873015873
-17,Educational News,Jordan B Peterson Clips,0.0031746031746031746
-18,Educational News,TEDx Talks,0.025396825396825397
-19,Educational News,Jordan Peterson Fan Club,0.006349206349206349
-20,Educational News,Sound of Stars Frequencies,0.0015873015873015873
-21,Educational News,tvlpodcast,0.0015873015873015873
-22,Educational News,Alex Swan,0.006349206349206349
-23,Educational News,Baxylz Music,0.0015873015873015873
-24,Educational News,Personality Hacker Podcast,0.0015873015873015873
-25,Educational News,Bite-sized Philosophy,0.012698412698412698
-26,Educational News,Ontical,0.0015873015873015873
-27,Educational News,Rob Moore,0.0015873015873015873
-28,Educational News,Success Archive,0.0015873015873015873
-29,Educational News,How To Academy,0.006349206349206349
-30,Educational News,PhilosophyInsights,0.0015873015873015873
-31,Educational News,Missing The Mark,0.09206349206349207
-32,Educational News,Tom Nicholas,0.0031746031746031746
-33,Educational News,Lindsay Ellis,0.0015873015873015873
-34,Educational News,Bloggingheads.tv,0.0015873015873015873
-35,Educational News,Cuck Philosophy,0.0015873015873015873
-36,Educational News,Three Arrows,0.0015873015873015873
-37,Educational News,Phil Robertson,0.0015873015873015873
-38,Educational News,The Distributist,0.0015873015873015873
-39,Educational News,truTV,0.0015873015873015873
-40,Educational News,TomWoodsTV,0.0015873015873015873
-41,Educational News,Rodney Dangerfield,0.0015873015873015873
-42,Educational News,Sunflower Socialist,0.0015873015873015873
-43,Educational News,The Late Late Show with James Corden,0.0031746031746031746
-44,Educational News,NFL Films,0.0015873015873015873
-45,Educational News,Pawn Stars,0.0015873015873015873
-46,Educational News,Fritz Imperial,0.0015873015873015873
-47,Educational News,Derpston P Derp,0.0015873015873015873
-48,Educational News,Mouthy Buddha,0.0015873015873015873
-49,Educational News,GQ,0.007936507936507936
-50,Educational News,Mauritian Struggle,0.03015873015873016
-51,Educational News,The Atlantic,0.0015873015873015873
-52,Educational News,Doug Billings,0.0015873015873015873
-53,Educational News,Ligonier Ministries,0.0015873015873015873
-54,Educational News,The Oriental Institute,0.011111111111111112
-55,Educational News,BBC Documentary,0.0015873015873015873
-56,Educational News,IlaryRhineKlange,0.0015873015873015873
-57,Educational News,Josh Gad,0.006349206349206349
-58,Educational News,The Tabernacle Choir at Temple Square,0.0031746031746031746
-59,Educational News,Calming Music,0.0015873015873015873
-60,Educational News,DioceseOfRochester,0.0015873015873015873
-61,Educational News,Gordon Ramsay,0.006349206349206349
-62,Educational News,Bill Wiese,0.0015873015873015873
-63,Educational News,Fox News,0.006349206349206349
-64,Educational News,Professor Dave Explains,0.0015873015873015873
-65,Educational News,Jimmy Carr,0.009523809523809525
-66,Educational News,Nature Healing Society,0.0015873015873015873
-67,Educational News,NCASVideo,0.0015873015873015873
-68,Educational News,PowerfulJRE,0.014285714285714285
-69,Educational News,The Spiffing Brit,0.0031746031746031746
-70,Educational News,Jocko Podcast,0.015873015873015872
-71,Educational News,3Blue1Brown,0.0015873015873015873
-72,Educational News,Sargon of Akkad,0.0015873015873015873
-73,Educational News,Sky News Australia,0.004761904761904762
-74,Educational News,Akkad Daily,0.0015873015873015873
-75,Educational News,PMTVUK,0.0015873015873015873
-76,Educational News,ABBA,0.0031746031746031746
-77,Educational News,björk,0.0015873015873015873
-78,Educational News,Discovery Science,0.0015873015873015873
-79,Educational News,PWM,0.0015873015873015873
-80,Educational News,beegees,0.0015873015873015873
-81,Educational News,World of Warcraft,0.0031746031746031746
-82,Educational News,321 Relaxing - Meditation Relax Clips,0.0015873015873015873
-83,Educational News,Meditative Mind,0.0015873015873015873
-84,Educational News,PierceCollegeDist11,0.0015873015873015873
-85,Educational News,Mr.Within's Gift,0.004761904761904762
-86,Educational News,TED,0.006349206349206349
-87,Educational News,Stanford,0.0031746031746031746
-88,Educational News,B Haney,0.004761904761904762
-89,Educational News,Cody Ko,0.03015873015873016
-90,Educational News,Mississippi Public Broadcasting,0.0031746031746031746
-91,Educational News,AA Speakers and More,0.0031746031746031746
-92,Educational News,The Right Opinion,0.007936507936507936
-93,Educational News,Rachel Oates,0.0031746031746031746
-94,Educational News,Primink,0.0015873015873015873
-95,Educational News,Jimmy Snow,0.009523809523809525
-96,Educational News,Dolores Cannon,0.0015873015873015873
-97,Educational News,Amy Fraley,0.0015873015873015873
-98,Educational News,Infinite Waters (Diving Deep),0.0015873015873015873
-99,Educational News,nurology,0.0015873015873015873
-100,Educational News,Southeast Christian Church,0.0015873015873015873
-101,Educational News,3 Key Elements,0.0015873015873015873
-102,Educational News,BRAINY DOSE,0.0015873015873015873
-103,Educational News,Mitch Manly,0.0015873015873015873
-104,Educational News,Tom Bilyeu,0.0015873015873015873
-105,Educational News,Mel Robbins,0.0015873015873015873
-106,Educational News,Kelly Hine - Body & Soul Retreats,0.0015873015873015873
-107,Educational News,Grow Successful,0.0015873015873015873
-108,Educational News,Lisa A. Romano Breakthrough Life Coach Inc.,0.0031746031746031746
-109,Educational News,KOZE,0.0015873015873015873
-110,Educational News,Tiffany Dawn,0.0015873015873015873
-111,Educational News,Rose and Rosie,0.0015873015873015873
-112,Educational News,adwmuk,0.0015873015873015873
-113,Educational News,Calvary Chapel St George,0.0015873015873015873
-114,Educational News,Saddleback Church Hong Kong,0.0015873015873015873
-115,Educational News,c1ststudio,0.0015873015873015873
-116,Educational News,Faith Watch,0.0015873015873015873
-117,Educational News,Ascension Presents,0.0015873015873015873
-118,Educational News,BRMinistries,0.0015873015873015873
-119,Educational News,The Fatima Center,0.0015873015873015873
-120,Educational News,MedCram - Medical Lectures Explained CLEARLY,0.0031746031746031746
-121,Educational News,East Jamaica Conference,0.0015873015873015873
-122,Educational News,Ravi Zacharias International Ministries,0.0031746031746031746
-123,Educational News,Light of Mary,0.0015873015873015873
-124,Educational News,Beats 1,0.0015873015873015873
-125,Educational News,YouTube,0.004761904761904762
-126,Educational News,God is Grey,0.006349206349206349
-127,Educational News,The View,0.0015873015873015873
-128,Educational News,Matthew Everhard,0.0015873015873015873
-129,Educational News,Dr. Sunday Adelaja,0.0015873015873015873
-130,Educational News,Joseph Solomon,0.0015873015873015873
-131,Educational News,Living Waters,0.0015873015873015873
-132,Educational News,Kanye West,0.0015873015873015873
-133,Educational News,Entertainment Tonight,0.0015873015873015873
-134,Educational News,Victory Tulsa,0.0015873015873015873
-135,Educational News,Trumpet Call Ministries Int'l,0.0015873015873015873
-136,Educational News,Trend Max,0.0015873015873015873
-137,Educational News,GoodSee TV,0.0015873015873015873
-138,Educational News,T.D. Jakes,0.0015873015873015873
-139,Educational News,Atozy,0.0015873015873015873
-140,Educational News,Eckhart Tolle,0.014285714285714285
-141,Educational News,James Charles,0.0015873015873015873
-142,Educational News,Kiki Chanel,0.0015873015873015873
-143,Educational News,Stephanie Harlowe,0.0015873015873015873
-144,Educational News,tiffanyferg,0.0031746031746031746
-145,Educational News,Annamarie Forcino,0.0015873015873015873
-146,Educational News,James River Church,0.0015873015873015873
-147,Educational News,Russell Brand,0.0015873015873015873
-148,Educational News,University of California Television (UCTV),0.0015873015873015873
-149,Educational News,Anthony Pompliano,0.0015873015873015873
-150,Educational News,Saddleback Church,0.0015873015873015873
-151,Educational News,9 News Australia,0.0015873015873015873
-152,Educational News,Capitalism With Ryan Daniel Moran,0.0015873015873015873
-153,Educational News,Stock Market Today by TraderTV Live,0.0015873015873015873
-154,Educational News,Child Mind Institute,0.0015873015873015873
-155,Educational News,The Zero Hour with RJ Eskow,0.009523809523809525
-156,Educational News,CBC News: The National,0.0015873015873015873
-157,Educational News,Christo Aivalis,0.0031746031746031746
-158,Educational News,Absolute Motivation,0.0015873015873015873
-159,Educational News,Official Steven Furtick,0.0015873015873015873
-160,Educational News,Dāv & Bethy,0.0015873015873015873
-161,Educational News,bpah,0.0015873015873015873
-162,Educational News,ImAllexx,0.0015873015873015873
-163,Educational News,HooverInstitution,0.009523809523809525
-164,Educational News,StarMediaEN,0.0031746031746031746
-165,Educational News,The Sun,0.0015873015873015873
-166,Educational News,North One,0.0015873015873015873
-167,Educational News,World War II History Round Table,0.0015873015873015873
-168,Educational News,John Anderson,0.0015873015873015873
-169,Educational News,Night of the Proms,0.0015873015873015873
-170,Educational News,Danny Gonzalez,0.0031746031746031746
-171,Educational News,LegendofTotalWar,0.0015873015873015873
-172,Educational News,Trigger Warning Media,0.0015873015873015873
-173,Educational News,TVO Docs,0.015873015873015872
-174,Educational News,Room for Discussion,0.009523809523809525
-175,Educational News,WordToTheWise,0.01904761904761905
-176,Educational News,EWTN,0.004761904761904762
-177,Educational News,MULLIGAN BROTHERS INTERVIEWS,0.023809523809523808
-178,Educational News,Eye 1,0.0015873015873015873
-179,Educational News,Dustin Larocque,0.0015873015873015873
-180,Educational News,Charisma on Command,0.011111111111111112
-181,Educational News,Gravitahn,0.014285714285714285
-182,Educational News,ManOfAllCreation,0.0015873015873015873
-183,Educational News,James Jani,0.0015873015873015873
-184,Educational News,Motivation Madness,0.012698412698412698
-185,Educational News,Carneades.org,0.0031746031746031746
-186,Educational News,BYU Speeches,0.0015873015873015873
-187,Educational News,I'll Be Honest,0.0015873015873015873
-188,Educational News,Robby Hecht,0.0015873015873015873
-189,Educational News,Living Gospel,0.0015873015873015873
-190,Educational News,Christina Hendricks,0.0015873015873015873
-191,Educational News,Vincentian Retreat Centre Perth,0.0015873015873015873
-192,Educational News,Catholic Answers,0.0015873015873015873
-193,Educational News,PatristicNectarFilms,0.0015873015873015873
-194,Educational News,cer spence,0.0015873015873015873
-195,Educational News,chai,0.0015873015873015873
-196,Educational News,Vox Stoica,0.0015873015873015873
-197,Educational News,Wireless Philosophy,0.0015873015873015873
-198,Educational News,John Bartholomew,0.0031746031746031746
-199,Educational News,The Aspen Institute,0.0015873015873015873
-200,Educational News,DoctorOz,0.0031746031746031746
-201,Educational News,H3 Podcast Highlights,0.011111111111111112
-202,Educational News,We Heart Lives,0.0015873015873015873
-203,Educational News,Bodybuilding.com,0.0015873015873015873
-204,Educational News,Daily Disciple,0.0015873015873015873
-205,Educational News,The Rubin Report,0.0015873015873015873
-206,Educational News,LaughPlanet,0.011111111111111112
-207,Educational News,NowThis News,0.0015873015873015873
-208,Educational News,TheArchangel911,0.014285714285714285
-209,Educational News,Encore +,0.0015873015873015873
-210,Educational News,Art of Manliness,0.0015873015873015873
-211,Educational News,jimgaffigan,0.006349206349206349
-212,Educational News,Invicta,0.0015873015873015873
-213,Educational News,LionHeart FilmWorks,0.0015873015873015873
-214,Educational News,The School of Life,0.0031746031746031746
-215,Educational News,SleepyClasses,0.0015873015873015873
-216,Educational News,Closer To Truth,0.0015873015873015873
-217,Educational News,YaleCourses,0.004761904761904762
-218,Educational News,First Church Truth of God Broadcast,0.0015873015873015873
-219,Educational News,Atomic Shrimp,0.0015873015873015873
-220,Educational News,Spirit Tribe Awakening,0.0015873015873015873
-221,Educational News,abcqanda,0.0015873015873015873
-222,Educational News,JRE Clips,0.004761904761904762
-223,Educational News,The Raj of Maharta.,0.0031746031746031746
-224,Educational News,Think Club Archive,0.0031746031746031746
-225,Educational News,Comedy Central,0.0015873015873015873
-226,Educational News,Coin Trader Official,0.0015873015873015873
-227,Educational News,The Royal Institution,0.0031746031746031746
-228,Educational News,EcoFarmVideo,0.0015873015873015873
-229,Educational News,Fixed Point Foundation,0.0015873015873015873
-230,Educational News,American Museum of Natural History,0.0015873015873015873
-231,Educational News,Wycliffe College at the University of Toronto,0.0015873015873015873
-232,Educational News,Brown University,0.0015873015873015873
-233,Educational News,ideacity,0.0015873015873015873
-234,Educational News,YouTube Movies,0.0015873015873015873
-235,Educational News,Official Jim Cornette,0.0015873015873015873
-236,Educational News,Roman Catholic Media,0.0015873015873015873
-237,Educational News,GeenStijl,0.0015873015873015873
-238,Educational News,BiolaUniversity,0.0015873015873015873
-239,Educational News,Danny Waysted,0.0015873015873015873
-240,Educational News,The Narrow Gate,0.0015873015873015873
-241,Educational News,Theo Von Clips,0.0015873015873015873
-242,Educational News,Anders Jacobsson,0.0015873015873015873
-243,Educational News,The Invisible Man,0.0015873015873015873
-244,Educational News,Nate and Sutton,0.0015873015873015873
-245,Educational News,Hasan Piker,0.0015873015873015873
-246,Educational News,Team2Moms,0.0015873015873015873
-247,Educational News,Skylar Grove,0.0015873015873015873
-248,Educational News,Isaac Butterfield,0.0015873015873015873
-249,Educational News,Marshmello,0.0015873015873015873
-250,Educational News,Sadie Robertson,0.0015873015873015873
-251,Educational News,tlc uk,0.0015873015873015873
-252,Educational News,Aerial View,0.0015873015873015873
-253,Educational News,Fire Films,0.0015873015873015873
-254,Educational News,CBC Vancouver,0.0015873015873015873
-255,Educational News,Pragmatic Entertainment,0.0015873015873015873
-256,Educational News,WisdomTalks,0.0015873015873015873
+,Category,Next Channel,Count
+0,ReligiousConservative,Dose of Truth,3
+1,ReligiousConservative,Wise Mind,1
+2,ReligiousConservative,Motivation Madness,10
+3,ReligiousConservative,TheArchangel911,48
+4,ReligiousConservative,Coin Trader Official,3
+5,ReligiousConservative,THE BESTS,8
+6,ReligiousConservative,Bite-sized Philosophy,17
+7,ReligiousConservative,Jordan B Peterson,352
+8,ReligiousConservative,tmcleanful,1
+9,ReligiousConservative,ZeroFox Given,1
+10,ReligiousConservative,Gravitahn,12
+11,ReligiousConservative,YAFTV,28
+12,ReligiousConservative,Acton Institute,2
+13,ReligiousConservative,HooverInstitution,116
+14,ReligiousConservative,PragerU,6
+15,ReligiousConservative,ONE FOR ISRAEL Ministry,1
+16,ReligiousConservative,The Rubin Report,22
+17,ReligiousConservative,Hillsdale College,2
+18,ReligiousConservative,Stanford College Republicans,1
+19,ReligiousConservative,Roosh V,15
+20,ReligiousConservative,The Aspen Institute,42
+21,ReligiousConservative,BALKAN INFO - Zvanični kanal,1
+22,ReligiousConservative,Journeyman Pictures,1
+23,ReligiousConservative,Jesse Lee Peterson,5
+24,ReligiousConservative,Anthony Pompliano,3
+25,ReligiousConservative,socratesinthecity,17
+26,ReligiousConservative,Theo Von,6
+27,ReligiousConservative,Allie Beth Stuckey,7
+28,ReligiousConservative,Lewis Howes,21
+29,ReligiousConservative,Liberty University,14
+30,ReligiousConservative,Capturing Christianity,2
+31,ReligiousConservative,EdChoice,4
+32,ReligiousConservative,Fox News,49
+33,ReligiousConservative,University of Notre Dame,51
+34,ReligiousConservative,Steubenville Conferences,1
+35,ReligiousConservative,Professor Dave Explains,3
+36,ReligiousConservative,The New School,13
+37,ReligiousConservative,Destiny,1
+38,ReligiousConservative,BOND: Rebuilding the Man,1
+39,ReligiousConservative,Chicago Humanities Festival,2
+40,ReligiousConservative,Room for Discussion,49
+41,ReligiousConservative,British GQ,24
+42,ReligiousConservative,Ben Shapiro,18
+43,ReligiousConservative,The Women's Code,1
+44,ReligiousConservative,Jordan Peterson Fan Channel,3
+45,ReligiousConservative,How To Academy,29
+46,ReligiousConservative,Whanhee,1
+47,ReligiousConservative,H3 Podcast Highlights,2
+48,ReligiousConservative,DoctorOz,12
+49,ReligiousConservative,Channel 4 News,7
+50,ReligiousConservative,Michael Knowles,2
+51,ReligiousConservative,John Anderson,15
+52,ReligiousConservative,ReaganFoundation,5
+53,ReligiousConservative,Sky News Australia,2
+54,ReligiousConservative,Senator Ted Cruz,4
+55,ReligiousConservative,Yahoo Finance,4
+56,ReligiousConservative,Skavlan,1
+57,ReligiousConservative,Gadi Taub,1
+58,ReligiousConservative,TVO Docs,31
+59,ReligiousConservative,MULLIGAN BROTHERS INTERVIEWS,24
+60,ReligiousConservative,abcqanda,3
+61,ReligiousConservative,Nicholson1968,1
+62,ReligiousConservative,The Veritas Forum,29
+63,ReligiousConservative,Rob Moore,1
+64,ReligiousConservative,Founders Ministries,3
+65,ReligiousConservative,World Science Festival,1
+66,ReligiousConservative,Isaac Arthur,1
+67,ReligiousConservative,Closer To Truth,1
+68,ReligiousConservative,Gapminder Foundation,2
+69,ReligiousConservative,Intelligence Squared,2
+70,ReligiousConservative,Ligonier Ministries,21
+71,ReligiousConservative,Is Genesis History?,1
+72,ReligiousConservative,Moyers & Company,4
+73,ReligiousConservative,Crossroads Community Church - Winchester VA,1
+74,ReligiousConservative,Philosophy Tube,1
+75,ReligiousConservative,Al Hazen,1
+76,ReligiousConservative,sanderson1611,7
+77,ReligiousConservative,BiolaUniversity,26
+78,ReligiousConservative,In Touch Ministries,9
+79,ReligiousConservative,Grace to You,3
+80,ReligiousConservative,Ravi Zacharias International Ministries,5
+81,ReligiousConservative,Victory Tulsa,45
+82,ReligiousConservative,Saddleback Church,17
+83,ReligiousConservative,Jesus Culture,6
+84,ReligiousConservative,The Salvation Army Kroc Center,3
+85,ReligiousConservative,Ben Shapiro Thug Life,12
+86,ReligiousConservative,The Free Speech Club,6
+87,ReligiousConservative,Millennial Action Project,1
+88,ReligiousConservative,Charisma on Command,5
+89,ReligiousConservative,The Daily Wire,3
+90,ReligiousConservative,EWTN,3
+91,ReligiousConservative,Mauritian Struggle,9
+92,ReligiousConservative,The Heritage Foundation,9
+93,ReligiousConservative,60 Minutes Australia,1
+94,ReligiousConservative,The Eric Metaxas Radio Show,4
+95,ReligiousConservative,Adam Carolla,2
+96,ReligiousConservative,Essential Truth,10
+97,ReligiousConservative,The Delve,4
+98,ReligiousConservative,Think Club,1
+99,ReligiousConservative,ManOfAllCreation,1
+100,ReligiousConservative,Motivation2Study,1
+101,ReligiousConservative,Alex Swan,6
+102,ReligiousConservative,M Czerna,12
+103,ReligiousConservative,Eye 1,1
+104,ReligiousConservative,The Invisible Man,1
+105,ReligiousConservative,Pragmatic Entertainment,3
+106,ReligiousConservative,Glenn Beck,2
+107,ReligiousConservative,Kevin O'Leary,3
+108,ReligiousConservative,"The Martin Luther King, Jr. Center for Nonviolent Social Change",5
+109,ReligiousConservative,PowerfulJRE,24
+110,ReligiousConservative,Five Star,8
+111,ReligiousConservative,Warriors for Christ,3
+112,ReligiousConservative,University of California Television (UCTV),5
+113,ReligiousConservative,T.D. Jakes,3
+114,ReligiousConservative,GRCCtv,1
+115,ReligiousConservative,Bethel TV,1
+116,ReligiousConservative,Spirit Tribe Awakening,7
+117,ReligiousConservative,Answers in Genesis,1
+118,ReligiousConservative,Joel Osteen,1
+119,ReligiousConservative,Discovery Science,4
+120,ReligiousConservative,Jay Dyer,4
+121,ReligiousConservative,EcoFarmVideo,1
+122,ReligiousConservative,Brown University,22
+123,ReligiousConservative,Seton Hall University,2
+124,ReligiousConservative,YaleCourses,23
+125,ReligiousConservative,Insitum Verbum,2
+126,ReligiousConservative,IntlSpyMuseum,3
+127,ReligiousConservative,The Sun,3
+128,ReligiousConservative,Impaulsive,2
+129,ReligiousConservative,Timeline - World History Documentaries,3
+130,ReligiousConservative,H3 Podcast,3
+131,ReligiousConservative,TheJohnBirchSociety,3
+132,ReligiousConservative,BizLoanConsultants.com,1
+133,ReligiousConservative,NBC News,16
+134,ReligiousConservative,Jocko Podcast,8
+135,ReligiousConservative,The Economist,4
+136,ReligiousConservative,Johnny Bigger,1
+137,ReligiousConservative,Building Wealth Residually,1
+138,ReligiousConservative,Learn Liberty,4
+139,ReligiousConservative,Roland S. Martin,3
+140,ReligiousConservative,Ayla Stewart Wife With A Purpose,1
+141,ReligiousConservative,The Tonight Show Starring Jimmy Fallon,1
+142,ReligiousConservative,Adyel Juergensen,1
+143,ReligiousConservative,CBS News,2
+144,ReligiousConservative,Zoe Amira,1
+145,ReligiousConservative,REVOLT TV,1
+146,ReligiousConservative,Studio 10,4
+147,ReligiousConservative,Reagan Library,2
+148,ReligiousConservative,Carmelo Anthony,2
+149,ReligiousConservative,VICE,3
+150,ReligiousConservative,MotivationHub,1
+151,ReligiousConservative,Discourse TV,1
+152,ReligiousConservative,Trigger Happy Media,1
+153,ReligiousConservative,Sovereign Nations,4
+154,ReligiousConservative,Aubrey Marcus,1
+155,ReligiousConservative,Bioneers,3
+156,ReligiousConservative,WordToTheWise,6
+157,ReligiousConservative,Zane,2
+158,ReligiousConservative,ABC News,4
+159,ReligiousConservative,Jordan B Peterson Clips,7
+160,ReligiousConservative,Think Club Archive,2
+161,ReligiousConservative,National Gallery of Canada,1
+162,ReligiousConservative,Jordan Peterson Fan Club,4
+163,ReligiousConservative,Going Underground on RT,1
+164,ReligiousConservative,UnHerd,1
+165,ReligiousConservative,Practical Psychology,1
+166,ReligiousConservative,Valuetainment,1
+167,ReligiousConservative,Larry King,2
+168,ReligiousConservative,Bret Weinstein,2
+169,ReligiousConservative,The 700 Club,1
+170,ReligiousConservative,FOX 10 Phoenix,3
+171,ReligiousConservative,MSNBC,2
+172,ReligiousConservative,Eckhart Tolle,1
+173,ReligiousConservative,Christ Community Chapel,2
+174,ReligiousConservative,Catholic Answers,2
+175,ReligiousConservative,Vox Catholica,1
+176,ReligiousConservative,92nd Street Y,1
+177,ReligiousConservative,Rick & Bubba,36
+178,ReligiousConservative,YouTube,6
+179,ReligiousConservative,ZenLifeRelax,1
+180,ReligiousConservative,Girl Defined,16
+181,ReligiousConservative,Cody Ko,5
+182,ReligiousConservative,Tiffany Dawn,1
+183,ReligiousConservative,Nate and Sutton,4
+184,ReligiousConservative,Raffy Tulfo in Action,1
+185,ReligiousConservative,God is Grey,1
+186,ReligiousConservative,SHAWSTRENGTH,1
+187,ReligiousConservative,Elevation Church,3
+188,ReligiousConservative,Bad Friends,1
+189,ReligiousConservative,Fresh Lifestyle,1
+190,ReligiousConservative,Rachel Oates,2
+191,ReligiousConservative,BBC Documentary,1
+192,ReligiousConservative,Stephanie Harlowe,1
+193,ReligiousConservative,Danelle Hallan,1
+194,ReligiousConservative,Angel Moret,1
+195,ReligiousConservative,Centennial Institute,1
+196,ReligiousConservative,FRONTLINE PBS | Official,2
+197,ReligiousConservative,Trending with Timmerie,1
+198,ReligiousConservative,David Heavener - Last Evangelist,2
+199,ReligiousConservative,Kenneth Copeland Ministries,13
+200,ReligiousConservative,St Paul's Cathedral,3
+201,ReligiousConservative,Talks at Google,10
+202,ReligiousConservative,The Way World Outreach,2
+203,ReligiousConservative,Attar,1
+204,ReligiousConservative,EncourageTV,1
+205,ReligiousConservative,Conversations with Bill Kristol,14
+206,ReligiousConservative,UW Video,1
+207,ReligiousConservative,WisdomTalks,4
+208,ReligiousConservative,GeenStijl,1
+209,ReligiousConservative,SUCCESS CHASERS,2
+210,ReligiousConservative,Dustin Larocque,2
+211,ReligiousConservative,Missing The Mark,4
+212,ReligiousConservative,HTB Church,2
+213,ReligiousConservative,The Royal Institution,5
+214,ReligiousConservative,American Museum of Natural History,3
+215,ReligiousConservative,The Atheist Experience,1
+216,ReligiousConservative,Big Think,1
+217,ReligiousConservative,The Met,9
+218,ReligiousConservative,Tomorrow's World Viewpoint,13
+219,ReligiousConservative,BYU Department of Anthropology,1
+220,ReligiousConservative,NCASVideo,1
+221,ReligiousConservative,Langfocus,1
+222,ReligiousConservative,TopTenz,1
+223,ReligiousConservative,FilmRise Documentaries,1
+224,ReligiousConservative,Fall of Civilizations,1
+225,ReligiousConservative,CeltScotVideos,1
+226,ReligiousConservative,Geo History,1
+227,ReligiousConservative,Oxford Academic (Oxford University Press),1
+228,ReligiousConservative,Jaipur Literature Festival,1
+229,ReligiousConservative,Rick Steves' Europe,2
+230,ReligiousConservative,Survive the Jive,1
+231,ReligiousConservative,Genetic Genealogy Ireland,1
+232,ReligiousConservative,History With Hilbert,1
+233,ReligiousConservative,Russell Brand,1
+234,ReligiousConservative,LBC,1
+235,ReligiousConservative,Nephtali1981,3
+236,ReligiousConservative,WPLG Local 10,3
+237,ReligiousConservative,13News Now,2
+238,ReligiousConservative,CBS Miami,1
+239,ReligiousConservative,CNN,2
+240,ReligiousConservative,Life.Church,1
+241,ReligiousConservative,Endeavour,6
+242,ReligiousConservative,Philosophy Tube Live,1
+243,ReligiousConservative,The Agenda with Steve Paikin,2
+244,ReligiousConservative,Intellectual Deep Web,1
+245,ReligiousConservative,Zach Hing,6
+246,ReligiousConservative,TEDx Talks,4
+247,ReligiousConservative,Breakfast Club Power 105.1 FM,1
+248,ReligiousConservative,Clash of Ideas,2
+249,ReligiousConservative,maxxim1234567890,1
+250,ReligiousConservative,Jerome V.,1
+251,ReligiousConservative,Andrew Klavan,1
+252,ReligiousConservative,Blonde in the Belly of the Beast,10
+253,ReligiousConservative,The School of Life,1
+254,ReligiousConservative,Motiversity,1
+255,ReligiousConservative,BibleProject,1
+256,ReligiousConservative,OxfordUnion,2
+257,ReligiousConservative,FUNG BROS.,1
+258,ReligiousConservative,Tiff & Case,1
+259,ReligiousConservative,VICE Asia,1
+260,ReligiousConservative,RubinMuseum,2
+261,ReligiousConservative,FOX 13 News Utah,2
+262,ReligiousConservative,Crazy Love,2
+263,ReligiousConservative,SkyWatch TV,1
+264,ReligiousConservative,vpro documentary,2
+265,ReligiousConservative,The University of Manchester,1
+266,ReligiousConservative,morningstarcc,1
+267,ReligiousConservative,Faithlife,1
+268,ReligiousConservative,Matteo Zilli,1
+269,ReligiousConservative,Park Valley Church,2
+270,ReligiousConservative,Family Policy Institute of Washington,5
+271,ReligiousConservative,FOX31 Denver,1
+272,ReligiousConservative,TODAY,1
+273,ReligiousConservative,Bloggingheads.tv,1
+274,ReligiousConservative,FFRF,1
+275,ReligiousConservative,The Daily Signal,1
+276,ReligiousConservative,Alliance Defending Freedom,1
+277,ReligiousConservative,Cambridge Union,1
+278,ReligiousConservative,Gibi ASMR,1
+279,ReligiousConservative,Foundation for Economic Education,3
+280,ReligiousConservative,SAKURA senpai JAPAN,1
+281,ReligiousConservative,Jeremy Vine on 5 - Official Channel,1
+282,ReligiousConservative,Good Morning Britain,1
+283,ReligiousConservative,Heterodox Academy,1
+284,ReligiousConservative,Critical Thoughts,1
+285,ReligiousConservative,Elite Psychology,2
+286,ReligiousConservative,Richard Nixon Foundation,1
+287,ReligiousConservative,BlazeTV,3
+288,ReligiousConservative,Fox Business,1
+289,ReligiousConservative,Derek Van Schaik,1
+290,ReligiousConservative,Josh Gad,3
+291,ReligiousConservative,Global Awakening,1
+292,ReligiousConservative,Your Living Manna,1
+293,ReligiousConservative,Stanford Health Care,3
+294,ReligiousConservative,BYU Speeches,1
+295,ReligiousConservative,CNBC Television,1
+296,ReligiousConservative,CogX,1
+297,ReligiousConservative,The Relaxed Guy,1
+298,ReligiousConservative,Council on Foreign Relations,1
+299,ReligiousConservative,Understood,3
+300,ReligiousConservative,Nu Meditation Music,1
+301,ReligiousConservative,Stanford,1
+302,ReligiousConservative,Free To Choose Network,1
+303,ReligiousConservative,We Heart Lives,1
+304,ReligiousConservative,TED,1
+305,ReligiousConservative,Fritz Imperial,2
+306,ReligiousConservative,Grant Cardone,1
+307,ReligiousConservative,Coleman Hughes,1
+308,ReligiousConservative,YouTube Movies,1
+309,ReligiousConservative,Joey Diaz,1
+310,ReligiousConservative,WJCL News,1
+311,ReligiousConservative,NASA,1
+312,ReligiousConservative,The Pat McAfee Show,1
+313,ReligiousConservative,Law Offices of Phillips & Hunt,1
+314,ReligiousConservative,COURT TV,1
+315,ReligiousConservative,NewsChannel 5,1
+316,ReligiousConservative,Brilliant Idiots,1
+317,ReligiousConservative,Tony Evans,3
+318,ReligiousConservative,Global News,1
+319,ReligiousConservative,Harvard Kennedy School's Institute of Politics,1
+320,ReligiousConservative,PeopleTV,1
+321,ReligiousConservative,Jimmy Snow,2
+322,ReligiousConservative,OCBF Church,1
+323,ReligiousConservative,Arcadia Boosted,1
+324,ReligiousConservative,Penn State McCourtney Institute for Democracy,1
+325,ReligiousConservative,Brother Nathanael Video,5
+326,ReligiousConservative,denniscallan,1
+327,ReligiousConservative,lessthandust,1
+328,ReligiousConservative,Sergey Baklykov / Real Russia,1
+329,ReligiousConservative,Orthodox Church,2
+330,ReligiousConservative,Father Spyridon,1
+331,ReligiousConservative,traveldotearth,1
+332,ReligiousConservative,CGTN America,1
+333,ReligiousConservative,Church Militant,1
+334,ReligiousConservative,The Rich Dad Channel,1
+335,ReligiousConservative,LegalEagle,1
+336,ReligiousConservative,C.S. Lewis Institute,1
+337,ReligiousConservative,YouVersion,1
+338,ReligiousConservative,passionconferences,1
+339,ReligiousConservative,Thescariestmovieever,1
+340,ReligiousConservative,SOAKING IN HIS PRESENCE Instrumental Worship,1
+341,ReligiousConservative,I Am Second,2
+342,ReligiousConservative,Whites Ferry Road Church,2
+343,ReligiousConservative,Thomas Nelson,1
+344,ReligiousConservative,CBN News,2
+345,ReligiousConservative,Duck Commander,3
+346,ReligiousConservative,Leonard Pagel,2
+347,ReligiousConservative,Phil Robertson,8
+348,ReligiousConservative,Triggerd,1
+349,ReligiousConservative,The Film Archives,1
+350,ReligiousConservative,Davie Addison,1
+351,ReligiousConservative,FOCLOnline,1
+352,ReligiousConservative,Jessica Chinyelu,1
+353,ReligiousConservative,tiffanyferg,1
+354,ReligiousConservative,Paul and Morgan,1
+355,ReligiousConservative,FarAwayDistance,1
+356,ReligiousConservative,Fresh Anointing,1
+357,ReligiousConservative,ImAllexx,1
+358,ReligiousConservative,becarefulhowyouhear.com,1
+359,ReligiousConservative,Harvard University,1
+360,ReligiousConservative,Living Word Christian Center,1
+361,ReligiousConservative,Good Morning America,1
+362,ReligiousConservative,LiveSigning,1
+363,ReligiousConservative,TheGraceAgMedia,1
+364,ReligiousConservative,Absolute Motivation,1
+365,ReligiousConservative,CBC News,1
+366,ReligiousConservative,Cult of Pedagogy,1
+367,ReligiousConservative,Better Make Room,1
+368,ReligiousConservative,CrashCourse,1
+369,ReligiousConservative,Dr. Christian Conte,1
+370,ReligiousConservative,Vox Stoica,2
+371,ReligiousConservative,David Barr Kirtley,1
+372,ReligiousConservative,Organizational Communication Channel,1
+373,ReligiousConservative,Hamza Yusuf,1
+374,ReligiousConservative,Groundwork For The Metaphysics of MGTOW,1
+375,ReligiousConservative,Schmiddy,1
+376,ReligiousConservative,Mr.Within's Gift,1
+377,ReligiousConservative,CORA Learning,2
+378,ReligiousConservative,Pop Culture Detective,1
+379,ReligiousConservative,Real Stories,1
+380,ReligiousConservative,BoutenkoFilms,1
+381,ReligiousConservative,North Shore Stress & Anxiety Clinic,1
+382,ReligiousConservative,Shaking My Head Productions,1
+383,ReligiousConservative,Encore +,1
+384,ReligiousConservative,Levy Economics Institute,1
+385,ReligiousConservative,The Oriental Institute,1
+386,ReligiousConservative,SingularityU South Africa,1
+387,ReligiousConservative,Real Time with Bill Maher,1
+388,ReligiousConservative,BigMaxGame,1
+389,ReligiousConservative,Nature Healing Society,1
+390,ReligiousConservative,MS VIDEOS,1
+391,ReligiousConservative,FightMediocrity,1
+392,ReligiousConservative,Lana Blakely,1

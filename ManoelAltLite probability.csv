@@ -1,243 +1,483 @@
-,Category,Next Channel,Probability
-0,Educational News,Dinesh D'Souza,0.004761904761904762
-1,Educational News,Liberty University,0.014285714285714285
-2,Educational News,Talent Replay,0.0015873015873015873
-3,Educational News,Fox News,0.05873015873015873
-4,Educational News,Richard Nixon Foundation,0.0015873015873015873
-5,Educational News,YAFTV,0.006349206349206349
-6,Educational News,Fox Business,0.004761904761904762
-7,Educational News,CNN,0.006349206349206349
-8,Educational News,University of Notre Dame,0.0031746031746031746
-9,Educational News,Top 10 Talent,0.0031746031746031746
-10,Educational News,Physics Girl,0.0015873015873015873
-11,Educational News,Got Talent Global,0.0015873015873015873
-12,Educational News,thkelly67,0.006349206349206349
-13,Educational News,Sky News Australia,0.015873015873015872
-14,Educational News,Jonathan Pageau,0.0015873015873015873
-15,Educational News,TED,0.0015873015873015873
-16,Educational News,Josh Gad,0.0031746031746031746
-17,Educational News,Mark Rober,0.007936507936507936
-18,Educational News,jimgaffigan,0.004761904761904762
-19,Educational News,Chris Stuckmann,0.0015873015873015873
-20,Educational News,WIRED UK,0.0015873015873015873
-21,Educational News,Phil Robertson,0.0015873015873015873
-22,Educational News,Sideways,0.0015873015873015873
-23,Educational News,Dream,0.004761904761904762
-24,Educational News,MrBeast,0.0015873015873015873
-25,Educational News,Danny Gonzalez,0.0015873015873015873
-26,Educational News,9 News Australia,0.007936507936507936
-27,Educational News,JRE Clips,0.004761904761904762
-28,Educational News,jacksepticeye,0.0015873015873015873
-29,Educational News,Tree Of Logic,0.007936507936507936
-30,Educational News,socratesinthecity,0.0015873015873015873
-31,Educational News,Nerdist,0.0015873015873015873
-32,Educational News,Democracy Now!,0.0015873015873015873
-33,Educational News,GadgetGirlKylie,0.0015873015873015873
-34,Educational News,Bill Wiese,0.0015873015873015873
-35,Educational News,Reiki with Anna,0.0015873015873015873
-36,Educational News,The Narrow Gate,0.0015873015873015873
-37,Educational News,Binge Watchers,0.0015873015873015873
-38,Educational News,News4JAX,0.0015873015873015873
-39,Educational News,English Like A Native,0.0015873015873015873
-40,Educational News,CBS Sacramento,0.0015873015873015873
-41,Educational News,Doctor Who,0.0015873015873015873
-42,Educational News,American Enterprise Institute,0.0015873015873015873
-43,Educational News,Just a Robot,0.0015873015873015873
-44,Educational News,NateTalksToYou,0.02857142857142857
-45,Educational News,FOCLOnline,0.0015873015873015873
-46,Educational News,Sydney Watson,0.0031746031746031746
-47,Educational News,Innuendo Studios,0.0015873015873015873
-48,Educational News,Vanity Fair,0.0015873015873015873
-49,Educational News,Sarah Z,0.0015873015873015873
-50,Educational News,BBC Newsnight,0.0015873015873015873
-51,Educational News,Slightly Offens*ve,0.0031746031746031746
-52,Educational News,VICE,0.011111111111111112
-53,Educational News,truTV,0.007936507936507936
-54,Educational News,OxfordUnion,0.004761904761904762
-55,Educational News,Studio 10,0.015873015873015872
-56,Educational News,92nd Street Y,0.004761904761904762
-57,Educational News,LastWeekTonight,0.01904761904761905
-58,Educational News,HooverInstitution,0.09206349206349207
-59,Educational News,Vito,0.0015873015873015873
-60,Educational News,PowerfulJRE,0.05238095238095238
-61,Educational News,Jimmy Carr,0.012698412698412698
-62,Educational News,CBC News,0.004761904761904762
-63,Educational News,The Rubin Report,0.004761904761904762
-64,Educational News,Dangerfield,0.0015873015873015873
-65,Educational News,How To Academy,0.0015873015873015873
-66,Educational News,TVO Docs,0.012698412698412698
-67,Educational News,Jordan B Peterson,0.014285714285714285
-68,Educational News,Lewis Howes,0.0015873015873015873
-69,Educational News,John Anderson,0.0031746031746031746
-70,Educational News,Room for Discussion,0.006349206349206349
-71,Educational News,vpro documentary,0.007936507936507936
-72,Educational News,Bret Weinstein,0.0015873015873015873
-73,Educational News,Jocko Podcast,0.0015873015873015873
-74,Educational News,Skavlan,0.009523809523809525
-75,Educational News,LBC,0.0015873015873015873
-76,Educational News,News2Share,0.0015873015873015873
-77,Educational News,Rocky Mountain PBS,0.0015873015873015873
-78,Educational News,TODAY,0.0031746031746031746
-79,Educational News,Intelligence Squared,0.004761904761904762
-80,Educational News,CBC News: The National,0.0015873015873015873
-81,Educational News,TRT World,0.0015873015873015873
-82,Educational News,Alan Howard / JW3 Speaker Series,0.0015873015873015873
-83,Educational News,VICE News,0.0015873015873015873
-84,Educational News,NBC News,0.006349206349206349
-85,Educational News,Chicago Humanities Festival,0.0015873015873015873
-86,Educational News,A&E,0.0015873015873015873
-87,Educational News,9NEWS,0.004761904761904762
-88,Educational News,Jubilee,0.009523809523809525
-89,Educational News,Foundation for Economic Education,0.01904761904761905
-90,Educational News,Razbuten,0.0015873015873015873
-91,Educational News,itsRucka,0.0015873015873015873
-92,Educational News,TheDooo,0.0015873015873015873
-93,Educational News,Charisma on Command,0.011111111111111112
-94,Educational News,Real Time with Bill Maher,0.007936507936507936
-95,Educational News,Channel 4 News,0.006349206349206349
-96,Educational News,Philosophy Tube,0.0015873015873015873
-97,Educational News,Gattor Martin,0.0015873015873015873
-98,Educational News,Steubenville Conferences,0.004761904761904762
-99,Educational News,The Hill,0.004761904761904762
-100,Educational News,Vox,0.0015873015873015873
-101,Educational News,Brown University,0.0015873015873015873
-102,Educational News,The Salvation Army Kroc Center,0.0015873015873015873
-103,Educational News,EdChoice,0.0031746031746031746
-104,Educational News,FOX 13 News Utah,0.0015873015873015873
-105,Educational News,Jeremy Vine on 5 - Official Channel,0.006349206349206349
-106,Educational News,Calming Music,0.0015873015873015873
-107,Educational News,Moyers & Company,0.006349206349206349
-108,Educational News,SleepTube - Hypnotic Relaxation,0.0015873015873015873
-109,Educational News,Emory University,0.0015873015873015873
-110,Educational News,PragerU,0.0015873015873015873
-111,Educational News,rSlash,0.0015873015873015873
-112,Educational News,American Battlefield Trust,0.0015873015873015873
-113,Educational News,Rebel News,0.0015873015873015873
-114,Educational News,Good Morning Britain,0.0031746031746031746
-115,Educational News,The Frustrated Indian - English,0.0015873015873015873
-116,Educational News,ABC News (Australia),0.0031746031746031746
-117,Educational News,MILO,0.004761904761904762
-118,Educational News,FOX 11 Los Angeles,0.0031746031746031746
-119,Educational News,LaughPlanet,0.014285714285714285
-120,Educational News,VICE TV,0.0031746031746031746
-121,Educational News,It'sWhateverMedia,0.0015873015873015873
-122,Educational News,UFC - Ultimate Fighting Championship,0.0015873015873015873
-123,Educational News,abcqanda,0.006349206349206349
-124,Educational News,GQ,0.007936507936507936
-125,Educational News,Stefan Molyneux,0.0015873015873015873
-126,Educational News,Valuetainment,0.0015873015873015873
-127,Educational News,YouTube Movies,0.004761904761904762
-128,Educational News,The New School,0.006349206349206349
-129,Educational News,MR. OBVIOUS,0.0015873015873015873
-130,Educational News,Principles by Ray Dalio,0.0015873015873015873
-131,Educational News,CNBC Television,0.004761904761904762
-132,Educational News,The Royal Institution,0.004761904761904762
-133,Educational News,Professor Dave Explains,0.015873015873015872
-134,Educational News,Bearing,0.0015873015873015873
-135,Educational News,CGP Grey,0.006349206349206349
-136,Educational News,Just For Laughs,0.006349206349206349
-137,Educational News,RedLetterMedia,0.004761904761904762
-138,Educational News,George Carlin Official YouTube Channel,0.0031746031746031746
-139,Educational News,Styxhexenhammer666,0.0015873015873015873
-140,Educational News,Patriot Act,0.0015873015873015873
-141,Educational News,Talks at Google,0.0015873015873015873
-142,Educational News,CNBC,0.0015873015873015873
-143,Educational News,i24NEWS English,0.0015873015873015873
-144,Educational News,AnthonyPadilla,0.0015873015873015873
-145,Educational News,John Ward,0.0015873015873015873
-146,Educational News,The View,0.004761904761904762
-147,Educational News,The Charisma Matrix,0.0015873015873015873
-148,Educational News,BDZ,0.0015873015873015873
-149,Educational News,ReasonTV,0.004761904761904762
-150,Educational News,CBS News,0.007936507936507936
-151,Educational News,OWN,0.0015873015873015873
-152,Educational News,Turning Point USA,0.0015873015873015873
-153,Educational News,BMOnus,0.006349206349206349
-154,Educational News,Wild 'N Out,0.0015873015873015873
-155,Educational News,Pawn Stars,0.0015873015873015873
-156,Educational News,Gabriel Iglesias,0.0015873015873015873
-157,Educational News,ABC7 News Bay Area,0.0015873015873015873
-158,Educational News,SyqeMike,0.0015873015873015873
-159,Educational News,Johnny Harris,0.0015873015873015873
-160,Educational News,What Would You Do?,0.0015873015873015873
-161,Educational News,Oppressed Media,0.0015873015873015873
-162,Educational News,Daily Mail,0.0015873015873015873
-163,Educational News,CGTN,0.0015873015873015873
-164,Educational News,New York Post,0.0015873015873015873
-165,Educational News,mailerdiablo,0.0015873015873015873
-166,Educational News,Reel Truth Crime - Crime Documentary,0.0015873015873015873
-167,Educational News,60 Minutes Australia,0.0031746031746031746
-168,Educational News,Real Stories,0.0015873015873015873
-169,Educational News,ET Canada,0.0015873015873015873
-170,Educational News,Ape Huncho,0.0015873015873015873
-171,Educational News,Computing Forever,0.0031746031746031746
-172,Educational News,Screen Rant,0.0015873015873015873
-173,Educational News,The Dave Cullen Show,0.0015873015873015873
-174,Educational News,ThemesOf TheWeek,0.0015873015873015873
-175,Educational News,The People,0.0015873015873015873
-176,Educational News,The Critical Drinker,0.0015873015873015873
-177,Educational News,British GQ,0.004761904761904762
-178,Educational News,Vsauce,0.0015873015873015873
-179,Educational News,OverSimplified,0.0015873015873015873
-180,Educational News,Gavin McInnes,0.0015873015873015873
-181,Educational News,Comedy Central Stand-Up,0.0015873015873015873
-182,Educational News,Rolling Stone,0.0015873015873015873
-183,Educational News,Saturday Night Live,0.0031746031746031746
-184,Educational News,Master Clipper,0.0015873015873015873
-185,Educational News,DoctorRandomercam,0.0015873015873015873
-186,Educational News,History Buffs,0.0015873015873015873
-187,Educational News,ReaganFoundation,0.004761904761904762
-188,Educational News,Uniwersytet Warszawski,0.0015873015873015873
-189,Educational News,PewDiePie,0.0015873015873015873
-190,Educational News,Official Jim Cornette,0.004761904761904762
-191,Educational News,DemolitionRanch,0.0015873015873015873
-192,Educational News,Lauren Southern,0.0015873015873015873
-193,Educational News,VICE Life,0.0015873015873015873
-194,Educational News,JoshDub,0.0015873015873015873
-195,Educational News,The Double Take,0.0015873015873015873
-196,Educational News,Mississippi Public Broadcasting,0.0015873015873015873
-197,Educational News,TEDx Talks,0.0015873015873015873
-198,Educational News,Jack Chapple,0.0015873015873015873
-199,Educational News,Jeremy Bennett,0.0015873015873015873
-200,Educational News,CBC,0.0015873015873015873
-201,Educational News,AJ+,0.0015873015873015873
-202,Educational News,Levy Economics Institute,0.0015873015873015873
-203,Educational News,YourMovieSucksDOTorg,0.0015873015873015873
-204,Educational News,Victory Tulsa,0.0015873015873015873
-205,Educational News,John Denver,0.0015873015873015873
-206,Educational News,Foodland Hawaii,0.0015873015873015873
-207,Educational News,The VR Sessions,0.0015873015873015873
-208,Educational News,Rob Moore,0.0015873015873015873
-209,Educational News,WGN News,0.0015873015873015873
-210,Educational News,Tarsis Silva,0.0015873015873015873
-211,Educational News,In Touch Ministries,0.0015873015873015873
-212,Educational News,Absolute Motivation,0.0015873015873015873
-213,Educational News,Thomas Nelson,0.0015873015873015873
-214,Educational News,Ligonier Ministries,0.0015873015873015873
-215,Educational News,Gordon Ramsay,0.0015873015873015873
-216,Educational News,JustInformed Talk,0.0015873015873015873
-217,Educational News,Learn Liberty,0.0015873015873015873
-218,Educational News,Encore +,0.0015873015873015873
-219,Educational News,DW Documentary,0.0015873015873015873
-220,Educational News,Anthony Pompliano,0.0015873015873015873
-221,Educational News,Politics and Prose,0.0015873015873015873
-222,Educational News,Domination Station,0.0015873015873015873
-223,Educational News,C-SPAN,0.0015873015873015873
-224,Educational News,Jimmy Kimmel Live,0.0015873015873015873
-225,Educational News,The Aspen Institute,0.0015873015873015873
-226,Educational News,ABC 10 News,0.0015873015873015873
-227,Educational News,6oodfella,0.007936507936507936
-228,Educational News,NewYork-Presbyterian Hospital,0.0015873015873015873
-229,Educational News,WULFF DEN,0.0015873015873015873
-230,Educational News,LazarBeam,0.0015873015873015873
-231,Educational News,McCreamy,0.0015873015873015873
-232,Educational News,Thomas Petrou,0.0015873015873015873
-233,Educational News,Verified TikTok Channel,0.0015873015873015873
-234,Educational News,SJW CRINGE MACHINE,0.0015873015873015873
-235,Educational News,Ray Zombie,0.0015873015873015873
-236,Educational News,All The Humor,0.0015873015873015873
-237,Educational News,Dry Bar Comedy,0.0015873015873015873
-238,Educational News,Hell's Kitchen,0.0015873015873015873
-239,Educational News,News Be Funny,0.0015873015873015873
-240,Educational News,Artur Rehi,0.0015873015873015873
-241,Educational News,THE KLINGON GAMER,0.0015873015873015873
+,Category,Next Channel,Count
+0,ManoelAltLite,Pat Condell,11
+1,ManoelAltLite,Fox News,445
+2,ManoelAltLite,adeenreds,1
+3,ManoelAltLite,The Rubin Report,8
+4,ManoelAltLite,TEDx Talks,4
+5,ManoelAltLite,RT,2
+6,ManoelAltLite,liarpoliticians2,1
+7,ManoelAltLite,voteleavemedia,1
+8,ManoelAltLite,IASBristol,1
+9,ManoelAltLite,UnHerd,2
+10,ManoelAltLite,HooverInstitution,141
+11,ManoelAltLite,HighImpactFlix,5
+12,ManoelAltLite,The Sun,10
+13,ManoelAltLite,Rep. Ted Lieu,1
+14,ManoelAltLite,The Late Show with Stephen Colbert,7
+15,ManoelAltLite,YouTube Movies,8
+16,ManoelAltLite,Newsmax TV,2
+17,ManoelAltLite,SJW CRINGE MACHINE,11
+18,ManoelAltLite,Studio 10,65
+19,ManoelAltLite,THE KLINGON GAMER,1
+20,ManoelAltLite,SJWCentral,7
+21,ManoelAltLite,Acnologia,1
+22,ManoelAltLite,Kingury,2
+23,ManoelAltLite,EllieJayden,1
+24,ManoelAltLite,Funny Local News,3
+25,ManoelAltLite,Gentle Art,2
+26,ManoelAltLite,Tora Black,1
+27,ManoelAltLite,LastWeekTonight,3
+28,ManoelAltLite,Aydin Paladin,11
+29,ManoelAltLite,University of Oregon,1
+30,ManoelAltLite,OxfordUnion,11
+31,ManoelAltLite,Microsoft Research,1
+32,ManoelAltLite,Aperture,1
+33,ManoelAltLite,EcoFarmVideo,1
+34,ManoelAltLite,NCASVideo,1
+35,ManoelAltLite,Kerith Lemon Pictures,1
+36,ManoelAltLite,Understood,2
+37,ManoelAltLite,The Royal Institution,1
+38,ManoelAltLite,Internet Historian,1
+39,ManoelAltLite,JustInformed Talk,5
+40,ManoelAltLite,Liberty University,15
+41,ManoelAltLite,MSNBC,5
+42,ManoelAltLite,Michael Moore,1
+43,ManoelAltLite,Foundation for Economic Education,89
+44,ManoelAltLite,Independent Institute,1
+45,ManoelAltLite,USSenLindseyGraham,4
+46,ManoelAltLite,John Anderson,6
+47,ManoelAltLite,Computing Forever,2
+48,ManoelAltLite,National Geographic,2
+49,ManoelAltLite,Jordan B Peterson,3
+50,ManoelAltLite,Joe Scott,3
+51,ManoelAltLite,Discovery,1
+52,ManoelAltLite,ReasonTV,3
+53,ManoelAltLite,AsapSCIENCE,1
+54,ManoelAltLite,Real Time with Bill Maher,7
+55,ManoelAltLite,DW Documentary,1
+56,ManoelAltLite,Learn Liberty,8
+57,ManoelAltLite,Professor Dave Explains,8
+58,ManoelAltLite,SciShow,1
+59,ManoelAltLite,Good Morning Britain,14
+60,ManoelAltLite,TED,1
+61,ManoelAltLite,Vsauce,1
+62,ManoelAltLite,Intelligence Squared,1
+63,ManoelAltLite,Zach Hing,7
+64,ManoelAltLite,YouTube,6
+65,ManoelAltLite,Understanding Narcissists,1
+66,ManoelAltLite,Michele Lee Nieves Coaching,1
+67,ManoelAltLite,MedCircle,2
+68,ManoelAltLite,Zane,1
+69,ManoelAltLite,Lisa A. Romano Breakthrough Life Coach Inc.,1
+70,ManoelAltLite,Growth after abuse,1
+71,ManoelAltLite,MovementMaterial,2
+72,ManoelAltLite,Inner Integration,1
+73,ManoelAltLite,Joanna Kujath,1
+74,ManoelAltLite,TED-Ed,1
+75,ManoelAltLite,Tracy Malone,1
+76,ManoelAltLite,Kenn Daily,5
+77,ManoelAltLite,WLKY News Louisville,2
+78,ManoelAltLite,NewsChannel 5,1
+79,ManoelAltLite,The Oregonian,1
+80,ManoelAltLite,LosGranosTV,8
+81,ManoelAltLite,WXYZ-TV Detroit | Channel 7,1
+82,ManoelAltLite,LOCAL 12,1
+83,ManoelAltLite,Adventures with Purpose,4
+84,ManoelAltLite,"Kenneth Frantz, Summit Peak Drones",2
+85,ManoelAltLite,WHAS11,3
+86,ManoelAltLite,News4 WSMV Nashville,1
+87,ManoelAltLite,ABC News,1
+88,ManoelAltLite,First Coast News,1
+89,ManoelAltLite,WKYC Channel 3,1
+90,ManoelAltLite,eNCA,1
+91,ManoelAltLite,BBC Newsnight,1
+92,ManoelAltLite,Mobile Game,5
+93,ManoelAltLite,StevenCrowder,33
+94,ManoelAltLite,Just For Laughs,2
+95,ManoelAltLite,Cody Ko,2
+96,ManoelAltLite,Domination Station,6
+97,ManoelAltLite,SB Nation,1
+98,ManoelAltLite,Ray Zombie,3
+99,ManoelAltLite,LaughPlanet,15
+100,ManoelAltLite,Random Videos,1
+101,ManoelAltLite,bgoogley,1
+102,ManoelAltLite,Hyperloop,1
+103,ManoelAltLite,Trigger Happy Media,3
+104,ManoelAltLite,MLB,1
+105,ManoelAltLite,Comedy Central,13
+106,ManoelAltLite,TPS,2
+107,ManoelAltLite,YAFTV,1
+108,ManoelAltLite,Leo Stratton,4
+109,ManoelAltLite,Jimmy Kimmel Live,1
+110,ManoelAltLite,Guardian News,2
+111,ManoelAltLite,jimgaffigan,9
+112,ManoelAltLite,Nerdwriter1,1
+113,ManoelAltLite,ITV News,4
+114,ManoelAltLite,Ruptly,5
+115,ManoelAltLite,Washington Post,7
+116,ManoelAltLite,Jimmy Carr,37
+117,ManoelAltLite,CNN,6
+118,ManoelAltLite,Senator Ted Cruz,8
+119,ManoelAltLite,Commonwealth Club,50
+120,ManoelAltLite,Jocko Podcast,26
+121,ManoelAltLite,6oodfella,8
+122,ManoelAltLite,PBS NewsHour,28
+123,ManoelAltLite,VICE,7
+124,ManoelAltLite,Skavlan,7
+125,ManoelAltLite,Eckhart Tolle,2
+126,ManoelAltLite,ReaganFoundation,3
+127,ManoelAltLite,Lewis Howes,2
+128,ManoelAltLite,Shannon Q,10
+129,ManoelAltLite,Town Hall Seattle,1
+130,ManoelAltLite,The Fallen State,4
+131,ManoelAltLite,Room for Discussion,16
+132,ManoelAltLite,Destiny,1
+133,ManoelAltLite,The Aspen Institute,9
+134,ManoelAltLite,British GQ,4
+135,ManoelAltLite,Jeremy Vine on 5 - Official Channel,7
+136,ManoelAltLite,Vincent James,3
+137,ManoelAltLite,CBS Los Angeles,1
+138,ManoelAltLite,GQ,9
+139,ManoelAltLite,The Laura Flanders Show,1
+140,ManoelAltLite,CBS New York,1
+141,ManoelAltLite,NBC News,19
+142,ManoelAltLite,Sargon of Akkad Live,5
+143,ManoelAltLite,Discovery Science,1
+144,ManoelAltLite,Bret Weinstein,7
+145,ManoelAltLite,Bull Brand,2
+146,ManoelAltLite,UFC - Ultimate Fighting Championship,1
+147,ManoelAltLite,CBC,7
+148,ManoelAltLite,LBC,3
+149,ManoelAltLite,TVO Docs,2
+150,ManoelAltLite,Ricky Gervais,2
+151,ManoelAltLite,Off The Ball,1
+152,ManoelAltLite,abcqanda,26
+153,ManoelAltLite,The World of Boxing!,1
+154,ManoelAltLite,ProvinceofBC,3
+155,ManoelAltLite,socratesinthecity,2
+156,ManoelAltLite,Josh Gad,1
+157,ManoelAltLite,Chane,3
+158,ManoelAltLite,Brittany Sellner,8
+159,ManoelAltLite,Charisma on Command,9
+160,ManoelAltLite,Brexit Party MEPs,1
+161,ManoelAltLite,Atomic Shrimp,1
+162,ManoelAltLite,FOX 10 Phoenix,8
+163,ManoelAltLite,PowerfulJRE,13
+164,ManoelAltLite,Harold McDonald Jr,6
+165,ManoelAltLite,CrowderBits,2
+166,ManoelAltLite,The Iconoclast,3
+167,ManoelAltLite,Vox,1
+168,ManoelAltLite,The Late Late Show with James Corden,2
+169,ManoelAltLite,AngryJoeShow,3
+170,ManoelAltLite,American Battlefield Trust,1
+171,ManoelAltLite,RedLetterMedia,3
+172,ManoelAltLite,NBC 6 South Florida,1
+173,ManoelAltLite,TagBackTV,2
+174,ManoelAltLite,ABC13 Houston,3
+175,ManoelAltLite,9 News Australia,3
+176,ManoelAltLite,Rumour Juice,1
+177,ManoelAltLite,carwow,1
+178,ManoelAltLite,WPLG Local 10,1
+179,ManoelAltLite,Doug DeMuro,1
+180,ManoelAltLite,PalmBeachPost,1
+181,ManoelAltLite,SpACeFrOoT ENTeRtAinMeNT,3
+182,ManoelAltLite,NBC New York,6
+183,ManoelAltLite,Johnny,4
+184,ManoelAltLite,WPTV News - FL Palm Beaches and Treasure Coast,1
+185,ManoelAltLite,PragerU,2
+186,ManoelAltLite,Sargon of Akkad,1
+187,ManoelAltLite,LegalEagle,4
+188,ManoelAltLite,Kevin O'Leary,13
+189,ManoelAltLite,Bearing,1
+190,ManoelAltLite,Late Night with Seth Meyers,2
+191,ManoelAltLite,JJ Olatunji,2
+192,ManoelAltLite,Stans Scottish Comedy,1
+193,ManoelAltLite,Julie Borowski,4
+194,ManoelAltLite,truTV,2
+195,ManoelAltLite,Thoughty2,1
+196,ManoelAltLite,Complex Hustle,1
+197,ManoelAltLite,LazarBeam,1
+198,ManoelAltLite,Leo Ashe,3
+199,ManoelAltLite,Tyrone Magnus,7
+200,ManoelAltLite,Inside Edition,5
+201,ManoelAltLite,Живой регион,1
+202,ManoelAltLite,Moyers & Company,2
+203,ManoelAltLite,Timeline - World History Documentaries,1
+204,ManoelAltLite,CGP Grey,3
+205,ManoelAltLite,Channel 4 News,3
+206,ManoelAltLite,The New School,1
+207,ManoelAltLite,Gapminder Foundation,2
+208,ManoelAltLite,Toad the Wet Sprocket,1
+209,ManoelAltLite,Jackie Boy,1
+210,ManoelAltLite,Karl Marx,1
+211,ManoelAltLite,Channels Television,1
+212,ManoelAltLite,Carpe Donktum,3
+213,ManoelAltLite,Rodney Dangerfield,1
+214,ManoelAltLite,Gabriel Iglesias,3
+215,ManoelAltLite,Bernie Sanders,2
+216,ManoelAltLite,The Young Turks,11
+217,ManoelAltLite,Boozetowne,1
+218,ManoelAltLite,George Carlin Official YouTube Channel,6
+219,ManoelAltLite,ESPN MMA,2
+220,ManoelAltLite,NELK,1
+221,ManoelAltLite,CNBC,3
+222,ManoelAltLite,Five Star,5
+223,ManoelAltLite,I am Sancho,1
+224,ManoelAltLite,City of Asheville,2
+225,ManoelAltLite,Lauren Southern,2
+226,ManoelAltLite,Grow Successful,1
+227,ManoelAltLite,Gravitahn,2
+228,ManoelAltLite,Pangburn,1
+229,ManoelAltLite,The Charisma Matrix,1
+230,ManoelAltLite,Jubilee,7
+231,ManoelAltLite,VICE News,3
+232,ManoelAltLite,Revenge Of The Cis,3
+233,ManoelAltLite,The Late Late Show,2
+234,ManoelAltLite,CBC News: The National,1
+235,ManoelAltLite,ostacruiser,1
+236,ManoelAltLite,92nd Street Y,1
+237,ManoelAltLite,University of Notre Dame,1
+238,ManoelAltLite,BiolaUniversity,1
+239,ManoelAltLite,The 700 Club,4
+240,ManoelAltLite,Daily Caller,2
+241,ManoelAltLite,Wendover Productions,1
+242,ManoelAltLite,Flamingo,1
+243,ManoelAltLite,Ami Horowitz,1
+244,ManoelAltLite,C-SPAN,5
+245,ManoelAltLite,Valuetainment,5
+246,ManoelAltLite,Starky Savage,2
+247,ManoelAltLite,10 Tampa Bay,4
+248,ManoelAltLite,ROME REPORTS in English,1
+249,ManoelAltLite,EWTN,1
+250,ManoelAltLite,ET Canada,1
+251,ManoelAltLite,MrBeast,3
+252,ManoelAltLite,MR. OBVIOUS,3
+253,ManoelAltLite,Joseph Anderson,1
+254,ManoelAltLite,Internet Historian: Incognito Mode,2
+255,ManoelAltLite,Upper Echelon Gamers,1
+256,ManoelAltLite,Donut Operator,4
+257,ManoelAltLite,Sam Hogan,1
+258,ManoelAltLite,NakeyJakey,1
+259,ManoelAltLite,Turkey Tom,1
+260,ManoelAltLite,Steel Panther,1
+261,ManoelAltLite,Alicia Atout - AMBY Interviews,1
+262,ManoelAltLite,KidsInterviewBands,1
+263,ManoelAltLite,Kamel,1
+264,ManoelAltLite,Aidan Fisher,1
+265,ManoelAltLite,Jomboy Media,2
+266,ManoelAltLite,Planet Rock,1
+267,ManoelAltLite,Danzig,1
+268,ManoelAltLite,Cameron Cooper,1
+269,ManoelAltLite,The Independent,3
+270,ManoelAltLite,daniel formica,1
+271,ManoelAltLite,Premier Guitar,1
+272,ManoelAltLite,Click On Detroit | Local 4 | WDIV,1
+273,ManoelAltLite,Christopher Sheffield,1
+274,ManoelAltLite,Guitarists are Gods,1
+275,ManoelAltLite,Slightly Offens*ve,1
+276,ManoelAltLite,videogamedunkey,1
+277,ManoelAltLite,Jeff Wittek,1
+278,ManoelAltLite,Anthony ONeal,1
+279,ManoelAltLite,Mark Rober,2
+280,ManoelAltLite,KING 5,2
+281,ManoelAltLite,ABC10,6
+282,ManoelAltLite,KSDK News,1
+283,ManoelAltLite,Oppressed Media,2
+284,ManoelAltLite,CavBuffaloSoldier,1
+285,ManoelAltLite,NascarAllOut,1
+286,ManoelAltLite,RawGator,1
+287,ManoelAltLite,Major League Soccer,1
+288,ManoelAltLite,NBC Sports,1
+289,ManoelAltLite,Ellen93779,1
+290,ManoelAltLite,Triggerd,2
+291,ManoelAltLite,SiriusXM,2
+292,ManoelAltLite,Public Freakout Videos,1
+293,ManoelAltLite,Paul P.,1
+294,ManoelAltLite,WCCO - CBS Minnesota,1
+295,ManoelAltLite,FS MaNiA,2
+296,ManoelAltLite,News2Share,2
+297,ManoelAltLite,Detroit Free Press,1
+298,ManoelAltLite,TRT World,5
+299,ManoelAltLite,What Would You Do?,1
+300,ManoelAltLite,NowThis News,4
+301,ManoelAltLite,Global News,9
+302,ManoelAltLite,Fox Business,1
+303,ManoelAltLite,KENS 5: Your San Antonio News Source,1
+304,ManoelAltLite,NYup,1
+305,ManoelAltLite,The Amazing Lucas,1
+306,ManoelAltLite,Netflix Is A Joke,3
+307,ManoelAltLite,Doctor Mike Hansen,1
+308,ManoelAltLite,Skip and Shannon: UNDISPUTED,1
+309,ManoelAltLite,Daily Dose Of Internet,1
+310,ManoelAltLite,Leadership Institute,2
+311,ManoelAltLite,The Critical Drinker,1
+312,ManoelAltLite,BlazeTV,2
+313,ManoelAltLite,FOX 13 News - Tampa Bay,1
+314,ManoelAltLite,USA TODAY,1
+315,ManoelAltLite,ProductiehuisEU,1
+316,ManoelAltLite,CBS News,1
+317,ManoelAltLite,Passport Two,1
+318,ManoelAltLite,Lauren Chen,1
+319,ManoelAltLite,Drew Gooden,1
+320,ManoelAltLite,Lindsay Ellis,1
+321,ManoelAltLite,Swell Entertainment,1
+322,ManoelAltLite,loveliveserve,1
+323,ManoelAltLite,Def Noodles,1
+324,ManoelAltLite,Rebel News,2
+325,ManoelAltLite,China in Focus - NTD,1
+326,ManoelAltLite,Pierre Poilievre,1
+327,ManoelAltLite,Viva Frei,2
+328,ManoelAltLite,Sky News Australia,8
+329,ManoelAltLite,Dry Bar Comedy,1
+330,ManoelAltLite,AP Archive,1
+331,ManoelAltLite,Ravi Zacharias International Ministries,1
+332,ManoelAltLite,i24NEWS English,3
+333,ManoelAltLite,Johnny Bigger,1
+334,ManoelAltLite,Rebel Edge,1
+335,ManoelAltLite,Big Think,1
+336,ManoelAltLite,Sky News,1
+337,ManoelAltLite,BBC News,2
+338,ManoelAltLite,Stefan Molyneux,1
+339,ManoelAltLite,CNBC Television,1
+340,ManoelAltLite,Netflix,1
+341,ManoelAltLite,Nimbus School of Recording & Media,2
+342,ManoelAltLite,SonicScoop,1
+343,ManoelAltLite,Cheddar,1
+344,ManoelAltLite,WAY AWAY,1
+345,ManoelAltLite,It's Me or the Dog,1
+346,ManoelAltLite,CulpFiction Vlogs,1
+347,ManoelAltLite,Top Viral Talent,1
+348,ManoelAltLite,Eddie Bauer,1
+349,ManoelAltLite,CHEK News,2
+350,ManoelAltLite,Legacy.com,1
+351,ManoelAltLite,Real Engineering,1
+352,ManoelAltLite,OMG Blast,1
+353,ManoelAltLite,Joseph Sciambra,1
+354,ManoelAltLite,Linus Tech Tips,3
+355,ManoelAltLite,Senator John Cornyn,1
+356,ManoelAltLite,Senator Josh Hawley,1
+357,ManoelAltLite,senatormikelee,1
+358,ManoelAltLite,WhatAreYouBuyen,1
+359,ManoelAltLite,The Hill,2
+360,ManoelAltLite,Senator John Kennedy,1
+361,ManoelAltLite,Blonde in the Belly of the Beast,4
+362,ManoelAltLite,riserecords,1
+363,ManoelAltLite,Reagan Library,1
+364,ManoelAltLite,Matt and Jeff,1
+365,ManoelAltLite,Premier 1 Driver,1
+366,ManoelAltLite,Fire Films,6
+367,ManoelAltLite,vpro documentary,1
+368,ManoelAltLite,Evo161AOR,1
+369,ManoelAltLite,Enigma,4
+370,ManoelAltLite,Theo Von,1
+371,ManoelAltLite,WSYX ABC 6,1
+372,ManoelAltLite,We Heart Lives,1
+373,ManoelAltLite,NBCLA,2
+374,ManoelAltLite,Funny Videos,1
+375,ManoelAltLite,CNN Business,1
+376,ManoelAltLite,ABC 10 News,1
+377,ManoelAltLite,Mr Sunday Movies,1
+378,ManoelAltLite,AIU-Resurrection,2
+379,ManoelAltLite,Vinai T,1
+380,ManoelAltLite,Karl Golden,1
+381,ManoelAltLite,Allman Brothers on MV,1
+382,ManoelAltLite,Don Giller,1
+383,ManoelAltLite,The Dick Cavett Show,1
+384,ManoelAltLite,Silicon Valley Historical Association,1
+385,ManoelAltLite,Chicago Humanities Festival,1
+386,ManoelAltLite,Eric Thigpen,1
+387,ManoelAltLite,Fight the New Drug,1
+388,ManoelAltLite,Yearbook,1
+389,ManoelAltLite,YourMomsHousePodcast,1
+390,ManoelAltLite,A&E,1
+391,ManoelAltLite,mcnyregrus,1
+392,ManoelAltLite,Ryan Walker,1
+393,ManoelAltLite,julie,1
+394,ManoelAltLite,David Bennett Piano,1
+395,ManoelAltLite,Bite-sized Philosophy,1
+396,ManoelAltLite,The Atlantic,2
+397,ManoelAltLite,Encore +,3
+398,ManoelAltLite,mark normand,1
+399,ManoelAltLite,talkRADIO,1
+400,ManoelAltLite,BuzzFeedVideo,1
+401,ManoelAltLite,Teen Vogue,2
+402,ManoelAltLite,The Real Daytime,1
+403,ManoelAltLite,VH1,1
+404,ManoelAltLite,Focused.Arts.Media.Education.,1
+405,ManoelAltLite,CNBC Make It.,1
+406,ManoelAltLite,Kyle Hill,2
+407,ManoelAltLite,Kurzgesagt – In a Nutshell,1
+408,ManoelAltLite,Matt Lowne,1
+409,ManoelAltLite,WonderWhy,1
+410,ManoelAltLite,Official Strongman,1
+411,ManoelAltLite,Sweeneytv,1
+412,ManoelAltLite,Benjy,2
+413,ManoelAltLite,The Truth,1
+414,ManoelAltLite,Kringe,1
+415,ManoelAltLite,madworld tv,1
+416,ManoelAltLite,Paula Ticks,1
+417,ManoelAltLite,Kek Wills It,1
+418,ManoelAltLite,SceneScreen,1
+419,ManoelAltLite,OWN,1
+420,ManoelAltLite,Wild 'N Out,3
+421,ManoelAltLite,MTV News,3
+422,ManoelAltLite,Seven Hip-Hop,1
+423,ManoelAltLite,Andywarski,1
+424,ManoelAltLite,Danny Gonzalez,1
+425,ManoelAltLite,Joon The King,1
+426,ManoelAltLite,Jabroney,1
+427,ManoelAltLite,Edwins Generation,1
+428,ManoelAltLite,j aubrey,2
+429,ManoelAltLite,Cinemassacre,1
+430,ManoelAltLite,YourMovieSucksDOTorg,2
+431,ManoelAltLite,Unus Annus,1
+432,ManoelAltLite,News Be Funny,1
+433,ManoelAltLite,BDZ,1
+434,ManoelAltLite,The Act Man,1
+435,ManoelAltLite,OriginalHuman,1
+436,ManoelAltLite,Asmongold TV,1
+437,ManoelAltLite,Central Vermont Career Center,2
+438,ManoelAltLite,RTV6 The Indy Channel,1
+439,ManoelAltLite,S1apSh0es,1
+440,ManoelAltLite,BuzzFeed Multiplayer,1
+441,ManoelAltLite,Eyewitness News ABC7NY,1
+442,ManoelAltLite,KHOU 11,1
+443,ManoelAltLite,Gerry Pacemakers,1
+444,ManoelAltLite,Smithsonian Channel,1
+445,ManoelAltLite,Corridor Crew,1
+446,ManoelAltLite,User,1
+447,ManoelAltLite,John Ward,1
+448,ManoelAltLite,Eddie 'The Beast' Hall,1
+449,ManoelAltLite,Late Night Berlin,1
+450,ManoelAltLite,Chris Stuckmann,1
+451,ManoelAltLite,Bon Appétit,1
+452,ManoelAltLite,JYP Entertainment,1
+453,ManoelAltLite,Minecraft,1
+454,ManoelAltLite,SMTOWN,1
+455,ManoelAltLite,Oliver Tree,1
+456,ManoelAltLite,Binging with Babish,1
+457,ManoelAltLite,starshipTV,1
+458,ManoelAltLite,Screen Junkies,1
+459,ManoelAltLite,KARE 11,1
+460,ManoelAltLite,ABC News In-depth,2
+461,ManoelAltLite,Patriot Act,1
+462,ManoelAltLite,Cosgrove Prod.,1
+463,ManoelAltLite,Troydan,1
+464,ManoelAltLite,Epic History TV,1
+465,ManoelAltLite,Mississippi Public Broadcasting,1
+466,ManoelAltLite,Free To Choose Network,1
+467,ManoelAltLite,European Institute for Gender Equality,1
+468,ManoelAltLite,NASA,1
+469,ManoelAltLite,Dude Perfect,1
+470,ManoelAltLite,Vanity Fair,1
+471,ManoelAltLite,WIRED,1
+472,ManoelAltLite,BUILD Series,1
+473,ManoelAltLite,MxR Plays,1
+474,ManoelAltLite,Official Jim Cornette,2
+475,ManoelAltLite,Kings and Generals,1
+476,ManoelAltLite,Jalopnik,1
+477,ManoelAltLite,The Andrew Schulz,1
+478,ManoelAltLite,Elex Michaelson,1
+479,ManoelAltLite,The Circus on SHOWTIME,1
+480,ManoelAltLite,CBC News,1
+481,ManoelAltLite,Centennial Institute,1

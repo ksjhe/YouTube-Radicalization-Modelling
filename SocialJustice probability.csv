@@ -1,309 +1,655 @@
-,Category,Next Channel,Probability
-0,Educational News,AM to DM,0.03492063492063492
-1,Educational News,TANISHA LAVERNE GRANT,0.0015873015873015873
-2,Educational News,Austin & Jess Vlogs,0.0015873015873015873
-3,Educational News,TheTalko,0.0031746031746031746
-4,Educational News,Netflix Is A Joke,0.0015873015873015873
-5,Educational News,The Late Show with Stephen Colbert,0.004761904761904762
-6,Educational News,Film at Lincoln Center,0.0015873015873015873
-7,Educational News,serendipity,0.0015873015873015873
-8,Educational News,Strahan Sara and Keke,0.007936507936507936
-9,Educational News,Marla Catherine,0.0015873015873015873
-10,Educational News,Arthur Kade,0.0015873015873015873
-11,Educational News,Sarahs Day,0.0015873015873015873
-12,Educational News,Bobblehead Conan,0.0015873015873015873
-13,Educational News,Daddyhunt App,0.0015873015873015873
-14,Educational News,Google,0.0015873015873015873
-15,Educational News,TODAY,0.011111111111111112
-16,Educational News,Aifoss,0.0015873015873015873
-17,Educational News,Entertainment Tonight,0.004761904761904762
-18,Educational News,BUILD Series,0.011111111111111112
-19,Educational News,VICE TV,0.020634920634920634
-20,Educational News,VICE Life,0.004761904761904762
-21,Educational News,sequiser.vallier,0.0031746031746031746
-22,Educational News,julio1988,0.0015873015873015873
-23,Educational News,VICE,0.011111111111111112
-24,Educational News,Larry King,0.0015873015873015873
-25,Educational News,Trill Future,0.0015873015873015873
-26,Educational News,LastWeekTonight,0.0015873015873015873
-27,Educational News,Munchies,0.0031746031746031746
-28,Educational News,Comedy Central Stand-Up,0.0031746031746031746
-29,Educational News,Mia Hagerty,0.0015873015873015873
-30,Educational News,PeterCaribbeanCruise,0.0015873015873015873
-31,Educational News,Mia Mulder,0.05238095238095238
-32,Educational News,Philosophy Tube,0.007936507936507936
-33,Educational News,ContraPoints,0.007936507936507936
-34,Educational News,let's talk about stuff.,0.0015873015873015873
-35,Educational News,Samantha Lux,0.0015873015873015873
-36,Educational News,hayitsmatthew,0.0015873015873015873
-37,Educational News,FUNDACIÓN JUAN MARCH,0.0015873015873015873
-38,Educational News,Questing Beast,0.0015873015873015873
-39,Educational News,Jason Sliger,0.0015873015873015873
-40,Educational News,Rufus Wainwright,0.004761904761904762
-41,Educational News,Olive Toulouse,0.0015873015873015873
-42,Educational News,lyric1228,0.0015873015873015873
-43,Educational News,FastTheLatestNews,0.0015873015873015873
-44,Educational News,BBC Radio 2,0.0015873015873015873
-45,Educational News,Phil Robertson,0.0015873015873015873
-46,Educational News,Xtra Magazine,0.0015873015873015873
-47,Educational News,mjp221972,0.0015873015873015873
-48,Educational News,onemediamusic,0.0015873015873015873
-49,Educational News,lordravenhill,0.007936507936507936
-50,Educational News,CBC,0.0015873015873015873
-51,Educational News,Watch What Happens Live with Andy Cohen,0.006349206349206349
-52,Educational News,92nd Street Y,0.006349206349206349
-53,Educational News,PeopleTV,0.004761904761904762
-54,Educational News,q on cbc,0.0015873015873015873
-55,Educational News,The Fowler Show,0.03015873015873016
-56,Educational News,YouTube,0.0015873015873015873
-57,Educational News,David Guetta,0.0015873015873015873
-58,Educational News,AA Speakers and More,0.0015873015873015873
-59,Educational News,Saturday Night Live,0.006349206349206349
-60,Educational News,The Office,0.0015873015873015873
-61,Educational News,Chicago Humanities Festival,0.0031746031746031746
-62,Educational News,WQED Pittsburgh,0.0015873015873015873
-63,Educational News,Real Families,0.012698412698412698
-64,Educational News,Trend Max,0.0031746031746031746
-65,Educational News,Nicki Swift,0.0015873015873015873
-66,Educational News,bigbangbonanza,0.0031746031746031746
-67,Educational News,OWN,0.007936507936507936
-68,Educational News,CBC News: The National,0.012698412698412698
-69,Educational News,Congresswoman Cheri Bustos,0.0015873015873015873
-70,Educational News,Jimmy Carr,0.007936507936507936
-71,Educational News,House Committee on Education and Labor,0.0015873015873015873
-72,Educational News,NBC News,0.009523809523809525
-73,Educational News,Lewis Howes,0.0031746031746031746
-74,Educational News,WLWT,0.0015873015873015873
-75,Educational News,AFP News Agency,0.0015873015873015873
-76,Educational News,MLive,0.0015873015873015873
-77,Educational News,truTV,0.006349206349206349
-78,Educational News,Montreal Gazette,0.0015873015873015873
-79,Educational News,The Atheist Experience,0.0015873015873015873
-80,Educational News,NBCLA,0.0031746031746031746
-81,Educational News,LaughPlanet,0.004761904761904762
-82,Educational News,PBS NewsHour,0.0031746031746031746
-83,Educational News,BiolaUniversity,0.0015873015873015873
-84,Educational News,Out & About Nashville,0.0015873015873015873
-85,Educational News,socratesinthecity,0.004761904761904762
-86,Educational News,Annenberg School for Communication,0.0015873015873015873
-87,Educational News,Whitney Cummings,0.0015873015873015873
-88,Educational News,Jimmy Kimmel Live,0.0031746031746031746
-89,Educational News,RubinMuseum,0.0015873015873015873
-90,Educational News,Pete Holmes,0.0015873015873015873
-91,Educational News,The Wendy Williams Show,0.0031746031746031746
-92,Educational News,The Late Late Show with James Corden,0.006349206349206349
-93,Educational News,BDZ,0.0031746031746031746
-94,Educational News,jimgaffigan,0.0015873015873015873
-95,Educational News,Russell Brand,0.0015873015873015873
-96,Educational News,LIVEKellyandRyan,0.0015873015873015873
-97,Educational News,First We Feast,0.0015873015873015873
-98,Educational News,Mississippi Public Broadcasting,0.004761904761904762
-99,Educational News,BetterHelp,0.0015873015873015873
-100,Educational News,The Zero Hour with RJ Eskow,0.014285714285714285
-101,Educational News,The Royal Institution,0.004761904761904762
-102,Educational News,Eric Garcetti,0.0031746031746031746
-103,Educational News,9 News Australia,0.01746031746031746
-104,Educational News,NewYork-Presbyterian Hospital,0.0031746031746031746
-105,Educational News,KTLA 5,0.006349206349206349
-106,Educational News,Fox News,0.025396825396825397
-107,Educational News,WXYZ-TV Detroit | Channel 7,0.0015873015873015873
-108,Educational News,BBC Newsnight,0.0031746031746031746
-109,Educational News,AnthonyPadilla,0.0015873015873015873
-110,Educational News,Fresh Lifestyle,0.0031746031746031746
-111,Educational News,恕我直言,0.0015873015873015873
-112,Educational News,Jaymes Mansfield,0.0015873015873015873
-113,Educational News,Josh Gad,0.007936507936507936
-114,Educational News,Isla Rose,0.0015873015873015873
-115,Educational News,Tinder,0.0015873015873015873
-116,Educational News,TEDx Talks,0.007936507936507936
-117,Educational News,them,0.0031746031746031746
-118,Educational News,GQ,0.011111111111111112
-119,Educational News,Zooming In with Simone Gao,0.0015873015873015873
-120,Educational News,The Boiler Room,0.0015873015873015873
-121,Educational News,Financial Post,0.0015873015873015873
-122,Educational News,WELT Documentary,0.0015873015873015873
-123,Educational News,Anthony Pompliano,0.0031746031746031746
-124,Educational News,Deep Look,0.0031746031746031746
-125,Educational News,Vox,0.0015873015873015873
-126,Educational News,NASA,0.0031746031746031746
-127,Educational News,The Intercept,0.0015873015873015873
-128,Educational News,George Carlin Official YouTube Channel,0.0015873015873015873
-129,Educational News,CBC Vancouver,0.0031746031746031746
-130,Educational News,Bleacher Report,0.0015873015873015873
-131,Educational News,Russell Howard,0.0015873015873015873
-132,Educational News,VICE News,0.004761904761904762
-133,Educational News,Rolling Stone,0.0015873015873015873
-134,Educational News,Sky News Australia,0.0015873015873015873
-135,Educational News,ognet,0.0015873015873015873
-136,Educational News,Matt Orfalea,0.0015873015873015873
-137,Educational News,ABC TV & iview,0.0015873015873015873
-138,Educational News,Fire Films,0.0015873015873015873
-139,Educational News,Yahoo Finance,0.0015873015873015873
-140,Educational News,The Hill,0.0015873015873015873
-141,Educational News,TV One,0.0015873015873015873
-142,Educational News,The Knockturnal,0.0015873015873015873
-143,Educational News,The Actors Fund,0.0015873015873015873
-144,Educational News,Wild 'N Out,0.0031746031746031746
-145,Educational News,Paper Planes Collective LA,0.0015873015873015873
-146,Educational News,RuPaul's Drag Race,0.0031746031746031746
-147,Educational News,WIRED,0.004761904761904762
-148,Educational News,Southern AIDS Coalition,0.0015873015873015873
-149,Educational News,ET Canada,0.007936507936507936
-150,Educational News,Studio 10,0.0031746031746031746
-151,Educational News,JacobOlli,0.0015873015873015873
-152,Educational News,OK! Magazine,0.0015873015873015873
-153,Educational News,The Why,0.0015873015873015873
-154,Educational News,This Happened,0.006349206349206349
-155,Educational News,The Tonight Show Starring Jimmy Fallon,0.004761904761904762
-156,Educational News,Crazy Youngster,0.0015873015873015873
-157,Educational News,Top Famous Tube,0.0015873015873015873
-158,Educational News,On Air With Ryan Seacrest,0.0015873015873015873
-159,Educational News,blairingoutshow,0.0015873015873015873
-160,Educational News,BuzzFeed Celeb,0.0031746031746031746
-161,Educational News,Anna Kendrick Vietnam,0.0015873015873015873
-162,Educational News,TheThings,0.0015873015873015873
-163,Educational News,Enigma,0.007936507936507936
-164,Educational News,gretchentwo,0.0031746031746031746
-165,Educational News,Ruby Rose Latin Fans,0.0015873015873015873
-166,Educational News,BillionaireFacts,0.0015873015873015873
-167,Educational News,Just For Laughs,0.0015873015873015873
-168,Educational News,Ana Ramírez,0.0015873015873015873
-169,Educational News,AIB,0.0015873015873015873
-170,Educational News,Ask A Mortician,0.0015873015873015873
-171,Educational News,Stand to Reason,0.0015873015873015873
-172,Educational News,Jubilee,0.0015873015873015873
-173,Educational News,University of California Television (UCTV),0.0031746031746031746
-174,Educational News,sv3rige,0.0015873015873015873
-175,Educational News,Family Guy,0.0015873015873015873
-176,Educational News,Ligonier Ministries,0.0015873015873015873
-177,Educational News,Pop-Up Magazine,0.0015873015873015873
-178,Educational News,Nick Viall,0.0015873015873015873
-179,Educational News,American Museum of Natural History,0.0015873015873015873
-180,Educational News,Good Morning Britain,0.0031746031746031746
-181,Educational News,CNN,0.006349206349206349
-182,Educational News,Tyson Beck,0.0015873015873015873
-183,Educational News,SBS Dateline,0.0015873015873015873
-184,Educational News,GameSpot Universe,0.0015873015873015873
-185,Educational News,xisumavoid,0.0015873015873015873
-186,Educational News,Looper,0.0031746031746031746
-187,Educational News,Christo Aivalis,0.004761904761904762
-188,Educational News,My Little Villagers,0.0015873015873015873
-189,Educational News,Digiday,0.0015873015873015873
-190,Educational News,LazarBeam,0.0015873015873015873
-191,Educational News,The Pat McAfee Show,0.0031746031746031746
-192,Educational News,ABC News (Australia),0.007936507936507936
-193,Educational News,Tv Obsessed,0.007936507936507936
-194,Educational News,The blended Shepard family,0.0015873015873015873
-195,Educational News,Lauren and Cameron Fan,0.0031746031746031746
-196,Educational News,TheEllenShow,0.0015873015873015873
-197,Educational News,editsbyrebecca,0.0015873015873015873
-198,Educational News,Hanging With The Hamiltons,0.0015873015873015873
-199,Educational News,SWAY'S UNIVERSE,0.0015873015873015873
-200,Educational News,CBS 42,0.0015873015873015873
-201,Educational News,LaJoy Cox,0.0015873015873015873
-202,Educational News,Netflix,0.0015873015873015873
-203,Educational News,11Alive,0.0031746031746031746
-204,Educational News,YouTube Movies,0.007936507936507936
-205,Educational News,WOWPresents,0.0015873015873015873
-206,Educational News,Pavlov Paul,0.0015873015873015873
-207,Educational News,Mr Sunday Movies,0.0015873015873015873
-208,Educational News,Red Dead,0.0015873015873015873
-209,Educational News,#Mind Warehouse,0.0015873015873015873
-210,Educational News,Caribbean News,0.0015873015873015873
-211,Educational News,Joseph Shepherd,0.0015873015873015873
-212,Educational News,WGBH News,0.0015873015873015873
-213,Educational News,92Y Plus,0.0015873015873015873
-214,Educational News,Yeah that's so it,0.004761904761904762
-215,Educational News,Variety,0.0015873015873015873
-216,Educational News,Chelsea,0.0015873015873015873
-217,Educational News,FrownsUpsideDown,0.0015873015873015873
-218,Educational News,BK Beats & Eats,0.0015873015873015873
-219,Educational News,Life Stories By Goalcast,0.0015873015873015873
-220,Educational News,Team Coco,0.0031746031746031746
-221,Educational News,NBC,0.0015873015873015873
-222,Educational News,bytheway,0.0015873015873015873
-223,Educational News,Clark Destry,0.0015873015873015873
-224,Educational News,FOX 9 News | KMSP-TV Minneapolis-St. Paul,0.0015873015873015873
-225,Educational News,Jocko Podcast,0.0031746031746031746
-226,Educational News,Eckhart Tolle,0.0015873015873015873
-227,Educational News,BBC,0.0015873015873015873
-228,Educational News,TED,0.0031746031746031746
-229,Educational News,ABC 10 News,0.004761904761904762
-230,Educational News,MTV,0.0031746031746031746
-231,Educational News,Official Jim Cornette,0.0015873015873015873
-232,Educational News,CBSDFW,0.0015873015873015873
-233,Educational News,Valuetainment,0.0015873015873015873
-234,Educational News,Wigdor LLP - Employment Lawyer NYC,0.0015873015873015873
-235,Educational News,HooverInstitution,0.0015873015873015873
-236,Educational News,Zoe Amira,0.0015873015873015873
-237,Educational News,wwwICEgov,0.0015873015873015873
-238,Educational News,Danny Gonzalez,0.0015873015873015873
-239,Educational News,BBC News,0.0015873015873015873
-240,Educational News,The People,0.0015873015873015873
-241,Educational News,Channel 4 News,0.0015873015873015873
-242,Educational News,The Economist,0.0015873015873015873
-243,Educational News,Jamie Oliver,0.006349206349206349
-244,Educational News,NPR,0.0015873015873015873
-245,Educational News,Diabetes UK,0.0031746031746031746
-246,Educational News,melodysheep,0.0015873015873015873
-247,Educational News,Reagan Library,0.0015873015873015873
-248,Educational News,Rodney Dangerfield,0.004761904761904762
-249,Educational News,The Carol Burnett Show Official,0.0015873015873015873
-250,Educational News,Christ Community Chapel,0.0015873015873015873
-251,Educational News,Open Goal,0.0015873015873015873
-252,Educational News,Derpston P Derp,0.0031746031746031746
-253,Educational News,TMZLive,0.0015873015873015873
-254,Educational News,Best Ever Food Review Show,0.004761904761904762
-255,Educational News,USA TODAY,0.0015873015873015873
-256,Educational News,Mark Rober,0.0031746031746031746
-257,Educational News,Lifetime,0.0031746031746031746
-258,Educational News,Washington Post,0.0015873015873015873
-259,Educational News,SmarterEveryDay,0.0015873015873015873
-260,Educational News,Gordon Ramsay,0.0015873015873015873
-261,Educational News,DW News,0.0015873015873015873
-262,Educational News,Talks at Google,0.0015873015873015873
-263,Educational News,OSSA,0.004761904761904762
-264,Educational News,Hollywood 101,0.004761904761904762
-265,Educational News,Women in the World,0.0015873015873015873
-266,Educational News,Made The Cut,0.0015873015873015873
-267,Educational News,Real Time with Bill Maher,0.0015873015873015873
-268,Educational News,Top 10 Beyond The Screen,0.0015873015873015873
-269,Educational News,Zack Pictures,0.0015873015873015873
-270,Educational News,JRE Clips,0.0015873015873015873
-271,Educational News,Salon,0.0015873015873015873
-272,Educational News,STYLE TV,0.0015873015873015873
-273,Educational News,Brain Power Studio,0.0015873015873015873
-274,Educational News,TREND NEST,0.0015873015873015873
-275,Educational News,NO offense,0.0015873015873015873
-276,Educational News,hayu,0.0015873015873015873
-277,Educational News,Patriot Act,0.0015873015873015873
-278,Educational News,Top Viral Talent,0.0015873015873015873
-279,Educational News,Jordan Waddell,0.0015873015873015873
-280,Educational News,doesitmatter,0.0015873015873015873
-281,Educational News,X Factor Global,0.0015873015873015873
-282,Educational News,Litalici0us,0.0015873015873015873
-283,Educational News,John Smith,0.0015873015873015873
-284,Educational News,Fox Soul,0.0031746031746031746
-285,Educational News,EpicTime,0.0015873015873015873
-286,Educational News,BBC America,0.0015873015873015873
-287,Educational News,Bite Sized Media,0.0015873015873015873
-288,Educational News,FilmIsNow Movie Bloopers & Extras,0.0015873015873015873
-289,Educational News,Vogue,0.0015873015873015873
-290,Educational News,The Insider,0.0015873015873015873
-291,Educational News,Karl Marx,0.0031746031746031746
-292,Educational News,Dance Tards,0.0015873015873015873
-293,Educational News,E! Red Carpet & Award Shows,0.0015873015873015873
-294,Educational News,The Honest Guys - Meditations - Relaxation,0.0015873015873015873
-295,Educational News,The Graham Norton Show,0.0031746031746031746
-296,Educational News,The View,0.0015873015873015873
-297,Educational News,Stratford Festival,0.0015873015873015873
-298,Educational News,POPSUGAR,0.0015873015873015873
-299,Educational News,Miguinhaaaaa,0.0015873015873015873
-300,Educational News,wbls1075nyc,0.0031746031746031746
-301,Educational News,The Real Daytime,0.0031746031746031746
-302,Educational News,What Would You Do?,0.0015873015873015873
-303,Educational News,fiscutea Vlogs,0.0015873015873015873
-304,Educational News,venomax,0.0015873015873015873
-305,Educational News,The Good Place,0.0015873015873015873
-306,Educational News,Sister Circle TV,0.0015873015873015873
-307,Educational News,ATXFestival,0.0015873015873015873
+,Category,Next Channel,Count
+0,SocialJustice,Step Back History,19
+1,SocialJustice,92nd Street Y,39
+2,SocialJustice,Theo Von,3
+3,SocialJustice,Fox News,52
+4,SocialJustice,KQED,1
+5,SocialJustice,Three Arrows,21
+6,SocialJustice,Philosophy Tube,35
+7,SocialJustice,PHubb,1
+8,SocialJustice,The Forgotten- History Podcast,1
+9,SocialJustice,ContraPoints,10
+10,SocialJustice,Shaun,26
+11,SocialJustice,CGP Grey,13
+12,SocialJustice,Rebel Diaz,21
+13,SocialJustice,YouTube,34
+14,SocialJustice,naturesoundsmusic,1
+15,SocialJustice,GlobalFaction,2
+16,SocialJustice,mcultras,1
+17,SocialJustice,ANTI- Records,1
+18,SocialJustice,Pitchfork,2
+19,SocialJustice,BONNOTMUSIC,1
+20,SocialJustice,deadprezVEVO,3
+21,SocialJustice,Nacional Records,6
+22,SocialJustice,The Cypher Effect: Hip Hop Music Network,1
+23,SocialJustice,tgosse,2
+24,SocialJustice,Peter Coffin,44
+25,SocialJustice,The Atlantic,18
+26,SocialJustice,MSNBC,40
+27,SocialJustice,Global News,3
+28,SocialJustice,Maclean's,1
+29,SocialJustice,Late Night with Seth Meyers,6
+30,SocialJustice,BBC Newsnight,3
+31,SocialJustice,CNN,13
+32,SocialJustice,The Tonight Show Starring Jimmy Fallon,3
+33,SocialJustice,Guardian News,4
+34,SocialJustice,The Late Show with Stephen Colbert,11
+35,SocialJustice,ABC News,7
+36,SocialJustice,The Economist,9
+37,SocialJustice,LastWeekTonight,41
+38,SocialJustice,The Laura Flanders Show,8
+39,SocialJustice,The New School,45
+40,SocialJustice,Barnard Center for Research on Women,1
+41,SocialJustice,Othering & Belonging Institute,1
+42,SocialJustice,Angela Rye,1
+43,SocialJustice,CreativeMornings HQ,1
+44,SocialJustice,Chicago Humanities Festival,3
+45,SocialJustice,Democracy Now!,1
+46,SocialJustice,Bertelsmann Foundation,3
+47,SocialJustice,The Nation,1
+48,SocialJustice,TEDx Talks,15
+49,SocialJustice,HooverInstitution,57
+50,SocialJustice,UChicago Institute of Politics,1
+51,SocialJustice,Understood,4
+52,SocialJustice,CBC,13
+53,SocialJustice,Acronym TV,4
+54,SocialJustice,TRT World,8
+55,SocialJustice,Voices of a People's History of the United States,6
+56,SocialJustice,Movieclips Indie,1
+57,SocialJustice,NBCLA,9
+58,SocialJustice,Patriot Act,22
+59,SocialJustice,Mississippi Public Broadcasting,10
+60,SocialJustice,WIRED UK,4
+61,SocialJustice,Ayn Rand Institute,1
+62,SocialJustice,MovementMaterial,10
+63,SocialJustice,MEANS TV,10
+64,SocialJustice,Chapo Trap House,1
+65,SocialJustice,Levy Economics Institute,29
+66,SocialJustice,VICE News,5
+67,SocialJustice,Town Hall Seattle,5
+68,SocialJustice,Learn Liberty,5
+69,SocialJustice,WGBHForum,2
+70,SocialJustice,The Zero Hour with RJ Eskow,1
+71,SocialJustice,Moyers & Company,6
+72,SocialJustice,Council on Foreign Relations,2
+73,SocialJustice,Al Jazeera America,1
+74,SocialJustice,Dartmouth,2
+75,SocialJustice,Rolling Stone,5
+76,SocialJustice,ProPublica,6
+77,SocialJustice,WIRED,5
+78,SocialJustice,ABC11,1
+79,SocialJustice,Vox,13
+80,SocialJustice,Zach Star,1
+81,SocialJustice,NewsChannel 5,1
+82,SocialJustice,Ranywayz Random,1
+83,SocialJustice,The Infographics Show,3
+84,SocialJustice,Washington Post,3
+85,SocialJustice,Rocky Mountain PBS,6
+86,SocialJustice,TED,6
+87,SocialJustice,TMJ4 News,2
+88,SocialJustice,Rachael Ray Show,1
+89,SocialJustice,University of California Television (UCTV),9
+90,SocialJustice,Valuetainment,1
+91,SocialJustice,let's talk about stuff.,11
+92,SocialJustice,Studio 10,3
+93,SocialJustice,TV Promos,1
+94,SocialJustice,Atomic Shrimp,2
+95,SocialJustice,KPBS,1
+96,SocialJustice,FS MaNiA,1
+97,SocialJustice,WYCC PBS Chicago,1
+98,SocialJustice,The People,2
+99,SocialJustice,Central Washington University,1
+100,SocialJustice,NCASVideo,4
+101,SocialJustice,Jordan B Peterson,3
+102,SocialJustice,Brian Tyler Cohen,3
+103,SocialJustice,Big Think,1
+104,SocialJustice,EssenceOfThought,6
+105,SocialJustice,University of Notre Dame,25
+106,SocialJustice,The Atheist Experience,3
+107,SocialJustice,Professor Dave Explains,15
+108,SocialJustice,Talk Heathen,1
+109,SocialJustice,The Rubin Report,1
+110,SocialJustice,LegalEagle,7
+111,SocialJustice,The Guardian,8
+112,SocialJustice,NourFoundation,1
+113,SocialJustice,The 700 Club,3
+114,SocialJustice,Theosophical Society,1
+115,SocialJustice,"Univ. of California, Riverside",2
+116,SocialJustice,KMVT,3
+117,SocialJustice,100huntley,1
+118,SocialJustice,Crossroads Church,1
+119,SocialJustice,TODAY,7
+120,SocialJustice,Queen of Peace Media,1
+121,SocialJustice,TheColumbusDispatch,1
+122,SocialJustice,Dustin Warncke,1
+123,SocialJustice,Kansas City Star,1
+124,SocialJustice,JULIETT ZOYA,1
+125,SocialJustice,Kristi Winters,6
+126,SocialJustice,FightinCowboy,1
+127,SocialJustice,KUYA JOP PH CASTER,1
+128,SocialJustice,Lex Fridman,1
+129,SocialJustice,TheDMsCraft,1
+130,SocialJustice,Esper the Bard,1
+131,SocialJustice,Philosophy Overdose,1
+132,SocialJustice,BuzzFeedVideo,1
+133,SocialJustice,The Film Theorists,1
+134,SocialJustice,AwbeeX57,1
+135,SocialJustice,The Dice Tower,2
+136,SocialJustice,DawnforgedCast,1
+137,SocialJustice,Papa Aggron,1
+138,SocialJustice,Discos Fuentes Edimusica,1
+139,SocialJustice,Klangselektor - Topic,1
+140,SocialJustice,LosGranosTV,1
+141,SocialJustice,Daddy Yankee,1
+142,SocialJustice,mrdaveyd,1
+143,SocialJustice,Black Star - Topic,1
+144,SocialJustice,Proyecto Sonidero,1
+145,SocialJustice,The Cypher Effect En Español,1
+146,SocialJustice,Clark Destry,1
+147,SocialJustice,MosDefVEVO,1
+148,SocialJustice,Marcel Cartier,1
+149,SocialJustice,Brian Boxer Wachler,1
+150,SocialJustice,NBC New York,7
+151,SocialJustice,The New York Times,7
+152,SocialJustice,"American College of Allergy, Asthma and Immunology",1
+153,SocialJustice,60 Minutes Australia,6
+154,SocialJustice,CBC News,6
+155,SocialJustice,Doctor Mike Hansen,3
+156,SocialJustice,CBC News: The National,4
+157,SocialJustice,Channel 4 News,5
+158,SocialJustice,Violin MD,1
+159,SocialJustice,DoctorOz,1
+160,SocialJustice,anarchopac,12
+161,SocialJustice,The Sun,1
+162,SocialJustice,CNBC International,1
+163,SocialJustice,babbisp1,1
+164,SocialJustice,History Buffs,4
+165,SocialJustice,halim alrah,2
+166,SocialJustice,John Corvino,7
+167,SocialJustice,The School of Life,3
+168,SocialJustice,Commonwealth Club,3
+169,SocialJustice,BBC News,3
+170,SocialJustice,MotivationHub,2
+171,SocialJustice,Stanford Health Care,1
+172,SocialJustice,Boston University,1
+173,SocialJustice,"The Martin Luther King, Jr. Center for Nonviolent Social Change",7
+174,SocialJustice,"WKBW TV | Buffalo, NY",2
+175,SocialJustice,Biogena,1
+176,SocialJustice,IFRC,1
+177,SocialJustice,Newsy,1
+178,SocialJustice,News4JAX,2
+179,SocialJustice,UCLA Health,1
+180,SocialJustice,Roland S. Martin,3
+181,SocialJustice,KING 5,1
+182,SocialJustice,Sky News Australia,1
+183,SocialJustice,NowThis World,2
+184,SocialJustice,OWN,2
+185,SocialJustice,YaleCourses,2
+186,SocialJustice,FRONTLINE PBS | Official,2
+187,SocialJustice,NBC News,24
+188,SocialJustice,American Battlefield Trust,3
+189,SocialJustice,WXYZ-TV Detroit | Channel 7,1
+190,SocialJustice,Sky Bet,1
+191,SocialJustice,WSYX ABC 6,1
+192,SocialJustice,The News & Observer,1
+193,SocialJustice,UPROXX,2
+194,SocialJustice,Jomboy Media,1
+195,SocialJustice,Topic,1
+196,SocialJustice,Lone Star Trekkers,1
+197,SocialJustice,Tulsa Public Schools,1
+198,SocialJustice,NowThis News,14
+199,SocialJustice,Harvard Kennedy School's Institute of Politics,1
+200,SocialJustice,Brown University,9
+201,SocialJustice,Jocko Podcast,13
+202,SocialJustice,Hip Hughes,2
+203,SocialJustice,WELT Documentary,1
+204,SocialJustice,vpro documentary,2
+205,SocialJustice,Discovery Science,3
+206,SocialJustice,Adiyogi,1
+207,SocialJustice,Insight SBS,1
+208,SocialJustice,Arts & Ideas at the JCCSF,1
+209,SocialJustice,Molotov Oficial,1
+210,SocialJustice,Andi Portavoz,1
+211,SocialJustice,Rebeca Lane,2
+212,SocialJustice,Tommy Boy,1
+213,SocialJustice,Residente,1
+214,SocialJustice,Lechero Mon Oficial,1
+215,SocialJustice,Luanko Minuto Soler,1
+216,SocialJustice,Pascuala Ilabaca y Fauna Oficial,1
+217,SocialJustice,Donald Glover,4
+218,SocialJustice,LosChikosDelMaizTV,1
+219,SocialJustice,PharcydeVEVO,1
+220,SocialJustice,anamaria tijoux,1
+221,SocialJustice,Greg Hall,1
+222,SocialJustice,David Rovics,1
+223,SocialJustice,IDocsTV,1
+224,SocialJustice,Real Crusades History,1
+225,SocialJustice,Absolute History,2
+226,SocialJustice,Arif Kasim,1
+227,SocialJustice,Kamerad Kosmos,1
+228,SocialJustice,Rogues Gallery Online,1
+229,SocialJustice,Fight the New Drug,2
+230,SocialJustice,Manufacturing Intellect,1
+231,SocialJustice,alpergaga,2
+232,SocialJustice,In Praise of Shadows,2
+233,SocialJustice,TopTenz,1
+234,SocialJustice,Rational Disconnect,2
+235,SocialJustice,Cinemassacre,2
+236,SocialJustice,Epic History TV,2
+237,SocialJustice,The Kino Corner,3
+238,SocialJustice,Polygon,2
+239,SocialJustice,politizane,1
+240,SocialJustice,Foundation for Economic Education,8
+241,SocialJustice,Jubilee,3
+242,SocialJustice,Todd in the Shadows,2
+243,SocialJustice,Bernie Sanders,1
+244,SocialJustice,Alexandria Ocasio-Cortez,2
+245,SocialJustice,The View,2
+246,SocialJustice,Justice Democrats,1
+247,SocialJustice,socratesinthecity,3
+248,SocialJustice,NFL,1
+249,SocialJustice,The Royal Institution,7
+250,SocialJustice,Portland State University,1
+251,SocialJustice,Paula Deen,1
+252,SocialJustice,REVOLT TV,1
+253,SocialJustice,NPR,2
+254,SocialJustice,Some More News,9
+255,SocialJustice,Brave New Films,1
+256,SocialJustice,SoulPancake,21
+257,SocialJustice,The Point with Ana Kasparian,2
+258,SocialJustice,Therealizedman,1
+259,SocialJustice,CollegeHumor,4
+260,SocialJustice,GQ,2
+261,SocialJustice,First We Feast,1
+262,SocialJustice,Christ Community Chapel,3
+263,SocialJustice,OxfordUnion,1
+264,SocialJustice,hbomberguy,52
+265,SocialJustice,Internet Historian,4
+266,SocialJustice,Folding Ideas,1
+267,SocialJustice,Fact Fiend - With Karl Smallwood,1
+268,SocialJustice,Lindsay Ellis,11
+269,SocialJustice,Renegade Cut,17
+270,SocialJustice,Brandon Tenold,1
+271,SocialJustice,YouTube Movies,28
+272,SocialJustice,Daryl Talks Games,4
+273,SocialJustice,Innuendo Studios,23
+274,SocialJustice,Vsauce,1
+275,SocialJustice,Ladyknightthebrave,1
+276,SocialJustice,Holy Koolaid,1
+277,SocialJustice,Larry Bundy Jr,1
+278,SocialJustice,Wings Education,1
+279,SocialJustice,Thought Slime,9
+280,SocialJustice,Pop Culture Detective,5
+281,SocialJustice,AmericanExperiencePBS,1
+282,SocialJustice,Atun-Shei Films,1
+283,SocialJustice,Reddit Jar,1
+284,SocialJustice,Lindsay Holiday,3
+285,SocialJustice,Daddyhunt App,1
+286,SocialJustice,History Matters,1
+287,SocialJustice,Ask A Mortician,2
+288,SocialJustice,lorenzo baldan,1
+289,SocialJustice,Feminist Frequency,2
+290,SocialJustice,The Right Opinion,1
+291,SocialJustice,Chris Stuckmann,1
+292,SocialJustice,Vaush,1
+293,SocialJustice,Xanderhal,3
+294,SocialJustice,Stanford Institute for Economic Policy Research (SIEPR),1
+295,SocialJustice,World Science Festival,1
+296,SocialJustice,Seattle Channel,3
+297,SocialJustice,Digiday,2
+298,SocialJustice,Anthony Pompliano,1
+299,SocialJustice,Bulk Fixion,1
+300,SocialJustice,The Why,1
+301,SocialJustice,ERB,1
+302,SocialJustice,Comedy Bites,1
+303,SocialJustice,RHINO,1
+304,SocialJustice,sg1993,1
+305,SocialJustice,Alex,1
+306,SocialJustice,DaroVHS,1
+307,SocialJustice,Digg,1
+308,SocialJustice,Symbolic2020,1
+309,SocialJustice,FoundationINTERVIEWS,1
+310,SocialJustice,The Žižek/Chomsky Times,1
+311,SocialJustice,Directors Guild of America,1
+312,SocialJustice,Wayne Kramer,1
+313,SocialJustice,The Office,1
+314,SocialJustice,GameSpot Universe,1
+315,SocialJustice,Safari Africa Media Center [ Big Mind Vision],1
+316,SocialJustice,UnHerd,2
+317,SocialJustice,The Aspen Institute,1
+318,SocialJustice,CrashCourse,4
+319,SocialJustice,Gravitahn,1
+320,SocialJustice,Encore +,5
+321,SocialJustice,How To Academy,1
+322,SocialJustice,The Cult Education Institute,1
+323,SocialJustice,ItsKatLazo,8
+324,SocialJustice,CloeCouture,1
+325,SocialJustice,As/Is,1
+326,SocialJustice,Mama Doctor Jones,1
+327,SocialJustice,TheWho,1
+328,SocialJustice,Lykke Li,1
+329,SocialJustice,Hadestown,1
+330,SocialJustice,Crystal Waters - Topic,1
+331,SocialJustice,Emergent Order,1
+332,SocialJustice,Michael Dapaah,1
+333,SocialJustice,Meg Allan Cole,1
+334,SocialJustice,Big Joel,9
+335,SocialJustice,PewDiePie,1
+336,SocialJustice,Overly Sarcastic Productions,3
+337,SocialJustice,Just Write,1
+338,SocialJustice,Bad Crayfish Productions,1
+339,SocialJustice,Carmelo Anthony,2
+340,SocialJustice,AJ+,5
+341,SocialJustice,OZY Media,7
+342,SocialJustice,The Dave Ramsey Show,1
+343,SocialJustice,BBC Studios,1
+344,SocialJustice,ABC News In-depth,1
+345,SocialJustice,George Harrison,1
+346,SocialJustice,WatchTheDaily,1
+347,SocialJustice,PBS NewsHour,6
+348,SocialJustice,ayeungg,1
+349,SocialJustice,PGA TOUR,1
+350,SocialJustice,The Daily Show with Trevor Noah,1
+351,SocialJustice,Comedy Central,2
+352,SocialJustice,LakeHickoryScuba,1
+353,SocialJustice,Captain Cody,1
+354,SocialJustice,Danny Maude,1
+355,SocialJustice,Alfred Montaner,1
+356,SocialJustice,Wall Street Journal,1
+357,SocialJustice,Military Videos,1
+358,SocialJustice,i24NEWS English,1
+359,SocialJustice,José,19
+360,SocialJustice,The Michael Brooks Show,2
+361,SocialJustice,Randy Rainbow,2
+362,SocialJustice,friendlyjordies,1
+363,SocialJustice,The Serfs,12
+364,SocialJustice,BBC Three,2
+365,SocialJustice,Matthew Orosz,1
+366,SocialJustice,UHGCSW,1
+367,SocialJustice,Stanford,1
+368,SocialJustice,Intelligence Squared,2
+369,SocialJustice,HuffPost,7
+370,SocialJustice,Jim Jefferies,1
+371,SocialJustice,George Carlin Official YouTube Channel,3
+372,SocialJustice,The Lincoln Project,2
+373,SocialJustice,Saturday Night Live,2
+374,SocialJustice,9NEWS,1
+375,SocialJustice,Real Time with Bill Maher,1
+376,SocialJustice,Billboard News,1
+377,SocialJustice,ABC10,2
+378,SocialJustice,Jabez,3
+379,SocialJustice,9 News Australia,1
+380,SocialJustice,Inside Edition,3
+381,SocialJustice,Good Morning America,3
+382,SocialJustice,Entertainment Tonight,3
+383,SocialJustice,WCCO - CBS Minnesota,1
+384,SocialJustice,jamiefoxx,2
+385,SocialJustice,CNBC Prime,1
+386,SocialJustice,ITV News,2
+387,SocialJustice,Jimmy Kimmel Live,3
+388,SocialJustice,J.J. McCullough,2
+389,SocialJustice,CNBC,1
+390,SocialJustice,TED-Ed,2
+391,SocialJustice,- Cogito -,1
+392,SocialJustice,Johnny Bigger,1
+393,SocialJustice,Kevin O'Leary,1
+394,SocialJustice,JayLaw,1
+395,SocialJustice,PragerU,1
+396,SocialJustice,Patrick Ney,2
+397,SocialJustice,Ellen93779,1
+398,SocialJustice,Channel Awesome,1
+399,SocialJustice,Steve Reviews,3
+400,SocialJustice,Hello Future Me,2
+401,SocialJustice,JelloApocalypse,1
+402,SocialJustice,StoryDive,2
+403,SocialJustice,ChannelFrederator,2
+404,SocialJustice,MovieFlame,1
+405,SocialJustice,Beyond Ghibli,1
+406,SocialJustice,KTNV Channel 13 Las Vegas,1
+407,SocialJustice,Seeker Land,1
+408,SocialJustice,The Good Stuff,1
+409,SocialJustice,Knowing Better,2
+410,SocialJustice,Wendover Productions,1
+411,SocialJustice,Foals,3
+412,SocialJustice,RedLetterMedia,4
+413,SocialJustice,Patricia Taxxon,20
+414,SocialJustice,BigfryTV,1
+415,SocialJustice,Jack Saint,13
+416,SocialJustice,Kappa Kaiju,1
+417,SocialJustice,BirdsElopeWithTheSun,1
+418,SocialJustice,SalC1,1
+419,SocialJustice,Tantacrul,1
+420,SocialJustice,RunTheJewels,1
+421,SocialJustice,Rhymesayers Entertainment,2
+422,SocialJustice,Flume,1
+423,SocialJustice,NPR Music,1
+424,SocialJustice,Mass Appeal,1
+425,SocialJustice,Hilltop Hoods,1
+426,SocialJustice,Warpaint,1
+427,SocialJustice,A Tribe Called Quest,1
+428,SocialJustice,MF DOOM,1
+429,SocialJustice,boobacrazy,1
+430,SocialJustice,MusicBlack,1
+431,SocialJustice,Eyewitness News ABC7NY,1
+432,SocialJustice,11Alive,1
+433,SocialJustice,FOX 5 DC,1
+434,SocialJustice,Entrepreneurs in Cars,2
+435,SocialJustice,Aerial View,1
+436,SocialJustice,Men's Health,1
+437,SocialJustice,Bret Weinstein,1
+438,SocialJustice,Quinn Curio,2
+439,SocialJustice,KrimsonRogue,1
+440,SocialJustice,Quinton Reviews,3
+441,SocialJustice,bar bar,1
+442,SocialJustice,donoteat01,1
+443,SocialJustice,YourMovieSucksDOTorg,4
+444,SocialJustice,Planet Reddit,2
+445,SocialJustice,Fredrik Knudsen,5
+446,SocialJustice,Calibre,1
+447,SocialJustice,The Independent,3
+448,SocialJustice,Eckhart Tolle,1
+449,SocialJustice,Spirit Tribe Awakening,2
+450,SocialJustice,InstituteForJustice,1
+451,SocialJustice,Emory University,2
+452,SocialJustice,Briclyn Forest,1
+453,SocialJustice,NASA,3
+454,SocialJustice,STUCK IN THE SOUND,1
+455,SocialJustice,Led Zeppelin,1
+456,SocialJustice,Chillhop Music,1
+457,SocialJustice,truTV,1
+458,SocialJustice,Center Row,1
+459,SocialJustice,Kyrie Irving,1
+460,SocialJustice,Rawrist,1
+461,SocialJustice,Josh Gad,2
+462,SocialJustice,Full Fat Videos,1
+463,SocialJustice,tlnovelasinfantiles,1
+464,SocialJustice,Suuup you,1
+465,SocialJustice,Greg O’Shea,1
+466,SocialJustice,adam28xx,1
+467,SocialJustice,SM East Harbinger,2
+468,SocialJustice,MindsAblaze2,1
+469,SocialJustice,Origin Of Everything,1
+470,SocialJustice,Tom Nicholas,1
+471,SocialJustice,Kraut,1
+472,SocialJustice,Joseph Anderson,5
+473,SocialJustice,Sarcasmitron,1
+474,SocialJustice,Trios Health,1
+475,SocialJustice,CROOKERS,1
+476,SocialJustice,Amanpour and Company,1
+477,SocialJustice,BICEP,1
+478,SocialJustice,Stefan Shagwell,1
+479,SocialJustice,Mack Flash,3
+480,SocialJustice,Larry Reid Live,2
+481,SocialJustice,Dog Show Records,1
+482,SocialJustice,Michaela Pink,1
+483,SocialJustice,Park Valley Church,1
+484,SocialJustice,Cabrera Research Lab,1
+485,SocialJustice,Pedro Taam,1
+486,SocialJustice,Fire of Learning,1
+487,SocialJustice,llliquidDiamonds,2
+488,SocialJustice,Thomas Groppi,1
+489,SocialJustice,Fluenz,1
+490,SocialJustice,sunflower4morning,1
+491,SocialJustice,Kings and Generals,1
+492,SocialJustice,vitaloneorg,1
+493,SocialJustice,Matteo Zilli,1
+494,SocialJustice,Today I Found Out,1
+495,SocialJustice,Got Talent Global,1
+496,SocialJustice,ZeroFox Given,1
+497,SocialJustice,Oliver Nicko,1
+498,SocialJustice,Good Morning Britain,3
+499,SocialJustice,Jimmy Carr,2
+500,SocialJustice,The Telegraph,1
+501,SocialJustice,NBA,1
+502,SocialJustice,TheEllenShow,1
+503,SocialJustice,SHOWTIME,1
+504,SocialJustice,Mashed,1
+505,SocialJustice,Obama Foundation,2
+506,SocialJustice,Mad Blender,5
+507,SocialJustice,Koskan Public Health,1
+508,SocialJustice,Stockholm Resilience Centre TV,1
+509,SocialJustice,ArseRaptor,1
+510,SocialJustice,Second Thought,1
+511,SocialJustice,bwaySHO,1
+512,SocialJustice,Teacher's Pet,1
+513,SocialJustice,Philip Januschew,1
+514,SocialJustice,TWRPtube,1
+515,SocialJustice,official prozac,1
+516,SocialJustice,BekahCCVEVO,1
+517,SocialJustice,Kero Kero Bonito,1
+518,SocialJustice,half•alive,1
+519,SocialJustice,ReasonTV,1
+520,SocialJustice,Jun Collection,1
+521,SocialJustice,Sevish,1
+522,SocialJustice,Faraday Speaks,2
+523,SocialJustice,Cambridge Union,1
+524,SocialJustice,Al Jazeera English,1
+525,SocialJustice,Joon The King,1
+526,SocialJustice,JediMaster,1
+527,SocialJustice,Cuck Philosophy,1
+528,SocialJustice,Cate the Great Beauty,1
+529,SocialJustice,Mystic Gameplay,2
+530,SocialJustice,Royal Opera House,1
+531,SocialJustice,BigMaxGame,1
+532,SocialJustice,MYSTiiC KiiNG,1
+533,SocialJustice,Gorillaz,2
+534,SocialJustice,Boffy,1
+535,SocialJustice,infiltrate202,1
+536,SocialJustice,Goodnight Moon,1
+537,SocialJustice,Flamingo,1
+538,SocialJustice,The Citizen Brain,1
+539,SocialJustice,H3 Podcast,1
+540,SocialJustice,myJLI,1
+541,SocialJustice,The Salt Factory,2
+542,SocialJustice,Jay Smooth,13
+543,SocialJustice,TheMelbComedyFest,1
+544,SocialJustice,Nick Lutsko,1
+545,SocialJustice,senpaixsammy,1
+546,SocialJustice,Seedy,1
+547,SocialJustice,Cody Ko,1
+548,SocialJustice,Warner Music France,1
+549,SocialJustice,National Geographic,1
+550,SocialJustice,Right Side Broadcasting Network,1
+551,SocialJustice,Nature Healing Society,1
+552,SocialJustice,Nickolaas,1
+553,SocialJustice,CNBC Television,2
+554,SocialJustice,SOAS University of London,2
+555,SocialJustice,edbookfest,1
+556,SocialJustice,björk,1
+557,SocialJustice,MauLer,1
+558,SocialJustice,Jay Exci,1
+559,SocialJustice,Pyrocynical,1
+560,SocialJustice,Bloomberg QuickTake Originals,1
+561,SocialJustice,Principles by Ray Dalio,1
+562,SocialJustice,Gapminder Foundation,1
+563,SocialJustice,Destiny,2
+564,SocialJustice,CTFORUM,1
+565,SocialJustice,VICE,2
+566,SocialJustice,Warp Records,2
+567,SocialJustice,Tom Scott,2
+568,SocialJustice,PowerfulJRE,1
+569,SocialJustice,Political Forecast - Election Predictions,1
+570,SocialJustice,Novara Media,1
+571,SocialJustice,Kasia Madera,1
+572,SocialJustice,MoneySavingExpert.com,1
+573,SocialJustice,Guardian Football,1
+574,SocialJustice,The University of Sydney,2
+575,SocialJustice,BBCPanorama,1
+576,SocialJustice,RubberHoseAnime,1
+577,SocialJustice,Cicada - Topic,1
+578,SocialJustice,musanim,1
+579,SocialJustice,Sigur Rós,1
+580,SocialJustice,Captain Planet - Topic,1
+581,SocialJustice,JohnnyFlynnVEVO,1
+582,SocialJustice,Vapor Memory,1
+583,SocialJustice,Jade Cicada - Topic,1
+584,SocialJustice,I DONT KNOW HOW BUT THEY FOUND ME,1
+585,SocialJustice,In The Woods,1
+586,SocialJustice,thepostarchive,2
+587,SocialJustice,Prestigious_Gaming,1
+588,SocialJustice,Philosophy Tube Live,1
+589,SocialJustice,The Fowler Show,3
+590,SocialJustice,A Current Affair,1
+591,SocialJustice,Channel 10,1
+592,SocialJustice,BBC,1
+593,SocialJustice,My Little Villagers,1
+594,SocialJustice,Deep Look,2
+595,SocialJustice,WTVR CBS 6,1
+596,SocialJustice,Mount Sinai Health System,2
+597,SocialJustice,American Museum of Natural History,2
+598,SocialJustice,Talks at Google,3
+599,SocialJustice,The Met,2
+600,SocialJustice,melodysheep,1
+601,SocialJustice,Ninja Tune,1
+602,SocialJustice,Atlantic Records,1
+603,SocialJustice,HSD Social Media,3
+604,SocialJustice,Cut,1
+605,SocialJustice,MyasWorld,1
+606,SocialJustice,jimgaffigan,1
+607,SocialJustice,mediamatters4america,1
+608,SocialJustice,Kurzgesagt – In a Nutshell,1
+609,SocialJustice,Best Documentary,1
+610,SocialJustice,bill wurtz,1
+611,SocialJustice,Riley J. Dennis,5
+612,SocialJustice,House M.D.,1
+613,SocialJustice,Updoot Everything,1
+614,SocialJustice,NerdWire,1
+615,SocialJustice,Storied,1
+616,SocialJustice,Looper,1
+617,SocialJustice,Reddit On Tap,1
+618,SocialJustice,Kross,1
+619,SocialJustice,Lowart,1
+620,SocialJustice,EdChoice,1
+621,SocialJustice,Who Wants To Be A Millionaire?,1
+622,SocialJustice,Arcadia Boosted,2
+623,SocialJustice,The Serf Times,1
+624,SocialJustice,notsam,1
+625,SocialJustice,Art of Manliness,1
+626,SocialJustice,Will Schoder,1
+627,SocialJustice,The Young Turks,1
+628,SocialJustice,The Hill,1
+629,SocialJustice,Mark Rober,1
+630,SocialJustice,Kel And Zaria,1
+631,SocialJustice,ESPN,1
+632,SocialJustice,The Obama White House,1
+633,SocialJustice,Max Steel,1
+634,SocialJustice,ELLE,1
+635,SocialJustice,SpACeFrOoT ENTeRtAinMeNT,2
+636,SocialJustice,Creationist Cat,1
+637,SocialJustice,The Official King Pain,1
+638,SocialJustice,Chat Sports,1
+639,SocialJustice,6thManSam,1
+640,SocialJustice,syracuse.com,1
+641,SocialJustice,CBS News,1
+642,SocialJustice,scarra,1
+643,SocialJustice,timelinesTV,1
+644,SocialJustice,Real Families,1
+645,SocialJustice,The Philadelphia Inquirer,1
+646,SocialJustice,כאן,1
+647,SocialJustice,Cheddar,1
+648,SocialJustice,The Agenda with Steve Paikin,1
+649,SocialJustice,DW Documentary,1
+650,SocialJustice,The Wonton Don,1
+651,SocialJustice,Zebra Corner,1
+652,SocialJustice,University of New England,1
+653,SocialJustice,Electronic Nostalgia,1

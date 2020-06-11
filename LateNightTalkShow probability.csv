@@ -1,122 +1,227 @@
-,Category,Next Channel,Probability
-0,Educational News,LastWeekTonight,0.21904761904761905
-1,Educational News,Full Frontal with Samantha Bee,0.1
-2,Educational News,Saturday Night Live,0.02857142857142857
-3,Educational News,Team Coco,0.011111111111111112
-4,Educational News,Glamour,0.0015873015873015873
-5,Educational News,Patriot Act,0.026984126984126985
-6,Educational News,jimgaffigan,0.05873015873015873
-7,Educational News,Quiet Quest - Study Music,0.0015873015873015873
-8,Educational News,NBC News,0.009523809523809525
-9,Educational News,Beau of the Fifth Column,0.0015873015873015873
-10,Educational News,Foil Arms and Hog,0.0015873015873015873
-11,Educational News,Normandy Beach Party,0.0015873015873015873
-12,Educational News,The Late Show with Stephen Colbert,0.025396825396825397
-13,Educational News,GeorgeNotFound,0.0015873015873015873
-14,Educational News,Sequencer,0.0015873015873015873
-15,Educational News,HALIDONMUSIC,0.0015873015873015873
-16,Educational News,TBS,0.009523809523809525
-17,Educational News,Lucky Ferals,0.0015873015873015873
-18,Educational News,Jimmy Kimmel Live,0.09841269841269841
-19,Educational News,YouTube,0.01904761904761905
-20,Educational News,The Tonight Show Starring Jimmy Fallon,0.014285714285714285
-21,Educational News,JRE Clips,0.0015873015873015873
-22,Educational News,Flashy,0.0015873015873015873
-23,Educational News,blacktreetv,0.0031746031746031746
-24,Educational News,Vanessa Carlton,0.0015873015873015873
-25,Educational News,Jimmy Carr,0.020634920634920634
-26,Educational News,JohnnyFlynnVEVO,0.0015873015873015873
-27,Educational News,Live from Here,0.0015873015873015873
-28,Educational News,CBC News: The National,0.0031746031746031746
-29,Educational News,Clark Destry,0.0015873015873015873
-30,Educational News,Mark Rober,0.0031746031746031746
-31,Educational News,Almeida Theatre,0.0015873015873015873
-32,Educational News,Hollywood 101,0.004761904761904762
-33,Educational News,truTV,0.0031746031746031746
-34,Educational News,LIVEKellyandRyan,0.0015873015873015873
-35,Educational News,FoundationINTERVIEWS,0.0015873015873015873
-36,Educational News,Late Night with Seth Meyers,0.023809523809523808
-37,Educational News,Trevor Noah,0.047619047619047616
-38,Educational News,Just For Laughs,0.0031746031746031746
-39,Educational News,First We Feast,0.0015873015873015873
-40,Educational News,Russell Peters,0.007936507936507936
-41,Educational News,Gabriel Iglesias,0.015873015873015872
-42,Educational News,Netflix Is A Joke,0.004761904761904762
-43,Educational News,Dry Bar Comedy,0.0015873015873015873
-44,Educational News,NBCLA,0.009523809523809525
-45,Educational News,Eric Garcetti,0.011111111111111112
-46,Educational News,LaughPlanet,0.007936507936507936
-47,Educational News,Real Time with Bill Maher,0.0031746031746031746
-48,Educational News,Got Talent Global,0.0015873015873015873
-49,Educational News,Josh Gad,0.0031746031746031746
-50,Educational News,CBC Comedy,0.0015873015873015873
-51,Educational News,TED,0.0015873015873015873
-52,Educational News,The Zero Hour with RJ Eskow,0.004761904761904762
-53,Educational News,Sebastian Maniscalco,0.0031746031746031746
-54,Educational News,MSNBC,0.004761904761904762
-55,Educational News,Fleetwood Mac,0.0015873015873015873
-56,Educational News,St. Vincent,0.0015873015873015873
-57,Educational News,George Harrison,0.0015873015873015873
-58,Educational News,RETROREMIXES3,0.0015873015873015873
-59,Educational News,Clapham Junction,0.0015873015873015873
-60,Educational News,ABC7 News Bay Area,0.0031746031746031746
-61,Educational News,Survivor Band,0.0015873015873015873
-62,Educational News,RunTheJewels,0.0015873015873015873
-63,Educational News,The Daily Show with Trevor Noah,0.0015873015873015873
-64,Educational News,TPS,0.0015873015873015873
-65,Educational News,SHOWTIME,0.0015873015873015873
-66,Educational News,Mike Bloomberg,0.0015873015873015873
-67,Educational News,92nd Street Y,0.012698412698412698
-68,Educational News,KTLA 5,0.0031746031746031746
-69,Educational News,PanDaddyPowa,0.0031746031746031746
-70,Educational News,YouTube Movies,0.0031746031746031746
-71,Educational News,Washington Post Live,0.0015873015873015873
-72,Educational News,theoffcamerashow,0.0015873015873015873
-73,Educational News,DESUS & MERO on SHOWTIME,0.0015873015873015873
-74,Educational News,The Late Late Show with James Corden,0.009523809523809525
-75,Educational News,mark normand,0.0015873015873015873
-76,Educational News,USA TODAY,0.0015873015873015873
-77,Educational News,Bloomberg QuickTake News,0.0015873015873015873
-78,Educational News,Good Mythical Morning,0.0031746031746031746
-79,Educational News,Trent & Allie,0.0015873015873015873
-80,Educational News,GQ,0.0031746031746031746
-81,Educational News,Funny Or Die,0.0015873015873015873
-82,Educational News,rSlash,0.0015873015873015873
-83,Educational News,Wild 'N Out,0.0031746031746031746
-84,Educational News,Top 10 Talent,0.0015873015873015873
-85,Educational News,TheEllenShow,0.004761904761904762
-86,Educational News,America's Got Talent,0.0015873015873015873
-87,Educational News,Comedy Central UK,0.0015873015873015873
-88,Educational News,sthe luthuli,0.0015873015873015873
-89,Educational News,Billboard,0.0015873015873015873
-90,Educational News,92Y Plus,0.0015873015873015873
-91,Educational News,American Film Institute,0.0015873015873015873
-92,Educational News,MsMojo,0.0015873015873015873
-93,Educational News,A Swizzle,0.0015873015873015873
-94,Educational News,Yeah that's so it,0.0015873015873015873
-95,Educational News,Top 10 Beyond The Screen,0.0015873015873015873
-96,Educational News,NO offense,0.0015873015873015873
-97,Educational News,LOL Network,0.0015873015873015873
-98,Educational News,CNN,0.011111111111111112
-99,Educational News,MTV AUSTRALIA,0.0015873015873015873
-100,Educational News,The Pat McAfee Show,0.0015873015873015873
-101,Educational News,NowThis News,0.0031746031746031746
-102,Educational News,Brian Tyler Cohen,0.0015873015873015873
-103,Educational News,Fox News,0.0015873015873015873
-104,Educational News,The Damage Report,0.0015873015873015873
-105,Educational News,9 News Australia,0.0015873015873015873
-106,Educational News,Enigma,0.0015873015873015873
-107,Educational News,Christo Aivalis,0.0015873015873015873
-108,Educational News,KSDK News,0.0015873015873015873
-109,Educational News,Town Hall Seattle,0.0015873015873015873
-110,Educational News,Senate Majority Leader Mitch McConnell,0.0015873015873015873
-111,Educational News,TED-Ed,0.0015873015873015873
-112,Educational News,CGP Grey,0.0015873015873015873
-113,Educational News,BuzzFeed Multiplayer,0.0031746031746031746
-114,Educational News,LegalEagle,0.0015873015873015873
-115,Educational News,Philip DeFranco,0.0015873015873015873
-116,Educational News,Vsauce,0.004761904761904762
-117,Educational News,J.J. McCullough,0.0015873015873015873
-118,Educational News,Sean Carroll,0.0015873015873015873
-119,Educational News,BuzzFeed Unsolved Network,0.0015873015873015873
-120,Educational News,Dimension 20,0.0015873015873015873
+,Category,Next Channel,Count
+0,LateNightTalkShow,Patriot Act,283
+1,LateNightTalkShow,YouTube,26
+2,LateNightTalkShow,Vanity Fair,2
+3,LateNightTalkShow,Jimmy Kimmel Live,85
+4,LateNightTalkShow,MSNBC,15
+5,LateNightTalkShow,The Late Show with Stephen Colbert,126
+6,LateNightTalkShow,The Tonight Show Starring Jimmy Fallon,55
+7,LateNightTalkShow,Brian Tyler Cohen,2
+8,LateNightTalkShow,Global News,3
+9,LateNightTalkShow,Late Night with Seth Meyers,109
+10,LateNightTalkShow,Real Time with Bill Maher,26
+11,LateNightTalkShow,Inside Edition,1
+12,LateNightTalkShow,Trevor Noah,129
+13,LateNightTalkShow,Kaitlyn Torres,2
+14,LateNightTalkShow,David Meyer,1
+15,LateNightTalkShow,LaughPlanet,20
+16,LateNightTalkShow,GatesFoundation,5
+17,LateNightTalkShow,Gabriel Iglesias,49
+18,LateNightTalkShow,BBC,9
+19,LateNightTalkShow,OZY Media,1
+20,LateNightTalkShow,TheMelbComedyFest,2
+21,LateNightTalkShow,Henok Mekonnen,2
+22,LateNightTalkShow,NoobTube,1
+23,LateNightTalkShow,Breakfast Club Power 105.1 FM,2
+24,LateNightTalkShow,BBC Comedy Greats,9
+25,LateNightTalkShow,Jayneel Ramjee,1
+26,LateNightTalkShow,Comedy Central UK,4
+27,LateNightTalkShow,First We Feast,15
+28,LateNightTalkShow,Comic Relief: Red Nose Day,2
+29,LateNightTalkShow,LastWeekTonight,226
+30,LateNightTalkShow,The Daily Conversation,21
+31,LateNightTalkShow,Full Frontal with Samantha Bee,66
+32,LateNightTalkShow,NBC News,47
+33,LateNightTalkShow,LegalEagle,6
+34,LateNightTalkShow,TheEllenShow,25
+35,LateNightTalkShow,Russell Peters,17
+36,LateNightTalkShow,Netflix Is A Joke,11
+37,LateNightTalkShow,Chelsea,61
+38,LateNightTalkShow,LiveSigning,5
+39,LateNightTalkShow,HowieKemperVideo,1
+40,LateNightTalkShow,Jim Jefferies,2
+41,LateNightTalkShow,Jimmy Carr,36
+42,LateNightTalkShow,RunTheJewels,9
+43,LateNightTalkShow,jimgaffigan,19
+44,LateNightTalkShow,Saturday Night Live,37
+45,LateNightTalkShow,The Late Late Show with James Corden,28
+46,LateNightTalkShow,Fire Films,10
+47,LateNightTalkShow,WatchMojo.com,2
+48,LateNightTalkShow,extra quality,2
+49,LateNightTalkShow,Times Talks,3
+50,LateNightTalkShow,Binging with Babish,2
+51,LateNightTalkShow,Grian,3
+52,LateNightTalkShow,Strictly Dumpling,1
+53,LateNightTalkShow,David Pakman Show,1
+54,LateNightTalkShow,Fox News,5
+55,LateNightTalkShow,Washington Post,4
+56,LateNightTalkShow,CNN,6
+57,LateNightTalkShow,Ovid,1
+58,LateNightTalkShow,92nd Street Y,84
+59,LateNightTalkShow,Anne Mavity,1
+60,LateNightTalkShow,Mango News,1
+61,LateNightTalkShow,Guardian News,1
+62,LateNightTalkShow,NO offense,1
+63,LateNightTalkShow,blacktreetv,9
+64,LateNightTalkShow,Don Giller,2
+65,LateNightTalkShow,Top 10 Beyond The Screen,1
+66,LateNightTalkShow,Wild 'N Out,2
+67,LateNightTalkShow,Kevin O'Leary,7
+68,LateNightTalkShow,The Daily Show with Trevor Noah,12
+69,LateNightTalkShow,Mina. Z,1
+70,LateNightTalkShow,Juraj Stefanko,1
+71,LateNightTalkShow,Just Me,1
+72,LateNightTalkShow,Life Stories By Goalcast,2
+73,LateNightTalkShow,Nicole Sandler,9
+74,LateNightTalkShow,Ken Ammi,1
+75,LateNightTalkShow,DarryVideoEdit,1
+76,LateNightTalkShow,Thrillist,1
+77,LateNightTalkShow,The Graham Norton Show,3
+78,LateNightTalkShow,Steve TV Show,2
+79,LateNightTalkShow,Kids Got Talent,1
+80,LateNightTalkShow,Team Coco,10
+81,LateNightTalkShow,NowThis Nerd,1
+82,LateNightTalkShow,BBC America,3
+83,LateNightTalkShow,EllenLDegeneres,1
+84,LateNightTalkShow,Celebrities For Fun,1
+85,LateNightTalkShow,GQ,1
+86,LateNightTalkShow,BDZ,3
+87,LateNightTalkShow,Andrew DC TV,1
+88,LateNightTalkShow,SET India,1
+89,LateNightTalkShow,FRIENDS MemesPh,1
+90,LateNightTalkShow,Do You Want to See a Dead Body?,3
+91,LateNightTalkShow,Kurzgesagt – In a Nutshell,3
+92,LateNightTalkShow,Will Smith,2
+93,LateNightTalkShow,Vsauce,13
+94,LateNightTalkShow,Jaiden Animations,1
+95,LateNightTalkShow,Elton John,2
+96,LateNightTalkShow,National Democratic Institute,2
+97,LateNightTalkShow,ArseRaptor,3
+98,LateNightTalkShow,Daily Dose Of Internet,5
+99,LateNightTalkShow,The VR Sessions,6
+100,LateNightTalkShow,Channel JERRY,1
+101,LateNightTalkShow,The Official Steve Harvey,1
+102,LateNightTalkShow,NBC New York,6
+103,LateNightTalkShow,YouTube Movies,63
+104,LateNightTalkShow,Enigma,9
+105,LateNightTalkShow,92Y Plus,1
+106,LateNightTalkShow,BigBlackDelta,1
+107,LateNightTalkShow,Mayhem Mendes,2
+108,LateNightTalkShow,Yeah that's so it,3
+109,LateNightTalkShow,Bill Smith,1
+110,LateNightTalkShow,Katie Maliani,1
+111,LateNightTalkShow,Lannister,1
+112,LateNightTalkShow,Just For Laughs,2
+113,LateNightTalkShow,George Carlin Official YouTube Channel,1
+114,LateNightTalkShow,Russell Howard,1
+115,LateNightTalkShow,GrayStillPlays,1
+116,LateNightTalkShow,Wendover Productions,1
+117,LateNightTalkShow,Comedy Central Africa,1
+118,LateNightTalkShow,CGP Grey,4
+119,LateNightTalkShow,NBC,2
+120,LateNightTalkShow,SomeGoodNews,1
+121,LateNightTalkShow,Half as Interesting,1
+122,LateNightTalkShow,Got Talent Global,1
+123,LateNightTalkShow,The View,1
+124,LateNightTalkShow,Bloomberg QuickTake Originals,1
+125,LateNightTalkShow,hayu,1
+126,LateNightTalkShow,gretchentwo,1
+127,LateNightTalkShow,Comedy Central,2
+128,LateNightTalkShow,OSSA,3
+129,LateNightTalkShow,Entertainment Tonight,1
+130,LateNightTalkShow,The Bella Twins,1
+131,LateNightTalkShow,AARP,1
+132,LateNightTalkShow,JablinskiGames,2
+133,LateNightTalkShow,Vox,7
+134,LateNightTalkShow,Absofruitly,1
+135,LateNightTalkShow,thegordonkeithshow,1
+136,LateNightTalkShow,spellbooked,1
+137,LateNightTalkShow,Howie Carr,2
+138,LateNightTalkShow,Screen Junkies,1
+139,LateNightTalkShow,Story Party Tour - True Dating Stories,1
+140,LateNightTalkShow,Jeff Wittek,1
+141,LateNightTalkShow,America's Got Talent,2
+142,LateNightTalkShow,BoomzNshhh,1
+143,LateNightTalkShow,Tacaz,1
+144,LateNightTalkShow,WIRED,2
+145,LateNightTalkShow,JJ Olatunji,1
+146,LateNightTalkShow,LOL Network,2
+147,LateNightTalkShow,PBS NewsHour,1
+148,LateNightTalkShow,Shark Tank Australia,1
+149,LateNightTalkShow,Top 10 Talent,5
+150,LateNightTalkShow,The Young Turks,1
+151,LateNightTalkShow,Sir Reddit,1
+152,LateNightTalkShow,Cobra Kai,3
+153,LateNightTalkShow,TBS,4
+154,LateNightTalkShow,Jelle's Marble Runs,2
+155,LateNightTalkShow,TED-Ed,1
+156,LateNightTalkShow,Tom Scott,1
+157,LateNightTalkShow,The New York Times,2
+158,LateNightTalkShow,Harvard University,1
+159,LateNightTalkShow,The Emmy Awards,1
+160,LateNightTalkShow,The Paley Center for Media,1
+161,LateNightTalkShow,Nature's Park,1
+162,LateNightTalkShow,Goodnesday,1
+163,LateNightTalkShow,My Africa,1
+164,LateNightTalkShow,David Spade,2
+165,LateNightTalkShow,ABC13 Houston,3
+166,LateNightTalkShow,cctvuser,1
+167,LateNightTalkShow,SAG-AFTRA Foundation,1
+168,LateNightTalkShow,ABC News,6
+169,LateNightTalkShow,Goodful,1
+170,LateNightTalkShow,The Real News Network,2
+171,LateNightTalkShow,Good Morning Britain,1
+172,LateNightTalkShow,The Hollywood Reporter,1
+173,LateNightTalkShow,The Howard Stern Show,1
+174,LateNightTalkShow,Fandango All Access,1
+175,LateNightTalkShow,The Sun,1
+176,LateNightTalkShow,KHOU 11,1
+177,LateNightTalkShow,B Slingzz,1
+178,LateNightTalkShow,Detroit Free Press,1
+179,LateNightTalkShow,TEAM Aquascape,1
+180,LateNightTalkShow,The Herd with Colin Cowherd,1
+181,LateNightTalkShow,TheOdd1sOut,1
+182,LateNightTalkShow,The Office,2
+183,LateNightTalkShow,UoG Honey Bee Research Centre,1
+184,LateNightTalkShow,Comedy Central Stand-Up,1
+185,LateNightTalkShow,CRITICA DURA MX,1
+186,LateNightTalkShow,Comedy Bites,1
+187,LateNightTalkShow,Lotfi Lamaali,1
+188,LateNightTalkShow,The Try Guys,1
+189,LateNightTalkShow,tlc uk,1
+190,LateNightTalkShow,Paul Dinning,1
+191,LateNightTalkShow,cricket.com.au,1
+192,LateNightTalkShow,Darting Eagles,1
+193,LateNightTalkShow,The Zach and Matt Show,1
+194,LateNightTalkShow,Anthony ONeal,1
+195,LateNightTalkShow,BuzzFeed Celeb,1
+196,LateNightTalkShow,Johnny Carson,1
+197,LateNightTalkShow,truTV,2
+198,LateNightTalkShow,venomax,2
+199,LateNightTalkShow,CubeHub01,2
+200,LateNightTalkShow,Tw!LL!e,1
+201,LateNightTalkShow,mediamatters4america,1
+202,LateNightTalkShow,Orion Pictures,1
+203,LateNightTalkShow,YouTube Originals,2
+204,LateNightTalkShow,Marques Brownlee,1
+205,LateNightTalkShow,TODAY,1
+206,LateNightTalkShow,ITV News,1
+207,LateNightTalkShow,Funny Local News,1
+208,LateNightTalkShow,All Gas No Brakes,1
+209,LateNightTalkShow,Doctor Mike,1
+210,LateNightTalkShow,Bleacher Report,1
+211,LateNightTalkShow,Haste Raho,1
+212,LateNightTalkShow,Origin,1
+213,LateNightTalkShow,NowThis News,2
+214,LateNightTalkShow,Amanpour and Company,1
+215,LateNightTalkShow,Lewis Black,1
+216,LateNightTalkShow,Guardian Supporters,1
+217,LateNightTalkShow,mistervincenoir,1
+218,LateNightTalkShow,lol Valley,1
+219,LateNightTalkShow,theoffcamerashow,1
+220,LateNightTalkShow,Michael McIntyre,1
+221,LateNightTalkShow,Channel 4,1
+222,LateNightTalkShow,Foals,1
+223,LateNightTalkShow,TechLinked,1
+224,LateNightTalkShow,News Be Funny,1
+225,LateNightTalkShow,Epicurious,1

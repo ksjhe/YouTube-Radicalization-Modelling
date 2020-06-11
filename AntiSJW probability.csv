@@ -1,142 +1,462 @@
-,Category,Next Channel,Probability
-0,Educational News,CosmicSkeptic,0.11708860759493671
-1,Educational News,University of Notre Dame,0.0189873417721519
-2,Educational News,Thinking Deeply,0.0031645569620253164
-3,Educational News,The Atheist Experience,0.007911392405063292
-4,Educational News,Capturing Christianity,0.006329113924050633
-5,Educational News,Center for Inquiry,0.0031645569620253164
-6,Educational News,92nd Street Y,0.006329113924050633
-7,Educational News,Pangburn,0.0015822784810126582
-8,Educational News,Andrew Klavan,0.022151898734177215
-9,Educational News,HooverInstitution,0.0981012658227848
-10,Educational News,The Rubin Report,0.02531645569620253
-11,Educational News,Hillsdale College,0.004746835443037975
-12,Educational News,Washington Post,0.0015822784810126582
-13,Educational News,Josh Gad,0.004746835443037975
-14,Educational News,NBC News,0.007911392405063292
-15,Educational News,PowerfulJRE,0.06645569620253164
-16,Educational News,Guardian News,0.0015822784810126582
-17,Educational News,socratesinthecity,0.006329113924050633
-18,Educational News,YAFTV,0.0015822784810126582
-19,Educational News,Fox News,0.028481012658227847
-20,Educational News,ProductiehuisEU,0.0015822784810126582
-21,Educational News,Star Parker,0.0015822784810126582
-22,Educational News,MotivationHub,0.0015822784810126582
-23,Educational News,Cross Examined,0.006329113924050633
-24,Educational News,Unbelievable?,0.007911392405063292
-25,Educational News,PineCreek,0.0015822784810126582
-26,Educational News,BiolaUniversity,0.011075949367088608
-27,Educational News,Acton Institute,0.0031645569620253164
-28,Educational News,CNBC Television,0.0031645569620253164
-29,Educational News,Jordan Alexander Hill,0.0031645569620253164
-30,Educational News,John Anderson,0.0015822784810126582
-31,Educational News,Faith Moore,0.0015822784810126582
-32,Educational News,The Daily Wire,0.0031645569620253164
-33,Educational News,PragerU,0.0015822784810126582
-34,Educational News,PokerStars,0.0015822784810126582
-35,Educational News,Justin Murphy,0.08860759493670886
-36,Educational News,TIFF Originals,0.006329113924050633
-37,Educational News,The Bandit's Slot Video Channel,0.01740506329113924
-38,Educational News,makichas,0.0015822784810126582
-39,Educational News,How To Academy,0.00949367088607595
-40,Educational News,Ben Shapiro,0.0015822784810126582
-41,Educational News,CBN News,0.0031645569620253164
-42,Educational News,NBCLA,0.0015822784810126582
-43,Educational News,FOX 10 Phoenix,0.0015822784810126582
-44,Educational News,Levy Economics Institute,0.007911392405063292
-45,Educational News,CBC News: The National,0.0015822784810126582
-46,Educational News,CNN,0.0015822784810126582
-47,Educational News,The Hill,0.0015822784810126582
-48,Educational News,BlazeTV,0.0015822784810126582
-49,Educational News,UWE Philosophy,0.0015822784810126582
-50,Educational News,Jordan B Peterson,0.04272151898734177
-51,Educational News,The New School,0.011075949367088608
-52,Educational News,GrassRoots Community Network,0.0015822784810126582
-53,Educational News,Rocky C,0.0015822784810126582
-54,Educational News,YaleCourses,0.004746835443037975
-55,Educational News,Intelligence Squared,0.004746835443037975
-56,Educational News,Sinatra_Says,0.023734177215189875
-57,Educational News,Room for Discussion,0.006329113924050633
-58,Educational News,LegalEagle,0.004746835443037975
-59,Educational News,Lewis Howes,0.020569620253164556
-60,Educational News,KTLA 5,0.004746835443037975
-61,Educational News,Foundation for Economic Education,0.020569620253164556
-62,Educational News,ReaganFoundation,0.00949367088607595
-63,Educational News,British GQ,0.014240506329113924
-64,Educational News,LastWeekTonight,0.004746835443037975
-65,Educational News,Liberty University,0.014240506329113924
-66,Educational News,ReasonTV,0.004746835443037975
-67,Educational News,Rolling Stone,0.004746835443037975
-68,Educational News,Adam Carolla,0.0015822784810126582
-69,Educational News,Steubenville Conferences,0.0031645569620253164
-70,Educational News,Philosophy Tube,0.0031645569620253164
-71,Educational News,Sky News Australia,0.0031645569620253164
-72,Educational News,VICE,0.006329113924050633
-73,Educational News,MauLer,0.0015822784810126582
-74,Educational News,Faith and Public Policy - Engage Conference,0.0015822784810126582
-75,Educational News,John Cedars,0.0015822784810126582
-76,Educational News,YouTube,0.0015822784810126582
-77,Educational News,The Salvation Army Kroc Center,0.0015822784810126582
-78,Educational News,Mike Licona,0.0015822784810126582
-79,Educational News,The NonSequitur Show,0.0015822784810126582
-80,Educational News,Eric Chabot,0.0015822784810126582
-81,Educational News,Acts17Apologetics,0.0015822784810126582
-82,Educational News,Talks at Google,0.0031645569620253164
-83,Educational News,Owen Cook,0.0015822784810126582
-84,Educational News,Jocko Podcast,0.004746835443037975
-85,Educational News,Bret Weinstein,0.0031645569620253164
-86,Educational News,Harvard Kennedy School's Institute of Politics,0.004746835443037975
-87,Educational News,Lewis Black,0.0015822784810126582
-88,Educational News,RedLetterMedia,0.0031645569620253164
-89,Educational News,Professor Dave Explains,0.011075949367088608
-90,Educational News,The Heritage Foundation,0.0015822784810126582
-91,Educational News,The Sun,0.0031645569620253164
-92,Educational News,LambdaConf,0.0015822784810126582
-93,Educational News,Urbit _,0.0031645569620253164
-94,Educational News,EdChoice,0.004746835443037975
-95,Educational News,Gordon Ramsay,0.0015822784810126582
-96,Educational News,Lex Fridman,0.0015822784810126582
-97,Educational News,Eliot Rosenstock,0.0015822784810126582
-98,Educational News,Bart D. Ehrman,0.0015822784810126582
-99,Educational News,iERA,0.0015822784810126582
-100,Educational News,Talk Heathen,0.0015822784810126582
-101,Educational News,OxfordUnion,0.004746835443037975
-102,Educational News,American Museum of Natural History,0.0031645569620253164
-103,Educational News,Matt Dillahunty,0.0015822784810126582
-104,Educational News,Viced Rhino,0.0015822784810126582
-105,Educational News,CBS News,0.0015822784810126582
-106,Educational News,Skavlan,0.0031645569620253164
-107,Educational News,NowThis News,0.0031645569620253164
-108,Educational News,Donald J Trump,0.0031645569620253164
-109,Educational News,Brittany Sellner,0.004746835443037975
-110,Educational News,Studio 10,0.0031645569620253164
-111,Educational News,VICE News,0.0015822784810126582
-112,Educational News,GeenStijl,0.0015822784810126582
-113,Educational News,Channel 4 News,0.0031645569620253164
-114,Educational News,Official Jim Cornette,0.0015822784810126582
-115,Educational News,Philosophy Overdose,0.0031645569620253164
-116,Educational News,LearnatCTU,0.0015822784810126582
-117,Educational News,DISPUK Uddannelsescenter,0.0015822784810126582
-118,Educational News,Philosophize This!,0.0015822784810126582
-119,Educational News,Online Learning at GCC,0.0015822784810126582
-120,Educational News,franciscanfriars,0.0015822784810126582
-121,Educational News,RONY AKIKI,0.0015822784810126582
-122,Educational News,UWinnipeg,0.0015822784810126582
-123,Educational News,Nick Viall,0.0015822784810126582
-124,Educational News,The Young Turks,0.0015822784810126582
-125,Educational News,Steve TV Show,0.0015822784810126582
-126,Educational News,karen straughan,0.0015822784810126582
-127,Educational News,The New York Times,0.0015822784810126582
-128,Educational News,Rebecca Lynn Pope,0.0015822784810126582
-129,Educational News,The School of Life,0.0015822784810126582
-130,Educational News,Bulldog Mindset,0.0015822784810126582
-131,Educational News,PanDaddyPowa,0.0015822784810126582
-132,Educational News,Practical Ethics Channel,0.0015822784810126582
-133,Educational News,Joseph Anderson,0.0015822784810126582
-134,Educational News,jacksepticeye,0.0015822784810126582
-135,Educational News,Christo Aivalis,0.0015822784810126582
-136,Educational News,Jubilee,0.0015822784810126582
-137,Educational News,The New Culture Forum Channel,0.0015822784810126582
-138,Educational News,Razbuten,0.0015822784810126582
-139,Educational News,Three Arrows,0.0015822784810126582
-140,Educational News,TEDx Talks,0.0015822784810126582
+,Category,Next Channel,Count
+0,AntiSJW,Barbara4u2c,16
+1,AntiSJW,Jeremy Vine on 5 - Official Channel,2
+2,AntiSJW,Jimmy Zhang,1
+3,AntiSJW,FarFromAverage,1
+4,AntiSJW,Glamour,1
+5,AntiSJW,The Daily Dropout,1
+6,AntiSJW,Fox News,390
+7,AntiSJW,Mark Upson,1
+8,AntiSJW,Andrew Klavan,6
+9,AntiSJW,HooverInstitution,254
+10,AntiSJW,Hillsdale College,1
+11,AntiSJW,The Rubin Report,11
+12,AntiSJW,Acton Institute,3
+13,AntiSJW,The New Culture Forum Channel,1
+14,AntiSJW,Leo Ashe,3
+15,AntiSJW,FiveThirtyEight,1
+16,AntiSJW,Townhall Media,1
+17,AntiSJW,MSNBC,11
+18,AntiSJW,Trump War Room,1
+19,AntiSJW,The Hill,1
+20,AntiSJW,CNN,5
+21,AntiSJW,thkelly67,2
+22,AntiSJW,JoBlo TV Show Trailers,1
+23,AntiSJW,BETNetworks,2
+24,AntiSJW,Talks at Google,2
+25,AntiSJW,EdChoice,6
+26,AntiSJW,LosGranosTV,2
+27,AntiSJW,Steubenville Conferences,1
+28,AntiSJW,Liberty University,11
+29,AntiSJW,Jocko Podcast,46
+30,AntiSJW,ESSENCE,1
+31,AntiSJW,Loose Women,1
+32,AntiSJW,Moyers & Company,5
+33,AntiSJW,NCASVideo,1
+34,AntiSJW,Jordan B Peterson,6
+35,AntiSJW,The Eric Metaxas Radio Show,7
+36,AntiSJW,TED,5
+37,AntiSJW,TEDx Talks,13
+38,AntiSJW,DR Koncerthuset,1
+39,AntiSJW,Global News,3
+40,AntiSJW,Digiday,2
+41,AntiSJW,Christ’s Commission Fellowship,1
+42,AntiSJW,UHD Network,1
+43,AntiSJW,The 700 Club,2
+44,AntiSJW,The Laura Flanders Show,1
+45,AntiSJW,Church Militant,1
+46,AntiSJW,Kurzgesagt – In a Nutshell,2
+47,AntiSJW,Learn Liberty,13
+48,AntiSJW,Ami Horowitz,5
+49,AntiSJW,FS MaNiA,1
+50,AntiSJW,Andrew Scheer,1
+51,AntiSJW,Real Engineering,4
+52,AntiSJW,Memoirs of WWII,1
+53,AntiSJW,CareyHolzman,1
+54,AntiSJW,Newsy World,1
+55,AntiSJW,VICE,8
+56,AntiSJW,The Dick Show,9
+57,AntiSJW,Philosophy Tube,1
+58,AntiSJW,JRE Clips,1
+59,AntiSJW,PowerfulJRE,39
+60,AntiSJW,Late Night with Seth Meyers,1
+61,AntiSJW,Ayla Stewart Wife With A Purpose,6
+62,AntiSJW,Out Weste Adventures - Rick Weste,1
+63,AntiSJW,Jennifer Yang,1
+64,AntiSJW,Darryl Willaman,1
+65,AntiSJW,Bonnie Engstrom,1
+66,AntiSJW,Tsnore,1
+67,AntiSJW,にじホロ24,1
+68,AntiSJW,Purpable VR,1
+69,AntiSJW,Studio 10,39
+70,AntiSJW,Richard Schmit,1
+71,AntiSJW,GameCube /Vyonder,2
+72,AntiSJW,YouTube Movies,14
+73,AntiSJW,The Late Show with Stephen Colbert,3
+74,AntiSJW,華視戲劇頻道,1
+75,AntiSJW,HowTheWorldWorks,7
+76,AntiSJW,Consumer Reports,1
+77,AntiSJW,vlogbrothers,1
+78,AntiSJW,PlanSource,1
+79,AntiSJW,Vox,5
+80,AntiSJW,PBS NewsHour,23
+81,AntiSJW,ReasonTV,6
+82,AntiSJW,Healthcare Triage,2
+83,AntiSJW,Hip Hughes,1
+84,AntiSJW,The Motley Fool,1
+85,AntiSJW,Elizabeth Price Foley,1
+86,AntiSJW,Mackinac Center,1
+87,AntiSJW,NowThis World,1
+88,AntiSJW,Leadership Institute,2
+89,AntiSJW,BrainStuff - HowStuffWorks,1
+90,AntiSJW,Mike Nayna,11
+91,AntiSJW,Bret Weinstein,4
+92,AntiSJW,SCNR,1
+93,AntiSJW,PSU College Republicans,1
+94,AntiSJW,Glink,1
+95,AntiSJW,Channel 4 News,6
+96,AntiSJW,Akkad Daily,1
+97,AntiSJW,British GQ,4
+98,AntiSJW,Kings and Generals,4
+99,AntiSJW,Skavlan,1
+100,AntiSJW,Foundation for Economic Education,75
+101,AntiSJW,Gravitahn,7
+102,AntiSJW,The Times and The Sunday Times,1
+103,AntiSJW,LastWeekTonight,4
+104,AntiSJW,The Daily Wire,3
+105,AntiSJW,The Aspen Institute,32
+106,AntiSJW,Larry Elder with Epoch Times,2
+107,AntiSJW,abcqanda,17
+108,AntiSJW,OxfordUnion,13
+109,AntiSJW,Anthony ONeal,4
+110,AntiSJW,ToolTime,5
+111,AntiSJW,University of Notre Dame,15
+112,AntiSJW,ReaganFoundation,6
+113,AntiSJW,TVO Docs,10
+114,AntiSJW,John Anderson,8
+115,AntiSJW,Kevin O'Leary,15
+116,AntiSJW,The Sun,9
+117,AntiSJW,Room for Discussion,10
+118,AntiSJW,Lewis Howes,3
+119,AntiSJW,Charisma on Command,10
+120,AntiSJW,Reagan Library,3
+121,AntiSJW,Bloggingheads.tv,1
+122,AntiSJW,UnHerd,4
+123,AntiSJW,Montemayor,1
+124,AntiSJW,This Is 42,1
+125,AntiSJW,VICE News,1
+126,AntiSJW,jimgaffigan,12
+127,AntiSJW,Julie Borowski,4
+128,AntiSJW,MLive,1
+129,AntiSJW,ABC10,2
+130,AntiSJW,Tyrone Magnus,2
+131,AntiSJW,Christ Community Chapel,3
+132,AntiSJW,Ruptly,3
+133,AntiSJW,We Heart Lives,2
+134,AntiSJW,The Atlantic,1
+135,AntiSJW,The Andrew Schulz,1
+136,AntiSJW,ViralHog,1
+137,AntiSJW,Doreen Virtue,1
+138,AntiSJW,Pinas News,1
+139,AntiSJW,Diana Davison,3
+140,AntiSJW,IRB Canada,1
+141,AntiSJW,Jimmy Carr,7
+142,AntiSJW,NBC News,11
+143,AntiSJW,socratesinthecity,7
+144,AntiSJW,vitaloneorg,1
+145,AntiSJW,Zoe Amira,1
+146,AntiSJW,Angel & Sam LLP,1
+147,AntiSJW,Centennial Institute,1
+148,AntiSJW,BeautyByKat08,1
+149,AntiSJW,The Fallen State,3
+150,AntiSJW,Professor Dave Explains,18
+151,AntiSJW,Five Star,9
+152,AntiSJW,SiriusXM,5
+153,AntiSJW,Jubilee,4
+154,AntiSJW,Get a Job,1
+155,AntiSJW,PragerU,7
+156,AntiSJW,Triggerd,1
+157,AntiSJW,CBC,4
+158,AntiSJW,The Dick Cavett Show,2
+159,AntiSJW,djvlad,1
+160,AntiSJW,Nick Di Paolo,5
+161,AntiSJW,Saturday Night Live,14
+162,AntiSJW,LaughPlanet,11
+163,AntiSJW,Just For Laughs,9
+164,AntiSJW,Rolling Stone,2
+165,AntiSJW,Richard Nixon Foundation,2
+166,AntiSJW,All Things Comedy,2
+167,AntiSJW,mark normand,2
+168,AntiSJW,Comedy Central,7
+169,AntiSJW,Good Morning Britain,10
+170,AntiSJW,The Invisible Man,1
+171,AntiSJW,ABC 7 Chicago,1
+172,AntiSJW,Sky News Australia,15
+173,AntiSJW,Roland S. Martin,31
+174,AntiSJW,ABC7 News Bay Area,1
+175,AntiSJW,Senator Ted Cruz,5
+176,AntiSJW,Eyewitness News ABC7NY,2
+177,AntiSJW,EWTN,2
+178,AntiSJW,Ali-A,1
+179,AntiSJW,Daily Caller,4
+180,AntiSJW,The New School,15
+181,AntiSJW,Black Pigeon Speaks,4
+182,AntiSJW,Gapminder Foundation,5
+183,AntiSJW,Liberty Doll,3
+184,AntiSJW,Netflix Is A Joke,11
+185,AntiSJW,The Infographics Show,1
+186,AntiSJW,PhlyDaily,1
+187,AntiSJW,BMOnus,3
+188,AntiSJW,Seeker Land,2
+189,AntiSJW,Comedy Dynamics,1
+190,AntiSJW,Tosh.0,1
+191,AntiSJW,Jomboy Media,1
+192,AntiSJW,Dry Bar Comedy,1
+193,AntiSJW,Bearing,4
+194,AntiSJW,CGP Grey,6
+195,AntiSJW,The Best Bits,1
+196,AntiSJW,RedLetterMedia,3
+197,AntiSJW,Channel 4,2
+198,AntiSJW,George Carlin Official YouTube Channel,7
+199,AntiSJW,NowThis News,6
+200,AntiSJW,ET Canada,1
+201,AntiSJW,WhatCulture,1
+202,AntiSJW,Mark Felton Productions,1
+203,AntiSJW,Now You See It,2
+204,AntiSJW,Theo Von,8
+205,AntiSJW,"Kenneth Frantz, Summit Peak Drones",2
+206,AntiSJW,talkRADIO,2
+207,AntiSJW,Commonwealth Club,5
+208,AntiSJW,GQ,5
+209,AntiSJW,Count Dankula Streams,6
+210,AntiSJW,H3 Podcast,1
+211,AntiSJW,i24NEWS English,2
+212,AntiSJW,Lex Fridman,1
+213,AntiSJW,Paul Harrell,2
+214,AntiSJW,CNBC Television,3
+215,AntiSJW,FOX 10 Phoenix,2
+216,AntiSJW,Jericho Green,6
+217,AntiSJW,Harvard Kennedy School's Institute of Politics,3
+218,AntiSJW,Jeff Edits,1
+219,AntiSJW,Just Thinking Out Loud,4
+220,AntiSJW,Patriot Act,3
+221,AntiSJW,Tomorrow's World Viewpoint,19
+222,AntiSJW,ceavideo,1
+223,AntiSJW,SMU Jones Film,1
+224,AntiSJW,BazBattles,1
+225,AntiSJW,Geo History,2
+226,AntiSJW,Smithsonian Channel,1
+227,AntiSJW,Origin Of Everything,3
+228,AntiSJW,Pat Condell,3
+229,AntiSJW,Fire Films,1
+230,AntiSJW,How To Academy,7
+231,AntiSJW,92nd Street Y,5
+232,AntiSJW,WhatAreYouBuyen,1
+233,AntiSJW,Brave New Films,1
+234,AntiSJW,Catholic Answers,1
+235,AntiSJW,CBS News,3
+236,AntiSJW,ABC News,2
+237,AntiSJW,LegalEagle,2
+238,AntiSJW,The Critical Drinker,1
+239,AntiSJW,Lush Life,1
+240,AntiSJW,vpro documentary,2
+241,AntiSJW,RealLifeLore,1
+242,AntiSJW,Invisible People,1
+243,AntiSJW,TampaAerialMedia,1
+244,AntiSJW,Wendover Productions,2
+245,AntiSJW,Behind Star Wars,1
+246,AntiSJW,Vito,1
+247,AntiSJW,The Independent,2
+248,AntiSJW,BDZ,2
+249,AntiSJW,History Buffs,2
+250,AntiSJW,Cinemassacre,2
+251,AntiSJW,NBC New York,1
+252,AntiSJW,DemolitionRanch,1
+253,AntiSJW,T.REX ARMS,2
+254,AntiSJW,BrimstoneGunsmithing,1
+255,AntiSJW,TheDooo,1
+256,AntiSJW,Linus Tech Tips,1
+257,AntiSJW,chizhny,1
+258,AntiSJW,Domination Station,2
+259,AntiSJW,New York Magazine,1
+260,AntiSJW,MotleyTV,1
+261,AntiSJW,Real Time with Bill Maher,8
+262,AntiSJW,Elex Michaelson,1
+263,AntiSJW,Brian Boxer Wachler,1
+264,AntiSJW,The Circus on SHOWTIME,1
+265,AntiSJW,TED-Ed,2
+266,AntiSJW,YouTube,3
+267,AntiSJW,Closeted Claustrophobe,1
+268,AntiSJW,History Matters,1
+269,AntiSJW,Epic History TV,6
+270,AntiSJW,The Armchair Historian,1
+271,AntiSJW,Zane,2
+272,AntiSJW,StarMediaEN,1
+273,AntiSJW,BibleProject,1
+274,AntiSJW,Brown University,5
+275,AntiSJW,Ligonier Ministries,1
+276,AntiSJW,YaleCourses,7
+277,AntiSJW,The Royal Institution,1
+278,AntiSJW,Rick Steves' Europe,2
+279,AntiSJW,Hagee Ministries,1
+280,AntiSJW,REVOLT TV,3
+281,AntiSJW,johntheother,4
+282,AntiSJW,The Rolling Stones,1
+283,AntiSJW,Johnny Bigger,4
+284,AntiSJW,Ravi Zacharias International Ministries,2
+285,AntiSJW,University of California Television (UCTV),1
+286,AntiSJW,OCBF Church,1
+287,AntiSJW,Kel And Zaria,1
+288,AntiSJW,Laura Towler,3
+289,AntiSJW,"Univ. of California, Riverside",1
+290,AntiSJW,American Museum of Natural History,1
+291,AntiSJW,LBC,1
+292,AntiSJW,BBC Three,1
+293,AntiSJW,Sky News,1
+294,AntiSJW,Encore +,1
+295,AntiSJW,ThamesTv,1
+296,AntiSJW,OWN,1
+297,AntiSJW,US Military Target,1
+298,AntiSJW,TheEllenShow,1
+299,AntiSJW,Simulation,1
+300,AntiSJW,ScienceOnline,1
+301,AntiSJW,22fvt,1
+302,AntiSJW,Facts Verse,1
+303,AntiSJW,Clemson University - PSA,1
+304,AntiSJW,FPLANETA FPLANET,1
+305,AntiSJW,MovementMaterial,5
+306,AntiSJW,Runaway Roses,1
+307,AntiSJW,MinuteEarth,1
+308,AntiSJW,Free High-Quality Documentaries,1
+309,AntiSJW,OrchidWeb,1
+310,AntiSJW,Garden Answer,1
+311,AntiSJW,Mike Kincaid,1
+312,AntiSJW,Al Jazeera English,2
+313,AntiSJW,watchJojo,1
+314,AntiSJW,DW Documentary,1
+315,AntiSJW,Steve Hofstetter,1
+316,AntiSJW,News Be Funny,1
+317,AntiSJW,BBC,1
+318,AntiSJW,Joinen,1
+319,AntiSJW,h3h3Productions,1
+320,AntiSJW,ANGELA KANE Sewing TV,1
+321,AntiSJW,Sean Kim,2
+322,AntiSJW,Amber Scholl,1
+323,AntiSJW,Comedy Central Stand-Up,1
+324,AntiSJW,The Economist,4
+325,AntiSJW,Wall Street Journal,1
+326,AntiSJW,Good Morning America,1
+327,AntiSJW,Newsmax TV,2
+328,AntiSJW,Adam Carolla,1
+329,AntiSJW,TODAY,1
+330,AntiSJW,Mashed,1
+331,AntiSJW,Spittin' Chiclets,1
+332,AntiSJW,C-SPAN,3
+333,AntiSJW,Comedy Hype,1
+334,AntiSJW,Harold McDonald Jr,1
+335,AntiSJW,The New York Times,1
+336,AntiSJW,Carmelo Anthony,2
+337,AntiSJW,Sᴜɪᴛ Yᴏᴜʀsᴇʟғ,4
+338,AntiSJW,Asmongold TV,1
+339,AntiSJW,FragHero,1
+340,AntiSJW,PaluluMan,1
+341,AntiSJW,adam rozenbachs,1
+342,AntiSJW,Asmongold Highlights,1
+343,AntiSJW,Brad Owen,1
+344,AntiSJW,WhatCulture Gaming,1
+345,AntiSJW,TheKoreanSavage,1
+346,AntiSJW,Top5Gaming,1
+347,AntiSJW,Anthony Brian Logan,1
+348,AntiSJW,The Spiffing Brit,1
+349,AntiSJW,Turning Point USA,1
+350,AntiSJW,Johnny Carson,1
+351,AntiSJW,Meme Machine,1
+352,AntiSJW,News 19 WLTX,2
+353,AntiSJW,Slightly Offens*ve,4
+354,AntiSJW,StudioBrule,3
+355,AntiSJW,PaulIsDeadMissHim,1
+356,AntiSJW,Luther Barnes - Topic,1
+357,AntiSJW,Grits N Gravy,1
+358,AntiSJW,The Heritage Foundation,2
+359,AntiSJW,Libertatem,1
+360,AntiSJW,Donut Operator,1
+361,AntiSJW,The Free Speech Club,1
+362,AntiSJW,ABC Action News,1
+363,AntiSJW,This Morning,1
+364,AntiSJW,Cronkite News,1
+365,AntiSJW,The View,2
+366,AntiSJW,RobinHoodUK,1
+367,AntiSJW,The Daily Show with Trevor Noah,2
+368,AntiSJW,Think Club,1
+369,AntiSJW,HTN,1
+370,AntiSJW,National Geographic,1
+371,AntiSJW,JohnnyFlynnVEVO,1
+372,AntiSJW,TRT World,5
+373,AntiSJW,BiolaUniversity,2
+374,AntiSJW,WYCC PBS Chicago,1
+375,AntiSJW,TheDC Shorts,1
+376,AntiSJW,The Howard Stern Show,1
+377,AntiSJW,America's Got Talent,1
+378,AntiSJW,FOX 13 News - Tampa Bay,1
+379,AntiSJW,KPIX CBS SF Bay Area,1
+380,AntiSJW,azcentral.com and The Arizona Republic,1
+381,AntiSJW,Ray Zombie,1
+382,AntiSJW,AlienAntFarmVEVO,1
+383,AntiSJW,Variety,1
+384,AntiSJW,CBS Sports HQ,2
+385,AntiSJW,Mark Galer's Alpha Creative Skills,1
+386,AntiSJW,Council on Foreign Relations,1
+387,AntiSJW,The Black Experience Japan,1
+388,AntiSJW,American Battlefield Trust,1
+389,AntiSJW,Tom Scott,1
+390,AntiSJW,TwoSetViolin,1
+391,AntiSJW,Nashville Public Television,1
+392,AntiSJW,USA TODAY,1
+393,AntiSJW,Pop Culture Detective,1
+394,AntiSJW,The Kino Corner,1
+395,AntiSJW,Penn Arts & Sciences,1
+396,AntiSJW,Exploring Minds with Michele Carroll,2
+397,AntiSJW,Binging with Babish,1
+398,AntiSJW,Mega64 Podcast Clips,1
+399,AntiSJW,"Mercy Gono BSN, RN",1
+400,AntiSJW,sammycoin,1
+401,AntiSJW,Pangburn,2
+402,AntiSJW,First Congregational Church of LA,1
+403,AntiSJW,Perimeter Institute for Theoretical Physics,1
+404,AntiSJW,The Atheist Experience,1
+405,AntiSJW,Official Jim Cornette,1
+406,AntiSJW,60 Minutes Australia,1
+407,AntiSJW,Candace Owens,1
+408,AntiSJW,Welding and stuff,2
+409,AntiSJW,Clash of Ideas,2
+410,AntiSJW,H3 Podcast Highlights,1
+411,AntiSJW,Bite-sized Philosophy,3
+412,AntiSJW,Motivation Madness,2
+413,AntiSJW,THE BESTS,1
+414,AntiSJW,IntelligenceSquared Debates,1
+415,AntiSJW,CNBC International,1
+416,AntiSJW,Joseph Wouk,1
+417,AntiSJW,ideacity,1
+418,AntiSJW,ABC News (Australia),1
+419,AntiSJW,Free To Choose Network,1
+420,AntiSJW,Pink Floyd,1
+421,AntiSJW,GPB,1
+422,AntiSJW,Understood,1
+423,AntiSJW,Sinai Indaba,1
+424,AntiSJW,Victory Tulsa,3
+425,AntiSJW,The Oriental Institute,2
+426,AntiSJW,Doctor Mike Hansen,1
+427,AntiSJW,The UK Blessing,1
+428,AntiSJW,Bugoy Drilon,1
+429,AntiSJW,Chael Sonnen,1
+430,AntiSJW,Washington Post,1
+431,AntiSJW,ODZ,1
+432,AntiSJW,Chicago Humanities Festival,1
+433,AntiSJW,Jacobin Magazine,1
+434,AntiSJW,The Daily Truth,1
+435,AntiSJW,Donald Glover,1
+436,AntiSJW,The Daily Conversation,1
+437,AntiSJW,THNKR,1
+438,AntiSJW,syracuse.com,1
+439,AntiSJW,MotivationHub,2
+440,AntiSJW,MTV News,2
+441,AntiSJW,Independent Man,1
+442,AntiSJW,Lewberry Productions,1
+443,AntiSJW,The Wheatley Institution,1
+444,AntiSJW,SJWCentral,1
+445,AntiSJW,LibertyPen,1
+446,AntiSJW,Cambridge Union,1
+447,AntiSJW,Led Zeppelin,1
+448,AntiSJW,amberson1100,1
+449,AntiSJW,Luke TheNotable,1
+450,AntiSJW,The Cincinnati Zoo & Botanical Garden,1
+451,AntiSJW,Fiat Lux,1
+452,AntiSJW,Eduardo AJ Aliaga,1
+453,AntiSJW,J.J. McCullough,1
+454,AntiSJW,Corridor Crew,1
+455,AntiSJW,JOE,1
+456,AntiSJW,hackerdashery,1
+457,AntiSJW,Matt Lowne,1
+458,AntiSJW,ColdFusion,1
+459,AntiSJW,ITV News,1
+460,AntiSJW,Nature Healing Society,1

@@ -1,175 +1,336 @@
-,Category,Next Channel,Probability
-0,Educational News,HoneyBadgerRadio,0.025396825396825397
-1,Educational News,MSNBC,0.004761904761904762
-2,Educational News,Cassie Jaye,0.0031746031746031746
-3,Educational News,Jimmy Carr,0.011111111111111112
-4,Educational News,Fun Radio,0.0015873015873015873
-5,Educational News,Official Jim Cornette,0.0031746031746031746
-6,Educational News,Fox News,0.05555555555555555
-7,Educational News,Josh Gad,0.015873015873015872
-8,Educational News,This Morning,0.0015873015873015873
-9,Educational News,Russell Brand,0.011111111111111112
-10,Educational News,The Zero Hour with RJ Eskow,0.014285714285714285
-11,Educational News,Christo Aivalis,0.007936507936507936
-12,Educational News,NYVCC,0.0015873015873015873
-13,Educational News,Mike Licona,0.0015873015873015873
-14,Educational News,CNN,0.004761904761904762
-15,Educational News,Diana Davison,0.01904761904761905
-16,Educational News,Steve Hofstetter,0.0015873015873015873
-17,Educational News,James Altucher,0.0015873015873015873
-18,Educational News,You Too Mike Bullard,0.0015873015873015873
-19,Educational News,MyTalkShowHeroes,0.0015873015873015873
-20,Educational News,ToddShapiroShow,0.0015873015873015873
-21,Educational News,Albert Howell,0.0015873015873015873
-22,Educational News,MotleyTV,0.0015873015873015873
-23,Educational News,Steven David Lampley,0.0015873015873015873
-24,Educational News,Untrue Crime,0.0015873015873015873
-25,Educational News,Real Good,0.0015873015873015873
-26,Educational News,Mystery Wire,0.0015873015873015873
-27,Educational News,YouTube,0.0015873015873015873
-28,Educational News,Socially Impaired,0.0015873015873015873
-29,Educational News,Canadian Association for Equality,0.0015873015873015873
-30,Educational News,Independent Man,0.0015873015873015873
-31,Educational News,Mr.President 420,0.0015873015873015873
-32,Educational News,StudioBrule,0.006349206349206349
-33,Educational News,johntheother,0.007936507936507936
-34,Educational News,Motivation Madness,0.020634920634920634
-35,Educational News,Jordan B Peterson,0.05873015873015873
-36,Educational News,Gravitahn,0.0015873015873015873
-37,Educational News,SOH Talks & Ideas Archive,0.0015873015873015873
-38,Educational News,DoctorOz,0.0015873015873015873
-39,Educational News,British GQ,0.014285714285714285
-40,Educational News,Channel 4 News,0.004761904761904762
-41,Educational News,Skavlan,0.015873015873015872
-42,Educational News,Alex Swan,0.0015873015873015873
-43,Educational News,Jordan Peterson Fan Channel,0.0015873015873015873
-44,Educational News,TED,0.0031746031746031746
-45,Educational News,Evan Carmichael,0.0015873015873015873
-46,Educational News,PowerfulJRE,0.026984126984126985
-47,Educational News,Bite-sized Philosophy,0.0031746031746031746
-48,Educational News,Jordan B Peterson Clips,0.0015873015873015873
-49,Educational News,TheArchangel911,0.0015873015873015873
-50,Educational News,Thinking-Ape,0.014285714285714285
-51,Educational News,TVO Docs,0.04126984126984127
-52,Educational News,HooverInstitution,0.10793650793650794
-53,Educational News,Lewis Howes,0.0015873015873015873
-54,Educational News,Jocko Podcast,0.012698412698412698
-55,Educational News,YaleCourses,0.006349206349206349
-56,Educational News,MULLIGAN BROTHERS INTERVIEWS,0.014285714285714285
-57,Educational News,mediasanctuary,0.0015873015873015873
-58,Educational News,TEDx Talks,0.0031746031746031746
-59,Educational News,jimgaffigan,0.0031746031746031746
-60,Educational News,Amnesty International USA,0.0015873015873015873
-61,Educational News,UFC - Ultimate Fighting Championship,0.0015873015873015873
-62,Educational News,Amma - Topic,0.0015873015873015873
-63,Educational News,Eckhart Tolle,0.015873015873015872
-64,Educational News,Xavier Juarez,0.0015873015873015873
-65,Educational News,Kira Carrillo Corser,0.0015873015873015873
-66,Educational News,Disque Foundation,0.0015873015873015873
-67,Educational News,M3 Media Productions - Regional,0.0015873015873015873
-68,Educational News,American Battlefield Trust,0.0031746031746031746
-69,Educational News,Charlie Chaplin,0.0015873015873015873
-70,Educational News,The Rubin Report,0.007936507936507936
-71,Educational News,The Royal Institution,0.006349206349206349
-72,Educational News,Learn Liberty,0.0015873015873015873
-73,Educational News,Room for Discussion,0.025396825396825397
-74,Educational News,NBC News,0.015873015873015872
-75,Educational News,GeenStijl,0.0015873015873015873
-76,Educational News,Charisma on Command,0.0380952380952381
-77,Educational News,MedCircle,0.004761904761904762
-78,Educational News,Studio 10,0.01746031746031746
-79,Educational News,LastWeekTonight,0.011111111111111112
-80,Educational News,Professor Dave Explains,0.012698412698412698
-81,Educational News,ABC7 News Bay Area,0.0031746031746031746
-82,Educational News,University of Notre Dame,0.0015873015873015873
-83,Educational News,How To Academy,0.007936507936507936
-84,Educational News,Sydney Symphony Orchestra,0.0015873015873015873
-85,Educational News,StarCraft Esports,0.0015873015873015873
-86,Educational News,MarkusPix,0.0031746031746031746
-87,Educational News,DrAntonioBorrello,0.0015873015873015873
-88,Educational News,FUNDACIÓN JUAN MARCH,0.0015873015873015873
-89,Educational News,Atlas Society,0.0015873015873015873
-90,Educational News,Misha Collins,0.0015873015873015873
-91,Educational News,Law Society of Ontario Archives,0.0015873015873015873
-92,Educational News,Lone Star Rocker,0.0015873015873015873
-93,Educational News,CBC News: The National,0.0015873015873015873
-94,Educational News,Patriot Act,0.0031746031746031746
-95,Educational News,Adult Swim,0.0015873015873015873
-96,Educational News,Levy Economics Institute,0.0031746031746031746
-97,Educational News,CareyHolzman,0.0015873015873015873
-98,Educational News,Intelligence Squared,0.006349206349206349
-99,Educational News,EdChoice,0.0031746031746031746
-100,Educational News,John Anderson,0.011111111111111112
-101,Educational News,The New School,0.0031746031746031746
-102,Educational News,MedCram - Medical Lectures Explained CLEARLY,0.0015873015873015873
-103,Educational News,Art of Manliness,0.011111111111111112
-104,Educational News,Valuetainment,0.0031746031746031746
-105,Educational News,Hedgeye,0.0015873015873015873
-106,Educational News,GQ,0.0031746031746031746
-107,Educational News,Bret Weinstein,0.0031746031746031746
-108,Educational News,PBS NewsHour,0.0031746031746031746
-109,Educational News,vpro documentary,0.0015873015873015873
-110,Educational News,VICE,0.0015873015873015873
-111,Educational News,Rolling Stone,0.007936507936507936
-112,Educational News,Foundation for Economic Education,0.014285714285714285
-113,Educational News,92nd Street Y,0.0031746031746031746
-114,Educational News,The Aspen Institute,0.004761904761904762
-115,Educational News,Sky News Australia,0.004761904761904762
-116,Educational News,ReasonTV,0.0015873015873015873
-117,Educational News,The Roommates,0.0031746031746031746
-118,Educational News,Philosophy Tube,0.0015873015873015873
-119,Educational News,Shonnetta's Divine Tarot,0.0015873015873015873
-120,Educational News,BMOnus,0.006349206349206349
-121,Educational News,YouTube Movies,0.0015873015873015873
-122,Educational News,PIERRE XO,0.0015873015873015873
-123,Educational News,ET Canada,0.0015873015873015873
-124,Educational News,Sam Vaknin,0.0015873015873015873
-125,Educational News,Politics and Prose,0.0015873015873015873
-126,Educational News,Think Club Archive,0.0015873015873015873
-127,Educational News,Dr. Todd Grande,0.0015873015873015873
-128,Educational News,DeMars Coaching,0.0015873015873015873
-129,Educational News,TL;DR,0.0015873015873015873
-130,Educational News,Digiday,0.0015873015873015873
-131,Educational News,Think Before You Sleep,0.0015873015873015873
-132,Educational News,Sunrise Hoodie,0.0015873015873015873
-133,Educational News,TODAY,0.0015873015873015873
-134,Educational News,The Tonight Show Starring Jimmy Fallon,0.0015873015873015873
-135,Educational News,The Late Late Show,0.0031746031746031746
-136,Educational News,abcqanda,0.0031746031746031746
-137,Educational News,The School of Life,0.0015873015873015873
-138,Educational News,Movieclips,0.0015873015873015873
-139,Educational News,The Late Show with Stephen Colbert,0.0015873015873015873
-140,Educational News,Fire Films,0.0015873015873015873
-141,Educational News,Xero Accounting Software,0.0031746031746031746
-142,Educational News,WordToTheWise,0.0015873015873015873
-143,Educational News,Steubenville Conferences,0.0015873015873015873
-144,Educational News,Philosophies for Life,0.0015873015873015873
-145,Educational News,Wu-Tang Clan,0.0015873015873015873
-146,Educational News,Russell Peters,0.0015873015873015873
-147,Educational News,Sebastian Maniscalco,0.0015873015873015873
-148,Educational News,CBC News,0.0015873015873015873
-149,Educational News,Sadhguru,0.0015873015873015873
-150,Educational News,Einzelgänger,0.0015873015873015873
-151,Educational News,Emergent Order,0.0015873015873015873
-152,Educational News,BBC Newsnight,0.0015873015873015873
-153,Educational News,Gordon Ramsay,0.0015873015873015873
-154,Educational News,Better Bachelor,0.0015873015873015873
-155,Educational News,Strong Successful Male,0.0015873015873015873
-156,Educational News,Young Men's Daily Red Pill,0.0015873015873015873
-157,Educational News,WildHater,0.0015873015873015873
-158,Educational News,Razbuten,0.0015873015873015873
-159,Educational News,BBC,0.0015873015873015873
-160,Educational News,OWN,0.0015873015873015873
-161,Educational News,DW Documental,0.0015873015873015873
-162,Educational News,11Alive,0.0031746031746031746
-163,Educational News,ITV News,0.0015873015873015873
-164,Educational News,Breakfast Club Power 105.1 FM,0.0015873015873015873
-165,Educational News,ДИМА ДАЛАЙ,0.0015873015873015873
-166,Educational News,USA TODAY,0.0015873015873015873
-167,Educational News,Jubilee,0.0031746031746031746
-168,Educational News,NewYork-Presbyterian Hospital,0.0015873015873015873
-169,Educational News,AIB,0.0015873015873015873
-170,Educational News,Moyers & Company,0.0031746031746031746
-171,Educational News,Good Morning Britain,0.0015873015873015873
-172,Educational News,SORTEDfood,0.0015873015873015873
-173,Educational News,Pencilmation,0.0015873015873015873
+,Category,Next Channel,Count
+0,MRA,Sandman,16
+1,MRA,The Roommates,2
+2,MRA,The Rubin Report,7
+3,MRA,Think Before You Sleep,1
+4,MRA,Young ManHood Channel [YMC],1
+5,MRA,TEDx Talks,11
+6,MRA,Anna Akana,3
+7,MRA,TREAD MARK,1
+8,MRA,Fox News,166
+9,MRA,HooverInstitution,229
+10,MRA,Terrence Popp,22
+11,MRA,CosmicSkeptic,1
+12,MRA,HoneyBadgerRadio,10
+13,MRA,NCASVideo,1
+14,MRA,The Film Theorists,2
+15,MRA,CBC,8
+16,MRA,Megaprojects,1
+17,MRA,Philosophy Tube,2
+18,MRA,Patriot Act,4
+19,MRA,The Late Show with Stephen Colbert,2
+20,MRA,Jocko Podcast,90
+21,MRA,3Blue1Brown,1
+22,MRA,Brian Tyler Cohen,1
+23,MRA,Emory University,1
+24,MRA,DoctorRandomercam,15
+25,MRA,FUSION,1
+26,MRA,Cassie Jaye,2
+27,MRA,Jubilee,3
+28,MRA,Studio 10,59
+29,MRA,JRE Clips,3
+30,MRA,Bret Weinstein,2
+31,MRA,Jordan B Peterson,20
+32,MRA,Professor Dave Explains,9
+33,MRA,British GQ,15
+34,MRA,92nd Street Y,10
+35,MRA,Channel 4 News,10
+36,MRA,Skavlan,22
+37,MRA,The Bearded Nemophilist,1
+38,MRA,The School of Life,18
+39,MRA,Backfire,1
+40,MRA,TVO Docs,70
+41,MRA,DoctorOz,3
+42,MRA,Kevin O'Leary,22
+43,MRA,Motivation Madness,20
+44,MRA,21 Studios,1
+45,MRA,Foundation for Economic Education,53
+46,MRA,GQ,12
+47,MRA,BlackScoutSurvival,1
+48,MRA,Tavarish,1
+49,MRA,LegalEagle,4
+50,MRA,Thinking-Ape,19
+51,MRA,This Morning,54
+52,MRA,Geo History,1
+53,MRA,ARIRANG NEWS,11
+54,MRA,The Aspen Institute,41
+55,MRA,Georgia Free,19
+56,MRA,TED,3
+57,MRA,Charisma on Command,79
+58,MRA,Room for Discussion,44
+59,MRA,How To Academy,51
+60,MRA,Janet Jackson,1
+61,MRA,INDEPTH Sound Design,1
+62,MRA,Village food factory,1
+63,MRA,Lex Fridman,5
+64,MRA,Bite-sized Philosophy,2
+65,MRA,MULLIGAN BROTHERS INTERVIEWS,8
+66,MRA,Sky News Australia,8
+67,MRA,6oodfella,19
+68,MRA,WWE,1
+69,MRA,The Royal Institution,12
+70,MRA,Inside Edition,1
+71,MRA,Roland S. Martin,23
+72,MRA,Valuetainment,4
+73,MRA,SUCCESS CHASERS,5
+74,MRA,talkRADIO,1
+75,MRA,Johnny Bigger,4
+76,MRA,ReasonTV,11
+77,MRA,The Atlantic,1
+78,MRA,johntheother,8
+79,MRA,BUILD Series,2
+80,MRA,Penguin Random House,1
+81,MRA,TheEllenShow,1
+82,MRA,Dartmouth,1
+83,MRA,CollegeHumor,1
+84,MRA,Jimmy Kimmel Live,1
+85,MRA,WingmamTV,1
+86,MRA,POPSUGAR,1
+87,MRA,Grow Successful,1
+88,MRA,George Carlin Official YouTube Channel,10
+89,MRA,TRT World,3
+90,MRA,Style Girlfriend,1
+91,MRA,The Daily Show with Trevor Noah,1
+92,MRA,Art of Manliness,30
+93,MRA,PowerfulJRE,39
+94,MRA,StudioBrule,2
+95,MRA,Real Time with Bill Maher,9
+96,MRA,John Anderson,19
+97,MRA,The Agenda with Steve Paikin,2
+98,MRA,UnHerd,11
+99,MRA,Theo Von,4
+100,MRA,Saturday Night Live,1
+101,MRA,LaughPlanet,4
+102,MRA,KyleDunnigan,1
+103,MRA,Reagan Library,1
+104,MRA,Gravitahn,13
+105,MRA,The Fighter and The Kid,1
+106,MRA,JoBlo Movie Clips,1
+107,MRA,Jeremy Vine on 5 - Official Channel,10
+108,MRA,Wolters World,2
+109,MRA,Jess on a Quest,1
+110,MRA,Gabriel Traveler,1
+111,MRA,Masaman,1
+112,MRA,Roosh V,18
+113,MRA,The Sun,2
+114,MRA,The Veritas Forum,1
+115,MRA,BASSFZz,12
+116,MRA,Joe Scott,1
+117,MRA,WordToTheWise,10
+118,MRA,Matt Miltonberger,1
+119,MRA,PICSCanada,1
+120,MRA,Simardeep Kochar,1
+121,MRA,The New School,18
+122,MRA,Gapminder Foundation,1
+123,MRA,Closer To Truth,2
+124,MRA,The YEARS Project,1
+125,MRA,AWE me,1
+126,MRA,Independent Man,7
+127,MRA,Spirit Tribe Awakening,1
+128,MRA,Moyers & Company,3
+129,MRA,Rob McCrain,1
+130,MRA,American Train,1
+131,MRA,Bulldog Mindset,1
+132,MRA,Mississippi Public Broadcasting,1
+133,MRA,CBC News: The National,2
+134,MRA,abcqanda,16
+135,MRA,Anthony Pompliano,1
+136,MRA,The Trogly's Guitar Show,1
+137,MRA,Rolling Stone,3
+138,MRA,OWN,3
+139,MRA,UPROXX,1
+140,MRA,"The Martin Luther King, Jr. Center for Nonviolent Social Change",3
+141,MRA,Victory Tulsa,1
+142,MRA,CNBC Television,6
+143,MRA,Super Saiyan Paul,3
+144,MRA,ideacity,1
+145,MRA,Founders Ministries,1
+146,MRA,Carmelo Anthony,4
+147,MRA,American Battlefield Trust,8
+148,MRA,The Specials,1
+149,MRA,Bloomberg QuickTake Originals,3
+150,MRA,The Old Vic,1
+151,MRA,dilloacami,1
+152,MRA,Life of Boris,1
+153,MRA,WILTY? Nope!,3
+154,MRA,Channel 4,1
+155,MRA,MargoLeadbetter1,2
+156,MRA,University of Notre Dame,12
+157,MRA,ReaganFoundation,5
+158,MRA,DinnerladiesHQ,2
+159,MRA,Liberty University,3
+160,MRA,NBC New York,4
+161,MRA,GMA News,2
+162,MRA,Windows Vista Gaming [音MAD],1
+163,MRA,Nic Clay - Topic,1
+164,MRA,1980tunes,1
+165,MRA,NBC News,8
+166,MRA,Haste Raho,1
+167,MRA,Dragons' Den,1
+168,MRA,Good Morning Britain,6
+169,MRA,Understood,2
+170,MRA,BBC Scotland,1
+171,MRA,Dr. John Campbell,2
+172,MRA,Nature Healing Society,1
+173,MRA,The Atheist Experience,2
+174,MRA,Forgotten Weapons,1
+175,MRA,FoundFlix,1
+176,MRA,PanteaoProductions,1
+177,MRA,Bernard Magee Bridge,1
+178,MRA,Obama Foundation,1
+179,MRA,Washington National Cathedral,1
+180,MRA,Discovery Science,2
+181,MRA,A Voice For Men,5
+182,MRA,Conversations with Bill Kristol,1
+183,MRA,D Briggs,1
+184,MRA,The Voice Australia,1
+185,MRA,Town Hall Seattle,2
+186,MRA,i24NEWS English,4
+187,MRA,Leuphana,1
+188,MRA,FarAwayDistance,1
+189,MRA,Philosophies for Life,9
+190,MRA,Jimmy Carr,4
+191,MRA,YouTube Movies,39
+192,MRA,RedLetterMedia,2
+193,MRA,Alexander Grace,15
+194,MRA,Better Bachelor,2
+195,MRA,Shout! Factory,1
+196,MRA,Movieclips,1
+197,MRA,Vanity Fair,5
+198,MRA,Sadhguru,1
+199,MRA,deadprezVEVO,1
+200,MRA,SHAWSTRENGTH,1
+201,MRA,jimgaffigan,3
+202,MRA,The Kino Corner,2
+203,MRA,Pop Culture Detective,1
+204,MRA,Wisecrack,1
+205,MRA,The Economist,6
+206,MRA,OxfordUnion,1
+207,MRA,An Ear for Men,6
+208,MRA,Stanford Health Care,6
+209,MRA,Therealizedman,2
+210,MRA,M Czerna,4
+211,MRA,MotivationHub,6
+212,MRA,GPB,2
+213,MRA,Got Talent Global,1
+214,MRA,Linus Tech Tips,1
+215,MRA,Max Joseph,1
+216,MRA,Eckhart Tolle,4
+217,MRA,Chael Sonnen,4
+218,MRA,Levy Economics Institute,4
+219,MRA,Lewis Howes,6
+220,MRA,Fearless Soul,3
+221,MRA,Free To Choose Network,1
+222,MRA,macfound,1
+223,MRA,Learn Liberty,3
+224,MRA,Alex Swan,1
+225,MRA,FarFromAverage,1
+226,MRA,One Percent Better,3
+227,MRA,Coach Red Pill,2
+228,MRA,Immortal Mindz - Conversations With Soul,1
+229,MRA,Gonzalo Lira,1
+230,MRA,ABC News,3
+231,MRA,Wimbledon,1
+232,MRA,ABC10,1
+233,MRA,MSNBC,4
+234,MRA,Doctor Mike Hansen,1
+235,MRA,KAABA,1
+236,MRA,PBS NewsHour,1
+237,MRA,Crossroads Community Church - Winchester VA,1
+238,MRA,Elisabeth Beemer,1
+239,MRA,University of California Television (UCTV),1
+240,MRA,socratesinthecity,5
+241,MRA,Lex van Dam Trading Academy,1
+242,MRA,Loose Women,1
+243,MRA,History vs. Hollywood,1
+244,MRA,JavierNathaniel,1
+245,MRA,Mark Bowden,1
+246,MRA,Abhirio,1
+247,MRA,AwakenWithJP,2
+248,MRA,Neel Kolhatkar,1
+249,MRA,UNILAD Adventure,1
+250,MRA,JonDZ Adventuring,1
+251,MRA,SKYPIC AERIAL PHOTOGRAPHY,1
+252,MRA,Cambridge Union,2
+253,MRA,Juliet Elliott,1
+254,MRA,SceneScreen,1
+255,MRA,Fluenz,1
+256,MRA,Yahoo Finance,2
+257,MRA,The Voice of Germany - Offiziell,1
+258,MRA,Kenneth Copeland Ministries,1
+259,MRA,In Touch Ministries,1
+260,MRA,EWTN,1
+261,MRA,Saddleback Church,1
+262,MRA,Commonwealth Club,1
+263,MRA,EdChoice,5
+264,MRA,CGP Grey,2
+265,MRA,Eric Thigpen,2
+266,MRA,Universal Comedy,1
+267,MRA,Xero Accounting Software,1
+268,MRA,Brown University,2
+269,MRA,Kingulus,1
+270,MRA,Mr.Within's Gift,2
+271,MRA,Cut,1
+272,MRA,Eddie 'The Beast' Hall,1
+273,MRA,Sotheby's International Realty,1
+274,MRA,The Dave Ramsey Show,1
+275,MRA,The Federalist Society,1
+276,MRA,karen straughan,2
+277,MRA,American Enterprise Institute,1
+278,MRA,C-SPAN,1
+279,MRA,BBC Newsnight,1
+280,MRA,TearItDown,1
+281,MRA,PragerU,1
+282,MRA,Miramax,1
+283,MRA,Wendover Productions,1
+284,MRA,Mama Doctor Jones,1
+285,MRA,H3 Podcast Highlights,1
+286,MRA,Dr Taylor Marshall,1
+287,MRA,Diana Davison,3
+288,MRA,Business Insider,1
+289,MRA,ABC7 News Bay Area,1
+290,MRA,Pod Save The Fandom,1
+291,MRA,60 Minutes Australia,1
+292,MRA,Light of Mary,1
+293,MRA,Kurzgesagt – In a Nutshell,1
+294,MRA,CNBC,1
+295,MRA,The Heritage Foundation,1
+296,MRA,IAN ROY STONE,1
+297,MRA,Comedy Central,1
+298,MRA,American Museum of Natural History,2
+299,MRA,LinedanceEunhee Yoon,1
+300,MRA,Epimetheus,1
+301,MRA,MovementMaterial,1
+302,MRA,Keith Merrow,1
+303,MRA,Chris Stuckmann,1
+304,MRA,ChangingTheGameUK,1
+305,MRA,Richard Burnish,1
+306,MRA,Nimbus School of Recording & Media,1
+307,MRA,ElectroBOOM,1
+308,MRA,LastWeekTonight,2
+309,MRA,SiriusXM,2
+310,MRA,Digiday,1
+311,MRA,Five Finger Death Punch,1
+312,MRA,H3 Podcast,1
+313,MRA,The Infographics Show,1
+314,MRA,Peter Kay,1
+315,MRA,Channels Television,2
+316,MRA,Breakfast Club Power 105.1 FM,1
+317,MRA,Stans Scottish Comedy,1
+318,MRA,ColdFusion,1
+319,MRA,Real Engineering,2
+320,MRA,Bertelsmann Foundation,1
+321,MRA,YaleCourses,1
+322,MRA,CareyHolzman,1
+323,MRA,The Daily Signal,1
+324,MRA,edbookfest,1
+325,MRA,Sky News,1
+326,MRA,Season of Mist,1
+327,MRA,RunTheJewels,1
+328,MRA,Larry Bundy Jr,1
+329,MRA,StarTalk,1
+330,MRA,Larry King,1
+331,MRA,WatchTheDaily,1
+332,MRA,AeroAstroMIT,1
+333,MRA,videogamedunkey,1
+334,MRA,Timbo,1

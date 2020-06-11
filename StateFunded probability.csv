@@ -1,246 +1,458 @@
-,Category,Next Channel,Probability
-0,Educational News,AJ+,0.025356576862123614
-1,Educational News,HOT 97,0.001584786053882726
-2,Educational News,DW Documentary,0.014263074484944533
-3,Educational News,Emory University,0.001584786053882726
-4,Educational News,MotivationHub,0.001584786053882726
-5,Educational News,What Would You Do?,0.001584786053882726
-6,Educational News,Brian Boxer Wachler,0.001584786053882726
-7,Educational News,Origin Of Everything,0.006339144215530904
-8,Educational News,60 Minutes Australia,0.025356576862123614
-9,Educational News,Doctor Mike Hansen,0.003169572107765452
-10,Educational News,China in Focus - NTD,0.014263074484944533
-11,Educational News,Real Science,0.001584786053882726
-12,Educational News,Looper,0.001584786053882726
-13,Educational News,Joy Daily,0.001584786053882726
-14,Educational News,Al Jazeera English,0.006339144215530904
-15,Educational News,Shameless Maya,0.001584786053882726
-16,Educational News,The Black Experience Japan,0.001584786053882726
-17,Educational News,PBS,0.001584786053882726
-18,Educational News,Brew,0.001584786053882726
-19,Educational News,ABC News In-depth,0.05388272583201268
-20,Educational News,The People,0.003169572107765452
-21,Educational News,Moyers & Company,0.001584786053882726
-22,Educational News,Everyday Astronaut,0.001584786053882726
-23,Educational News,MSNBC,0.011093502377179081
-24,Educational News,NDTV,0.001584786053882726
-25,Educational News,PBS NewsHour,0.00792393026941363
-26,Educational News,Gapminder Foundation,0.003169572107765452
-27,Educational News,NBCLA,0.009508716323296355
-28,Educational News,WIRED UK,0.01584786053882726
-29,Educational News,Chromosome8,0.001584786053882726
-30,Educational News,University of California Television (UCTV),0.00792393026941363
-31,Educational News,CBC Vancouver,0.009508716323296355
-32,Educational News,Pindex,0.001584786053882726
-33,Educational News,The Feed SBS,0.001584786053882726
-34,Educational News,The Economist,0.001584786053882726
-35,Educational News,StarMediaEN,0.004754358161648178
-36,Educational News,Channel 4 News,0.001584786053882726
-37,Educational News,Financial Times,0.001584786053882726
-38,Educational News,TRT World,0.001584786053882726
-39,Educational News,Timeline - World History Documentaries,0.003169572107765452
-40,Educational News,Hillsdale College,0.001584786053882726
-41,Educational News,WELT Documentary,0.003169572107765452
-42,Educational News,North One,0.001584786053882726
-43,Educational News,FRANCE 24 English,0.001584786053882726
-44,Educational News,BBC Newsnight,0.004754358161648178
-45,Educational News,VisualPolitik EN,0.001584786053882726
-46,Educational News,Mark Bowden,0.001584786053882726
-47,Educational News,HooverInstitution,0.004754358161648178
-48,Educational News,Megyn Kelly,0.001584786053882726
-49,Educational News,Democracy Now!,0.003169572107765452
-50,Educational News,Eric Garcetti,0.017432646592709985
-51,Educational News,Derek Van Schaik,0.001584786053882726
-52,Educational News,vpro documentary,0.001584786053882726
-53,Educational News,Get Real with Ralph Nudi,0.001584786053882726
-54,Educational News,9 News Australia,0.022187004754358162
-55,Educational News,Associated Press,0.001584786053882726
-56,Educational News,The Telegraph,0.006339144215530904
-57,Educational News,Knoxville News Sentinel,0.001584786053882726
-58,Educational News,The Agenda with Steve Paikin,0.08716323296354993
-59,Educational News,senatormikelee,0.001584786053882726
-60,Educational News,Sunrise Movement,0.001584786053882726
-61,Educational News,Vox,0.006339144215530904
-62,Educational News,NBC News,0.01901743264659271
-63,Educational News,Nick Johnson,0.001584786053882726
-64,Educational News,The YEARS Project,0.001584786053882726
-65,Educational News,VICE News,0.003169572107765452
-66,Educational News,CNBC,0.001584786053882726
-67,Educational News,WLWT,0.003169572107765452
-68,Educational News,NowThis News,0.00792393026941363
-69,Educational News,RT,0.02377179080824089
-70,Educational News,USA TODAY,0.009508716323296355
-71,Educational News,11Alive,0.00792393026941363
-72,Educational News,Jimmy Kimmel Live,0.006339144215530904
-73,Educational News,Late Night with Seth Meyers,0.004754358161648178
-74,Educational News,CNN,0.009508716323296355
-75,Educational News,The Zero Hour with RJ Eskow,0.01584786053882726
-76,Educational News,Fox News,0.012678288431061807
-77,Educational News,Tallahassee Democrat,0.001584786053882726
-78,Educational News,TODAY,0.001584786053882726
-79,Educational News,ABC7 News Bay Area,0.01584786053882726
-80,Educational News,The New York Times,0.001584786053882726
-81,Educational News,Karl Kroll,0.001584786053882726
-82,Educational News,CGTN,0.001584786053882726
-83,Educational News,The Oregonian,0.001584786053882726
-84,Educational News,Eyewitness News ABC7NY,0.009508716323296355
-85,Educational News,MetalReece,0.001584786053882726
-86,Educational News,Fresno Bee,0.001584786053882726
-87,Educational News,Micah Muzio,0.001584786053882726
-88,Educational News,Sky News Australia,0.004754358161648178
-89,Educational News,Novara Media,0.001584786053882726
-90,Educational News,Sky News,0.004754358161648178
-91,Educational News,The Sun,0.003169572107765452
-92,Educational News,7NEWS Australia,0.006339144215530904
-93,Educational News,KTVB,0.001584786053882726
-94,Educational News,ABC News (Australia),0.012678288431061807
-95,Educational News,NJ.com,0.001584786053882726
-96,Educational News,Guardian News,0.001584786053882726
-97,Educational News,John Kirkwood,0.001584786053882726
-98,Educational News,"WKBW TV | Buffalo, NY",0.001584786053882726
-99,Educational News,Jenny Can Cook,0.001584786053882726
-100,Educational News,MOSHPXT,0.001584786053882726
-101,Educational News,BBC News,0.003169572107765452
-102,Educational News,The Independent,0.003169572107765452
-103,Educational News,Audit the Audit,0.001584786053882726
-104,Educational News,CBC News: The National,0.022187004754358162
-105,Educational News,The Guardian,0.001584786053882726
-106,Educational News,Danny Maude,0.001584786053882726
-107,Educational News,Biochemistry Channel,0.004754358161648178
-108,Educational News,MedCram - Medical Lectures Explained CLEARLY,0.011093502377179081
-109,Educational News,TLDR News,0.001584786053882726
-110,Educational News,Lewis Howes,0.006339144215530904
-111,Educational News,djvlad,0.001584786053882726
-112,Educational News,SciShow,0.001584786053882726
-113,Educational News,Drbeen Medical Lectures,0.001584786053882726
-114,Educational News,tompetty,0.001584786053882726
-115,Educational News,BiggerPockets,0.001584786053882726
-116,Educational News,Jamie Oliver,0.004754358161648178
-117,Educational News,Richmond Media,0.003169572107765452
-118,Educational News,AFL,0.009508716323296355
-119,Educational News,AFLNTv,0.001584786053882726
-120,Educational News,Nine News Perth,0.001584786053882726
-121,Educational News,truTV,0.003169572107765452
-122,Educational News,Melbourne Football Club,0.001584786053882726
-123,Educational News,Adelaide Football Club,0.001584786053882726
-124,Educational News,I Will Always Travel for Food,0.001584786053882726
-125,Educational News,Team Coco,0.001584786053882726
-126,Educational News,Nick Gordon,0.001584786053882726
-127,Educational News,Intermountain Healthcare,0.001584786053882726
-128,Educational News,Redeemer City to City,0.001584786053882726
-129,Educational News,J.J. McCullough,0.001584786053882726
-130,Educational News,Digiday,0.001584786053882726
-131,Educational News,Ronnie and Mel,0.001584786053882726
-132,Educational News,Sentara Healthcare,0.001584786053882726
-133,Educational News,The New School,0.003169572107765452
-134,Educational News,TEDx Talks,0.003169572107765452
-135,Educational News,Observe,0.001584786053882726
-136,Educational News,Washington Post,0.003169572107765452
-137,Educational News,Sacramento Bee,0.001584786053882726
-138,Educational News,Voicetv Nigeria,0.001584786053882726
-139,Educational News,Teejayx6 - Music,0.001584786053882726
-140,Educational News,DW News,0.001584786053882726
-141,Educational News,ABC7,0.001584786053882726
-142,Educational News,KOMO News,0.001584786053882726
-143,Educational News,Jimmy Carr,0.004754358161648178
-144,Educational News,Encore +,0.004754358161648178
-145,Educational News,CNBC Television,0.003169572107765452
-146,Educational News,Christo Aivalis,0.004754358161648178
-147,Educational News,America From Scratch,0.017432646592709985
-148,Educational News,Maryland Carey Law,0.001584786053882726
-149,Educational News,CBC News,0.003169572107765452
-150,Educational News,The Rest Of Us,0.001584786053882726
-151,Educational News,Live Streaming Pros,0.001584786053882726
-152,Educational News,BEME News,0.001584786053882726
-153,Educational News,PBS Eons,0.001584786053882726
-154,Educational News,Your Morning,0.001584786053882726
-155,Educational News,VOA News,0.001584786053882726
-156,Educational News,NOLA.com,0.001584786053882726
-157,Educational News,Business Insider,0.003169572107765452
-158,Educational News,KOAT,0.001584786053882726
-159,Educational News,Tom Scott,0.001584786053882726
-160,Educational News,AFP News Agency,0.001584786053882726
-161,Educational News,CGP Grey,0.001584786053882726
-162,Educational News,Wall Street Journal,0.001584786053882726
-163,Educational News,Kate Swaffer,0.003169572107765452
-164,Educational News,Dementia Careblazers,0.001584786053882726
-165,Educational News,Real Families,0.001584786053882726
-166,Educational News,UCLA Health,0.001584786053882726
-167,Educational News,Australian Human Rights Commission,0.001584786053882726
-168,Educational News,David Hoffman,0.001584786053882726
-169,Educational News,Real Royalty,0.001584786053882726
-170,Educational News,Pop Culture Detective,0.001584786053882726
-171,Educational News,CBC Docs,0.001584786053882726
-172,Educational News,TED,0.001584786053882726
-173,Educational News,Brandon Prescott Sullivan,0.001584786053882726
-174,Educational News,A Current Affair,0.001584786053882726
-175,Educational News,Jabez,0.001584786053882726
-176,Educational News,ITV News,0.003169572107765452
-177,Educational News,PowerfulJRE,0.001584786053882726
-178,Educational News,CBS Los Angeles,0.001584786053882726
-179,Educational News,12 News,0.001584786053882726
-180,Educational News,PIX11 News,0.001584786053882726
-181,Educational News,RT en Español,0.001584786053882726
-182,Educational News,The Young Turks,0.001584786053882726
-183,Educational News,Ultimate Random Videos,0.001584786053882726
-184,Educational News,LegalEagle,0.001584786053882726
-185,Educational News,YouTube Movies,0.014263074484944533
-186,Educational News,True Stories,0.003169572107765452
-187,Educational News,Bloomberg QuickTake Originals,0.001584786053882726
-188,Educational News,BBC Earth,0.001584786053882726
-189,Educational News,FSchleyhahn,0.001584786053882726
-190,Educational News,elephantnews,0.001584786053882726
-191,Educational News,Science Insider,0.001584786053882726
-192,Educational News,Best Ever Food Review Show,0.004754358161648178
-193,Educational News,elephantsanctuarytn,0.001584786053882726
-194,Educational News,truly,0.001584786053882726
-195,Educational News,Kruger Sightings,0.001584786053882726
-196,Educational News,Javi & Jo: On the Go,0.001584786053882726
-197,Educational News,Rumble Viral,0.001584786053882726
-198,Educational News,agadmator's Chess Channel,0.003169572107765452
-199,Educational News,OFF GRID with DOUG & STACY,0.001584786053882726
-200,Educational News,Discovery UK,0.001584786053882726
-201,Educational News,The Other Side,0.001584786053882726
-202,Educational News,CNA Insider,0.001584786053882726
-203,Educational News,The Royal Institution,0.003169572107765452
-204,Educational News,NTD,0.001584786053882726
-205,Educational News,cpac,0.001584786053882726
-206,Educational News,ABC10,0.001584786053882726
-207,Educational News,Davidsbeenhere,0.001584786053882726
-208,Educational News,Kara and Nate,0.001584786053882726
-209,Educational News,Mark Wiens,0.001584786053882726
-210,Educational News,Craig Dave,0.001584786053882726
-211,Educational News,CNA,0.001584786053882726
-212,Educational News,Renata Pereira,0.001584786053882726
-213,Educational News,Langfocus,0.001584786053882726
-214,Educational News,lordravenhill,0.001584786053882726
-215,Educational News,Invicta,0.001584786053882726
-216,Educational News,EN London,0.001584786053882726
-217,Educational News,iangillan,0.001584786053882726
-218,Educational News,Mississippi Public Broadcasting,0.001584786053882726
-219,Educational News,Elbert Lee Guillory,0.001584786053882726
-220,Educational News,World of Warships Official Channel,0.001584786053882726
-221,Educational News,American Museum of Natural History,0.001584786053882726
-222,Educational News,Josh Gad,0.004754358161648178
-223,Educational News,Crypto Tips,0.001584786053882726
-224,Educational News,Rolling Stone,0.003169572107765452
-225,Educational News,UnHerd,0.001584786053882726
-226,Educational News,BBC Ideas,0.001584786053882726
-227,Educational News,Skavlan,0.001584786053882726
-228,Educational News,UFC - Ultimate Fighting Championship,0.003169572107765452
-229,Educational News,CTV News,0.001584786053882726
-230,Educational News,HuffPost,0.001584786053882726
-231,Educational News,Pawn Stars,0.003169572107765452
-232,Educational News,geaibai,0.003169572107765452
-233,Educational News,The Late Show with Stephen Colbert,0.001584786053882726
-234,Educational News,Bloomberg QuickTake News,0.001584786053882726
-235,Educational News,Folk & Country on MV,0.001584786053882726
-236,Educational News,Take That,0.001584786053882726
-237,Educational News,WILTY? Nope!,0.001584786053882726
-238,Educational News,Robbie Williams,0.001584786053882726
-239,Educational News,Real Wild,0.001584786053882726
-240,Educational News,randOmZ TV,0.001584786053882726
-241,Educational News,Cambridge Union,0.001584786053882726
-242,Educational News,The FBI Files,0.001584786053882726
-243,Educational News,Free Documentary,0.001584786053882726
-244,Educational News,Harvey B. Gantt Center Official,0.001584786053882726
+,Category,Next Channel,Count
+0,StateFunded,BBC Ideas,38
+1,StateFunded,Biographics,1
+2,StateFunded,The Incredible Journey,1
+3,StateFunded,YouTube,15
+4,StateFunded,Digiday,2
+5,StateFunded,HISTORY,1
+6,StateFunded,PierceCollegeDist11,2
+7,StateFunded,TVO Docs,26
+8,StateFunded,Jewish Federations of North America,1
+9,StateFunded,Understood,4
+10,StateFunded,California Garden TV,1
+11,StateFunded,socratesinthecity,2
+12,StateFunded,Ahava Jerusalem,1
+13,StateFunded,University of California Television (UCTV),5
+14,StateFunded,YouTube Movies,41
+15,StateFunded,UnHerd,3
+16,StateFunded,Fox News,89
+17,StateFunded,RT Documentary,22
+18,StateFunded,VICE,1
+19,StateFunded,The People,5
+20,StateFunded,Rocky Mountain PBS,9
+21,StateFunded,DW Documentary,38
+22,StateFunded,CGTN America,1
+23,StateFunded,60 Minutes Australia,79
+24,StateFunded,Only Human,2
+25,StateFunded,CBC News,50
+26,StateFunded,Mississippi Public Broadcasting,2
+27,StateFunded,WELT Documentary,2
+28,StateFunded,wocomoHUMANITY,1
+29,StateFunded,National Geographic,4
+30,StateFunded,TRT World,13
+31,StateFunded,PBS NewsHour,13
+32,StateFunded,Redacted Tonight,6
+33,StateFunded,Levy Economics Institute,18
+34,StateFunded,Amanpour and Company,3
+35,StateFunded,HooverInstitution,37
+36,StateFunded,The Agenda with Steve Paikin,22
+37,StateFunded,George Carlin Official YouTube Channel,3
+38,StateFunded,FRANCE 24 English,8
+39,StateFunded,MSNBC,55
+40,StateFunded,Pritish Sahoo,1
+41,StateFunded,Moyers & Company,7
+42,StateFunded,TEDx Talks,14
+43,StateFunded,Democracy Now!,2
+44,StateFunded,LastWeekTonight,2
+45,StateFunded,WIRED UK,23
+46,StateFunded,The Rubin Report,1
+47,StateFunded,Emory University,1
+48,StateFunded,"WKBW TV | Buffalo, NY",1
+49,StateFunded,minhealthnz,12
+50,StateFunded,The Sun,10
+51,StateFunded,Commonwealth Club,3
+52,StateFunded,Intelligence Squared,8
+53,StateFunded,Triggernometry,2
+54,StateFunded,The New School,77
+55,StateFunded,SOAS University of London,7
+56,StateFunded,Al Jazeera English,17
+57,StateFunded,CNBC,22
+58,StateFunded,The Economist,26
+59,StateFunded,Jack Chapple,1
+60,StateFunded,CBC News: The National,75
+61,StateFunded,BBC News,11
+62,StateFunded,CNN,31
+63,StateFunded,Council on Foreign Relations,24
+64,StateFunded,ITV News,15
+65,StateFunded,DW News,10
+66,StateFunded,RT America,6
+67,StateFunded,The Great Courses Plus,4
+68,StateFunded,NBC News,90
+69,StateFunded,The Late Show with Stephen Colbert,9
+70,StateFunded,Cambridge Union,4
+71,StateFunded,Project Syndicate,1
+72,StateFunded,The Hill,1
+73,StateFunded,Patriot Act,18
+74,StateFunded,The Laura Flanders Show,1
+75,StateFunded,The Dick Cavett Show,4
+76,StateFunded,Leadership Institute,1
+77,StateFunded,Rolling Stone,5
+78,StateFunded,Jocko Podcast,6
+79,StateFunded,NowThis News,16
+80,StateFunded,Epic History TV,2
+81,StateFunded,Searching for C-Shels,1
+82,StateFunded,Tripping The Rideau Canal,1
+83,StateFunded,Hillingdon London,1
+84,StateFunded,JL Tourist Places,1
+85,StateFunded,David Othen,1
+86,StateFunded,Maclean's,1
+87,StateFunded,Tokyo Explorer,1
+88,StateFunded,DIY Inspiration,1
+89,StateFunded,iRound the World,1
+90,StateFunded,WPBS-TV,1
+91,StateFunded,Ákos Maróy,1
+92,StateFunded,mykaskin,1
+93,StateFunded,Brandon Johnson,1
+94,StateFunded,Central Washington University,1
+95,StateFunded,NCASVideo,2
+96,StateFunded,Candid Clara,1
+97,StateFunded,CBC,4
+98,StateFunded,RussianPlus,2
+99,StateFunded,Emma & Ofer,1
+100,StateFunded,Curious Droid,1
+101,StateFunded,Rex Schaller,1
+102,StateFunded,GeekyAsianDad,1
+103,StateFunded,Matt and Jeff,2
+104,StateFunded,FS MaNiA,1
+105,StateFunded,KONUL,1
+106,StateFunded,sofcic,1
+107,StateFunded,Ralf Vlogs,1
+108,StateFunded,BBC Newsnight,17
+109,StateFunded,CBC Vancouver,51
+110,StateFunded,Good Morning Britain,45
+111,StateFunded,Journeyman Pictures,3
+112,StateFunded,Vox,5
+113,StateFunded,BBC Radio 4,12
+114,StateFunded,Artful Videos,1
+115,StateFunded,Smarthistory,2
+116,StateFunded,Kunsthistorisches Museum Wien,1
+117,StateFunded,Detroit Institute of Arts,1
+118,StateFunded,The Met,3
+119,StateFunded,Artstory28,1
+120,StateFunded,Amor Sciendi,1
+121,StateFunded,Tani Matveeva,1
+122,StateFunded,Canal Educatif à la Demande (CED),1
+123,StateFunded,Emile Warot,1
+124,StateFunded,USArmyWarCollege,1
+125,StateFunded,Royal Museums of Fine Arts of Belgium Brussels,1
+126,StateFunded,Jewish Journal,2
+127,StateFunded,Art Documentaries,1
+128,StateFunded,Mišo Ždinjak,1
+129,StateFunded,The Guardian,1
+130,StateFunded,Action for Happiness,1
+131,StateFunded,Juha UK,1
+132,StateFunded,VisitDenmark,1
+133,StateFunded,Oxfam GB,1
+134,StateFunded,BBC Studios,1
+135,StateFunded,The Pool,1
+136,StateFunded,Thomas Singletary,1
+137,StateFunded,Tate,1
+138,StateFunded,Anna Kendrick Vietnam,1
+139,StateFunded,Cizik School of Nursing,2
+140,StateFunded,Swhype,1
+141,StateFunded,BBC,6
+142,StateFunded,TheArchangel911,1
+143,StateFunded,BBC HARDtalk,10
+144,StateFunded,Nelson Mandela Foundation,1
+145,StateFunded,Evan Carmichael,1
+146,StateFunded,George Michael NL,1
+147,StateFunded,vpro documentary,8
+148,StateFunded,Stanford Graduate School of Business,1
+149,StateFunded,Mr. A,1
+150,StateFunded,Grow Successful,1
+151,StateFunded,Mongabay India,1
+152,StateFunded,The Secrets of Nature,1
+153,StateFunded,"People's Daily, China 人民日报",1
+154,StateFunded,Denver7 – The Denver Channel,1
+155,StateFunded,Free High-Quality Documentaries,2
+156,StateFunded,StarMediaEN,12
+157,StateFunded,BBC Earth,3
+158,StateFunded,New China TV,2
+159,StateFunded,Real Wild,1
+160,StateFunded,BBC News Africa,3
+161,StateFunded,Amazing Stock,1
+162,StateFunded,CGTN,3
+163,StateFunded,Battle Arenas,1
+164,StateFunded,The Big Picture RT,4
+165,StateFunded,The Obama White House,8
+166,StateFunded,Learn Liberty,6
+167,StateFunded,GreekReporter,1
+168,StateFunded,Encore +,10
+169,StateFunded,Drew Durnil,1
+170,StateFunded,Super Bunnyhop,1
+171,StateFunded,Chicago Humanities Festival,3
+172,StateFunded,Financial Times,4
+173,StateFunded,WYCC PBS Chicago,1
+174,StateFunded,Gapminder Foundation,14
+175,StateFunded,Town Hall Seattle,2
+176,StateFunded,Mount Sinai Health System,2
+177,StateFunded,CNA Insider,1
+178,StateFunded,CenturaHealth,1
+179,StateFunded,ReaganFoundation,1
+180,StateFunded,Dragons' Den,3
+181,StateFunded,CNBC Television,7
+182,StateFunded,Doctor Mike Hansen,4
+183,StateFunded,VOA News,3
+184,StateFunded,The Telegraph,6
+185,StateFunded,9 News Australia,15
+186,StateFunded,Quartz,1
+187,StateFunded,Eyewitness News ABC7NY,11
+188,StateFunded,ABC Action News,1
+189,StateFunded,Sputnik,5
+190,StateFunded,Top Viral Talent,1
+191,StateFunded,LCI,1
+192,StateFunded,Rick Steves' Europe,3
+193,StateFunded,Hazel Allen,1
+194,StateFunded,ARIRANG TV,1
+195,StateFunded,space and astronomy,1
+196,StateFunded,Thomas Groppi,1
+197,StateFunded,RealLifeLore,1
+198,StateFunded,Discovery Science,8
+199,StateFunded,Space & The Universe HD,1
+200,StateFunded,KVIEvideo,1
+201,StateFunded,Smithson277,1
+202,StateFunded,BBC Documentary,1
+203,StateFunded,Brown University,7
+204,StateFunded,Sky News,9
+205,StateFunded,David Schlotthauer,2
+206,StateFunded,FRONTLINE PBS | Official,3
+207,StateFunded,IRamzayI,1
+208,StateFunded,Mustard,3
+209,StateFunded,Eddie Bauer,2
+210,StateFunded,The News & Observer,1
+211,StateFunded,Cars Overview,1
+212,StateFunded,Carmelo Anthony,4
+213,StateFunded,LA-OC.tv,4
+214,StateFunded,Arcadia Boosted,6
+215,StateFunded,Johnny Bigger,2
+216,StateFunded,Sky News Australia,11
+217,StateFunded,The Royal Institution,4
+218,StateFunded,University of Kentucky College of Arts & Sciences,4
+219,StateFunded,92nd Street Y,17
+220,StateFunded,Channel 4 News,5
+221,StateFunded,CNBC Make It.,5
+222,StateFunded,NBCLA,3
+223,StateFunded,Brian Tyler Cohen,3
+224,StateFunded,TeleSUR English,11
+225,StateFunded,AltoqueTV4,1
+226,StateFunded,vitaloneorg,1
+227,StateFunded,VICE News,2
+228,StateFunded,AJ+,9
+229,StateFunded,Cheddar,1
+230,StateFunded,The Infographics Show,2
+231,StateFunded,Tulsa Public Schools,1
+232,StateFunded,Medlife Crisis,1
+233,StateFunded,Unreported World,1
+234,StateFunded,Kevin O'Leary,5
+235,StateFunded,Modern Aging - Holistic Health and Wealth After 50,1
+236,StateFunded,Second Thought,1
+237,StateFunded,ABC News In-depth,9
+238,StateFunded,PBS,3
+239,StateFunded,True Stories,3
+240,StateFunded,Good Morning America,4
+241,StateFunded,Evening Standard,1
+242,StateFunded,Entertainment Tonight,3
+243,StateFunded,The Independent,2
+244,StateFunded,BBC Trending,5
+245,StateFunded,Android games,1
+246,StateFunded,i24NEWS English,3
+247,StateFunded,Garth Collins - Voice Overs,1
+248,StateFunded,TED,4
+249,StateFunded,BBC Learning English,1
+250,StateFunded,Its Frozen - Fortnite,1
+251,StateFunded,RankingMan,1
+252,StateFunded,Studio 10,3
+253,StateFunded,inhighspeed,1
+254,StateFunded,University of Notre Dame,2
+255,StateFunded,THNKR,2
+256,StateFunded,News Be Funny,2
+257,StateFunded,RT,6
+258,StateFunded,ABC10,2
+259,StateFunded,NBC New York,3
+260,StateFunded,Inside Edition,2
+261,StateFunded,CTV News,1
+262,StateFunded,UPROXX,1
+263,StateFunded,ABC News,4
+264,StateFunded,A&E,3
+265,StateFunded,Watching the Hawks RT,1
+266,StateFunded,Saturday Night Live,1
+267,StateFunded,jimgaffigan,2
+268,StateFunded,LegalEagle,4
+269,StateFunded,The Fifth Estate,5
+270,StateFunded,America From Scratch,7
+271,StateFunded,CrashCourse,1
+272,StateFunded,Science ABC,1
+273,StateFunded,J.J. McCullough,1
+274,StateFunded,The Atlantic,1
+275,StateFunded,Illustrate to Educate,1
+276,StateFunded,Real Engineering,3
+277,StateFunded,KPBS,1
+278,StateFunded,South China Morning Post,1
+279,StateFunded,John Anderson,1
+280,StateFunded,Smithsonian Channel,1
+281,StateFunded,Discovery UK,1
+282,StateFunded,TED-Ed,5
+283,StateFunded,ONE ON ONE SERIES,1
+284,StateFunded,Ο Πρωθυπουργός,1
+285,StateFunded,ABC News (Australia),14
+286,StateFunded,Jomboy Media,1
+287,StateFunded,Jimmy Kimmel Live,3
+288,StateFunded,41 Action News,1
+289,StateFunded,Channel 4,1
+290,StateFunded,7NEWS Australia,2
+291,StateFunded,KMTV 3 News Now,1
+292,StateFunded,Matt Rittman,1
+293,StateFunded,KENS 5: Your San Antonio News Source,1
+294,StateFunded,Jabez,1
+295,StateFunded,Anadolu Agency,1
+296,StateFunded,TMJ4 News,1
+297,StateFunded,Ruptly,3
+298,StateFunded,Going Underground on RT,6
+299,StateFunded,American Museum of Natural History,3
+300,StateFunded,11Alive,4
+301,StateFunded,Bloomberg QuickTake Originals,2
+302,StateFunded,HuffPost,1
+303,StateFunded,itsJerian,1
+304,StateFunded,Ben G Thomas,1
+305,StateFunded,WonderWhy,1
+306,StateFunded,Hook,1
+307,StateFunded,alpha m.,1
+308,StateFunded,Washington Week,1
+309,StateFunded,Late Night with Seth Meyers,2
+310,StateFunded,Real Time with Bill Maher,1
+311,StateFunded,CBSDFW,2
+312,StateFunded,WWLP-22News,1
+313,StateFunded,Guardian News,1
+314,StateFunded,Associated Press,1
+315,StateFunded,Timeline - World History Documentaries,1
+316,StateFunded,BMOnus,2
+317,StateFunded,TUNE SUPPLY,1
+318,StateFunded,A Current Affair,3
+319,StateFunded,Birch Aquarium at Scripps,3
+320,StateFunded,Chris James,1
+321,StateFunded,CHED Regional Office 1,2
+322,StateFunded,Therealizedman,1
+323,StateFunded,Kurzgesagt – In a Nutshell,1
+324,StateFunded,WGBHForum,1
+325,StateFunded,YaleCourses,1
+326,StateFunded,United States Institute of Peace,1
+327,StateFunded,BRIGHT SIDE,1
+328,StateFunded,Closer To Truth,1
+329,StateFunded,TopThink,1
+330,StateFunded,Manu John,1
+331,StateFunded,Charisma on Command,1
+332,StateFunded,World of Warships Official Channel,1
+333,StateFunded,Wyoming PBS,1
+334,StateFunded,NASA,1
+335,StateFunded,Newshub,1
+336,StateFunded,KSPS Public TV,1
+337,StateFunded,Spark,1
+338,StateFunded,hazards and catastrophes,1
+339,StateFunded,VOA Learning English,1
+340,StateFunded,VOA 한국어,1
+341,StateFunded,Valuetainment,1
+342,StateFunded,HYPE MONEY,1
+343,StateFunded,Jimmy Carr,2
+344,StateFunded,WILTY? Nope!,1
+345,StateFunded,euronews (in English),1
+346,StateFunded,Free Documentary,1
+347,StateFunded,Jordan Osmond,1
+348,StateFunded,Brave New Films,2
+349,StateFunded,Reagan Library,1
+350,StateFunded,Oscar Boyson,1
+351,StateFunded,World Knowledge Forum,1
+352,StateFunded,BBC Stories,5
+353,StateFunded,Redfern Natural History Productions,1
+354,StateFunded,"Museum of Fine Arts, Boston",1
+355,StateFunded,Mark Felton Productions,1
+356,StateFunded,Eric Thigpen,1
+357,StateFunded,Fresh Lifestyle,3
+358,StateFunded,Real Families,1
+359,StateFunded,anarchi.st,1
+360,StateFunded,The Aspen Institute,6
+361,StateFunded,TV7 Israel News,1
+362,StateFunded,Reuters,1
+363,StateFunded,New York Post,1
+364,StateFunded,The Institute of Art and Ideas,2
+365,StateFunded,M K,1
+366,StateFunded,Google for Education,1
+367,StateFunded,Tiktok Maniac,1
+368,StateFunded,Washington Post,1
+369,StateFunded,SPILL THE TEA,1
+370,StateFunded,Funny Local News,1
+371,StateFunded,Shayloh High,2
+372,StateFunded,Meme Royale,1
+373,StateFunded,Em and Loz,1
+374,StateFunded,Monstro,1
+375,StateFunded,lozandal,1
+376,StateFunded,Everything Bhaddieex,1
+377,StateFunded,SOAPBOX,1
+378,StateFunded,OWN,3
+379,StateFunded,What Would You Do?,1
+380,StateFunded,WCCO - CBS Minnesota,2
+381,StateFunded,Isha USA,2
+382,StateFunded,NewYork-Presbyterian Hospital,1
+383,StateFunded,VICE Asia,1
+384,StateFunded,UCLA Health,1
+385,StateFunded,TODAY,1
+386,StateFunded,True Crime Daily,1
+387,StateFunded,CBC Docs,1
+388,StateFunded,Real Stories,2
+389,StateFunded,The New York Times,1
+390,StateFunded,Tommy Chaos,1
+391,StateFunded,marshallcurry,2
+392,StateFunded,Crossroads Community Church - Winchester VA,1
+393,StateFunded,The Daily Show with Trevor Noah,1
+394,StateFunded,BakerInstitute,1
+395,StateFunded,OxfordUnion,2
+396,StateFunded,Netflix,1
+397,StateFunded,The University of Sydney,3
+398,StateFunded,BBC Travel Show,1
+399,StateFunded,Off The Ball,1
+400,StateFunded,It's Okay To Be Smart,1
+401,StateFunded,Russell Howard,1
+402,StateFunded,This Morning,2
+403,StateFunded,1 NEWS,1
+404,StateFunded,DESU-TV,1
+405,StateFunded,Sam Chui,1
+406,StateFunded,sabc3topbilling,1
+407,StateFunded,Stansberry Research,1
+408,StateFunded,Wendover Productions,1
+409,StateFunded,Marginal Revolution University,1
+410,StateFunded,Tennis Channel,2
+411,StateFunded,syracuse.com,1
+412,StateFunded,WorldsApaRT,2
+413,StateFunded,Stanford Health Care,2
+414,StateFunded,Global News,3
+415,StateFunded,ABC Science,1
+416,StateFunded,SMAADallas,1
+417,StateFunded,The University of Arizona,1
+418,StateFunded,WLKY News Louisville,1
+419,StateFunded,UFC - Ultimate Fighting Championship,1
+420,StateFunded,Cornell Lab of Ornithology,1
+421,StateFunded,Evan Thomas,2
+422,StateFunded,the Jane Goodall Institute,1
+423,StateFunded,Novara Media,1
+424,StateFunded,The University of Manchester,1
+425,StateFunded,To Scale:,1
+426,StateFunded,Astrum,1
+427,StateFunded,FaradayInstitute,1
+428,StateFunded,WIRED,2
+429,StateFunded,Stanford Institute for Economic Policy Research (SIEPR),1
+430,StateFunded,Soil Health Institute,1
+431,StateFunded,How To Academy,1
+432,StateFunded,Boom Bust,1
+433,StateFunded,Hamza Yusuf,1
+434,StateFunded,Anthony Pompliano,1
+435,StateFunded,SXSW EDU,1
+436,StateFunded,Science Museum,1
+437,StateFunded,PowerfulJRE,1
+438,StateFunded,I Am Incorrigible,1
+439,StateFunded,NYU Langone Health,1
+440,StateFunded,Les Choeurs de l'Armée Rouge Alexandrov - Officiel,1
+441,StateFunded,Talks at Google,1
+442,StateFunded,JacobSnakeUp,1
+443,StateFunded,Business Insider,1
+444,StateFunded,United Nations,1
+445,StateFunded,Foundation for Economic Education,1
+446,StateFunded,WatchMojo.com,1
+447,StateFunded,The Kino Corner,1
+448,StateFunded,Brian Boxer Wachler,1
+449,StateFunded,American Express,1
+450,StateFunded,Front Row with Ed and Elizabeth,1
+451,StateFunded,Max Joseph,1
+452,StateFunded,Midpen Media Center,1
+453,StateFunded,Nourishable,1
+454,StateFunded,onemediamusic,1
+455,StateFunded,MotivationHub,1
+456,StateFunded,Rodel B. Saycon,1

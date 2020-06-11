@@ -1,177 +1,302 @@
-,Category,Next Channel,Probability
-0,Educational News,African Diaspora News Channel,0.06190476190476191
-1,Educational News,BBC News Africa,0.0015873015873015873
-2,Educational News,Drew Binsky,0.0015873015873015873
-3,Educational News,Best Ever Food Review Show,0.0031746031746031746
-4,Educational News,FOKTV,0.0015873015873015873
-5,Educational News,CNBCAfrica,0.0015873015873015873
-6,Educational News,Roland S. Martin,0.03015873015873016
-7,Educational News,TayoAinaFilms,0.0015873015873015873
-8,Educational News,Plus TV Africa,0.0031746031746031746
-9,Educational News,Sunny S,0.0015873015873015873
-10,Educational News,WLWT,0.006349206349206349
-11,Educational News,WIRED UK,0.006349206349206349
-12,Educational News,11Alive,0.01904761904761905
-13,Educational News,NowThis News,0.01746031746031746
-14,Educational News,Columbia University,0.004761904761904762
-15,Educational News,Al Jazeera English,0.004761904761904762
-16,Educational News,Mark Rober,0.0031746031746031746
-17,Educational News,Golden State Warriors,0.0015873015873015873
-18,Educational News,CNN,0.031746031746031744
-19,Educational News,NBC News,0.007936507936507936
-20,Educational News,ReyRoSho,0.19365079365079366
-21,Educational News,All Def,0.0015873015873015873
-22,Educational News,TheAlmonteFilms,0.06031746031746032
-23,Educational News,GQ,0.007936507936507936
-24,Educational News,MTV News,0.0015873015873015873
-25,Educational News,theGrio,0.0015873015873015873
-26,Educational News,Patriot Act,0.006349206349206349
-27,Educational News,Emory University,0.023809523809523808
-28,Educational News,Voicetv Nigeria,0.020634920634920634
-29,Educational News,HipHollywood,0.0015873015873015873
-30,Educational News,reelblack,0.004761904761904762
-31,Educational News,Big Think,0.0015873015873015873
-32,Educational News,Eyewitness News ABC7NY,0.0031746031746031746
-33,Educational News,africanews,0.0015873015873015873
-34,Educational News,ESPN,0.014285714285714285
-35,Educational News,STAR21 TV,0.0015873015873015873
-36,Educational News,GLOBAL AFRICAN INVESTORS ALLIANCE,0.0015873015873015873
-37,Educational News,ABC News,0.007936507936507936
-38,Educational News,YouTube,0.011111111111111112
-39,Educational News,the Vegan mechanic,0.0015873015873015873
-40,Educational News,aka Prin,0.0015873015873015873
-41,Educational News,BuzzFeedVideo,0.0031746031746031746
-42,Educational News,Double Toasted,0.0031746031746031746
-43,Educational News,Chicago Humanities Festival,0.025396825396825397
-44,Educational News,TODAY,0.011111111111111112
-45,Educational News,Breakfast Club Power 105.1 FM,0.022222222222222223
-46,Educational News,Destiny Godley,0.0015873015873015873
-47,Educational News,CBC News,0.011111111111111112
-48,Educational News,Wild 'N Out,0.03333333333333333
-49,Educational News,OWN,0.0015873015873015873
-50,Educational News,What Would You Do?,0.0015873015873015873
-51,Educational News,NBCLA,0.0015873015873015873
-52,Educational News,The DUI Guy,0.0031746031746031746
-53,Educational News,Africa Web TV,0.0015873015873015873
-54,Educational News,TEDx Talks,0.0031746031746031746
-55,Educational News,Brown University,0.0031746031746031746
-56,Educational News,Jimmy Kimmel Live,0.007936507936507936
-57,Educational News,SyqeMike,0.006349206349206349
-58,Educational News,SABC News,0.0015873015873015873
-59,Educational News,VOA Africa,0.0015873015873015873
-60,Educational News,Traveling Sista,0.0015873015873015873
-61,Educational News,Harvard Business School,0.0015873015873015873
-62,Educational News,AllHipHopTV,0.0015873015873015873
-63,Educational News,Viable Tv,0.015873015873015872
-64,Educational News,TED-Ed,0.0015873015873015873
-65,Educational News,Corey Holcomb,0.0015873015873015873
-66,Educational News,GameSpot Universe,0.0031746031746031746
-67,Educational News,BuzzFeed Multiplayer,0.0015873015873015873
-68,Educational News,9NEWS,0.007936507936507936
-69,Educational News,KMTV 3 News Now,0.0031746031746031746
-70,Educational News,Vox,0.0015873015873015873
-71,Educational News,KTLA 5,0.0015873015873015873
-72,Educational News,MSNBC,0.0015873015873015873
-73,Educational News,Mississippi Public Broadcasting,0.006349206349206349
-74,Educational News,WXYZ-TV Detroit | Channel 7,0.004761904761904762
-75,Educational News,Fox News,0.004761904761904762
-76,Educational News,Loving Life 2020,0.0015873015873015873
-77,Educational News,WCCO - CBS Minnesota,0.006349206349206349
-78,Educational News,ABC7 News Bay Area,0.0031746031746031746
-79,Educational News,Noisey,0.004761904761904762
-80,Educational News,djvlad,0.0031746031746031746
-81,Educational News,Official Jim Cornette,0.0015873015873015873
-82,Educational News,Good Morning Britain,0.0015873015873015873
-83,Educational News,DoctorOz,0.0015873015873015873
-84,Educational News,Jubilee,0.0031746031746031746
-85,Educational News,Democracy Now!,0.0015873015873015873
-86,Educational News,YouTube Movies,0.0015873015873015873
-87,Educational News,VIBE Magazine,0.0015873015873015873
-88,Educational News,No Jumper,0.0015873015873015873
-89,Educational News,EssenticNYC,0.0015873015873015873
-90,Educational News,Polo G,0.0031746031746031746
-91,Educational News,Donald Glover,0.006349206349206349
-92,Educational News,WHAS11,0.0015873015873015873
-93,Educational News,tlc uk,0.0015873015873015873
-94,Educational News,La'Ron Readus,0.0015873015873015873
-95,Educational News,FOX 17 WXMI,0.0031746031746031746
-96,Educational News,Click On Detroit | Local 4 | WDIV,0.004761904761904762
-97,Educational News,60 Minutes Australia,0.006349206349206349
-98,Educational News,The Late Show with Stephen Colbert,0.0031746031746031746
-99,Educational News,Skip and Shannon: UNDISPUTED,0.0031746031746031746
-100,Educational News,The People,0.0015873015873015873
-101,Educational News,PBS NewsHour,0.004761904761904762
-102,Educational News,7NEWS Australia,0.0015873015873015873
-103,Educational News,VH1 Love & Hip Hop,0.004761904761904762
-104,Educational News,INYANJA TWOGAMO,0.0015873015873015873
-105,Educational News,Late Night with Seth Meyers,0.0031746031746031746
-106,Educational News,KTN News Kenya,0.0015873015873015873
-107,Educational News,Karen Hunter Show,0.0015873015873015873
-108,Educational News,CGTN Africa,0.0015873015873015873
-109,Educational News,The Narrow Gate,0.0015873015873015873
-110,Educational News,9 News Australia,0.006349206349206349
-111,Educational News,MTV Decoded,0.0015873015873015873
-112,Educational News,Tiffany D. Brown,0.0031746031746031746
-113,Educational News,JeanetteJBeauty,0.0015873015873015873
-114,Educational News,Daeshon Criddle,0.0015873015873015873
-115,Educational News,Mari Afia,0.0015873015873015873
-116,Educational News,Teachingmensfashion,0.0015873015873015873
-117,Educational News,Brett Maverick,0.0015873015873015873
-118,Educational News,Brad Mondo,0.0015873015873015873
-119,Educational News,Loveglam,0.0015873015873015873
-120,Educational News,Sergio Alvarez,0.0015873015873015873
-121,Educational News,Washington Post,0.0015873015873015873
-122,Educational News,True Geordie,0.0015873015873015873
-123,Educational News,The New York Times,0.0015873015873015873
-124,Educational News,SNEAKO,0.0015873015873015873
-125,Educational News,Trap Geek,0.0015873015873015873
-126,Educational News,A W,0.0015873015873015873
-127,Educational News,Rap Critic,0.0015873015873015873
-128,Educational News,Mechee X,0.0015873015873015873
-129,Educational News,Spill Sesh,0.0015873015873015873
-130,Educational News,Dinojay10,0.0015873015873015873
-131,Educational News,Jacob,0.0015873015873015873
-132,Educational News,Hip Hop Content,0.0015873015873015873
-133,Educational News,Danny Gonzalez,0.0015873015873015873
-134,Educational News,MSG Networks,0.0015873015873015873
-135,Educational News,CinemaSins,0.0015873015873015873
-136,Educational News,Christensen Media,0.0015873015873015873
-137,Educational News,ROSALÍA,0.0031746031746031746
-138,Educational News,Free to Cook,0.0015873015873015873
-139,Educational News,Raw & Uncut W/Hassan,0.0015873015873015873
-140,Educational News,Andrew Padilla,0.0015873015873015873
-141,Educational News,NuBreed Till The World Over,0.0015873015873015873
-142,Educational News,Chasing News,0.0015873015873015873
-143,Educational News,Polyphonic,0.0015873015873015873
-144,Educational News,Dead Meat,0.0031746031746031746
-145,Educational News,PewDiePie,0.0015873015873015873
-146,Educational News,mysonnenygeneral,0.0015873015873015873
-147,Educational News,DRJ Records Specials,0.0015873015873015873
-148,Educational News,Eric Rosen,0.0015873015873015873
-149,Educational News,Goalcast,0.0015873015873015873
-150,Educational News,agadmator's Chess Channel,0.0015873015873015873
-151,Educational News,James Jani,0.0015873015873015873
-152,Educational News,MedCram - Medical Lectures Explained CLEARLY,0.0015873015873015873
-153,Educational News,Josh Gad,0.0031746031746031746
-154,Educational News,The Guardian,0.0015873015873015873
-155,Educational News,The Andrew Schulz,0.0015873015873015873
-156,Educational News,The Pat McAfee Show,0.004761904761904762
-157,Educational News,HuffPost,0.0015873015873015873
-158,Educational News,Jimmy Carr,0.0015873015873015873
-159,Educational News,etthehiphoppreacher,0.0015873015873015873
-160,Educational News,"WKBW TV | Buffalo, NY",0.0015873015873015873
-161,Educational News,truTV,0.0031746031746031746
-162,Educational News,Trevor Noah,0.0015873015873015873
-163,Educational News,before potato,0.0015873015873015873
-164,Educational News,ABC 10 News,0.0015873015873015873
-165,Educational News,LuiSpot,0.0015873015873015873
-166,Educational News,Principles by Ray Dalio,0.0015873015873015873
-167,Educational News,Audit the Audit,0.0015873015873015873
-168,Educational News,VICE,0.0015873015873015873
-169,Educational News,Jon Solo,0.0015873015873015873
-170,Educational News,Ask A Mortician,0.0015873015873015873
-171,Educational News,NBC4 Columbus,0.0015873015873015873
-172,Educational News,Odd Salon,0.0015873015873015873
-173,Educational News,Sefa Keskin,0.0015873015873015873
-174,Educational News,MANTENHA SE LIGADO,0.0015873015873015873
-175,Educational News,New York Post,0.0015873015873015873
+,Category,Next Channel,Count
+0,AntiWhiteness,ReyRoSho,84
+1,AntiWhiteness,TheAlmonteFilms,35
+2,AntiWhiteness,HooverInstitution,1
+3,AntiWhiteness,The Rubin Report,2
+4,AntiWhiteness,The Feels,3
+5,AntiWhiteness,Comedy Hype,69
+6,AntiWhiteness,Daryl Talks Games,26
+7,AntiWhiteness,Cody Ko,34
+8,AntiWhiteness,CBC,69
+9,AntiWhiteness,Wild 'N Out,130
+10,AntiWhiteness,Tina Learns Spanish,1
+11,AntiWhiteness,Talks at Google,1
+12,AntiWhiteness,HipHopMadness,3
+13,AntiWhiteness,Empressive,2
+14,AntiWhiteness,Spill,1
+15,AntiWhiteness,Trap Lore Ross,34
+16,AntiWhiteness,GaryVee TV,1
+17,AntiWhiteness,African Diaspora News Channel,62
+18,AntiWhiteness,MSNBC,38
+19,AntiWhiteness,Jabez,14
+20,AntiWhiteness,Good Morning America,6
+21,AntiWhiteness,Vox,28
+22,AntiWhiteness,Patriot Act,41
+23,AntiWhiteness,WCCO - CBS Minnesota,1
+24,AntiWhiteness,CNN,17
+25,AntiWhiteness,Late Night with Seth Meyers,4
+26,AntiWhiteness,Doctor Mike Hansen,1
+27,AntiWhiteness,Inside Edition,1
+28,AntiWhiteness,theGrio,1
+29,AntiWhiteness,NBC News,22
+30,AntiWhiteness,YouTube Movies,72
+31,AntiWhiteness,The Telegraph,1
+32,AntiWhiteness,Skip and Shannon: UNDISPUTED,2
+33,AntiWhiteness,Aba & Preach,51
+34,AntiWhiteness,Noisey,38
+35,AntiWhiteness,TRT World,9
+36,AntiWhiteness,Odd Salon,6
+37,AntiWhiteness,Breakfast Club Power 105.1 FM,220
+38,AntiWhiteness,MTV News,39
+39,AntiWhiteness,GQ,8
+40,AntiWhiteness,VIBE Magazine,1
+41,AntiWhiteness,Chicago Humanities Festival,58
+42,AntiWhiteness,Emory University,20
+43,AntiWhiteness,OWN,6
+44,AntiWhiteness,REVOLT TV,20
+45,AntiWhiteness,eNCA,1
+46,AntiWhiteness,FOX 13 News - Tampa Bay,3
+47,AntiWhiteness,Discovery Science,4
+48,AntiWhiteness,Roland S. Martin,20
+49,AntiWhiteness,All Def,1
+50,AntiWhiteness,HOOD POLITICS,1
+51,AntiWhiteness,Dwayne N Jazz,3
+52,AntiWhiteness,John L. Brooks,2
+53,AntiWhiteness,ABC News,3
+54,AntiWhiteness,Voicetv Nigeria,3
+55,AntiWhiteness,ABC13 Houston,15
+56,AntiWhiteness,Democracy Now!,1
+57,AntiWhiteness,WLWT,3
+58,AntiWhiteness,Blakademik TV,1
+59,AntiWhiteness,Reveal,1
+60,AntiWhiteness,Desus & Mero,2
+61,AntiWhiteness,First We Feast,4
+62,AntiWhiteness,SM East Harbinger,8
+63,AntiWhiteness,BBC Three,3
+64,AntiWhiteness,1453malcolmx,1
+65,AntiWhiteness,HOT 97,2
+66,AntiWhiteness,Jubilee,3
+67,AntiWhiteness,BlackySpeakz,1
+68,AntiWhiteness,Strombo,3
+69,AntiWhiteness,MTV Vault,1
+70,AntiWhiteness,CashNastyPlays,1
+71,AntiWhiteness,TODAY,2
+72,AntiWhiteness,Rocky Mountain PBS,1
+73,AntiWhiteness,BuzzFeed UK,1
+74,AntiWhiteness,CGTN America,1
+75,AntiWhiteness,Starbucks Coffee,1
+76,AntiWhiteness,A&E,15
+77,AntiWhiteness,TYT's The Conversation,1
+78,AntiWhiteness,The Atlantic,7
+79,AntiWhiteness,WYCC PBS Chicago,9
+80,AntiWhiteness,Brown University,29
+81,AntiWhiteness,WIRED UK,1
+82,AntiWhiteness,The Dick Cavett Show,5
+83,AntiWhiteness,CBC News,29
+84,AntiWhiteness,Paternity Court,20
+85,AntiWhiteness,The Young Turks,5
+86,AntiWhiteness,Jeff Wittek,6
+87,AntiWhiteness,VICE,3
+88,AntiWhiteness,JJ Olatunji,32
+89,AntiWhiteness,Washington Post,4
+90,AntiWhiteness,Divorce Court,2
+91,AntiWhiteness,BlastphamousHD TV2,1
+92,AntiWhiteness,JoshDub,1
+93,AntiWhiteness,djvlad,5
+94,AntiWhiteness,WatchMojo.com,1
+95,AntiWhiteness,Joshy,1
+96,AntiWhiteness,NELK,10
+97,AntiWhiteness,Complex,1
+98,AntiWhiteness,Carmelo Anthony,2
+99,AntiWhiteness,Fox News,19
+100,AntiWhiteness,Reuters,5
+101,AntiWhiteness,CBC Sports,1
+102,AntiWhiteness,Tallahassee Democrat,1
+103,AntiWhiteness,News4JAX,4
+104,AntiWhiteness,VH1 Love & Hip Hop,9
+105,AntiWhiteness,Kenny Beats,1
+106,AntiWhiteness,Click On Detroit | Local 4 | WDIV,2
+107,AntiWhiteness,Just For Laughs,2
+108,AntiWhiteness,Scott Cramer,1
+109,AntiWhiteness,The Kino Corner,3
+110,AntiWhiteness,Polo G,3
+111,AntiWhiteness,What Would You Do?,22
+112,AntiWhiteness,LegalEagle,1
+113,AntiWhiteness,Gabriel Iglesias,1
+114,AntiWhiteness,Donald Glover,8
+115,AntiWhiteness,Tommy Craze,17
+116,AntiWhiteness,Lyrical Central,2
+117,AntiWhiteness,Movieclips,1
+118,AntiWhiteness,The Sun,5
+119,AntiWhiteness,cctvuser,6
+120,AntiWhiteness,"WKBW TV | Buffalo, NY",5
+121,AntiWhiteness,USA TODAY,7
+122,AntiWhiteness,NowThis News,28
+123,AntiWhiteness,ABC 7 Chicago,1
+124,AntiWhiteness,FOX 2 St. Louis,4
+125,AntiWhiteness,Beats 1,2
+126,AntiWhiteness,LOCAL 12,8
+127,AntiWhiteness,LackLuster,1
+128,AntiWhiteness,ABC 10 News,4
+129,AntiWhiteness,CBSDFW,2
+130,AntiWhiteness,True Crime Daily,1
+131,AntiWhiteness,inteNsifyCharts,17
+132,AntiWhiteness,"Tyler, The Creator",2
+133,AntiWhiteness,Eminem Central Music,1
+134,AntiWhiteness,Lil Dicky,1
+135,AntiWhiteness,Hip-Hop Universe,7
+136,AntiWhiteness,New York Post,1
+137,AntiWhiteness,Team Coco,1
+138,AntiWhiteness,The View,1
+139,AntiWhiteness,WPXI-TV News Pittsburgh,4
+140,AntiWhiteness,Lyrical Lemonade,5
+141,AntiWhiteness,Thomas Petrou,8
+142,AntiWhiteness,Abyss16,2
+143,AntiWhiteness,Daily Dose Of Internet,3
+144,AntiWhiteness,VH1,11
+145,AntiWhiteness,CBS News,1
+146,AntiWhiteness,Viable Tv,7
+147,AntiWhiteness,Rolling Stone,1
+148,AntiWhiteness,TV7 Live Zimbabwe Africa,1
+149,AntiWhiteness,YouTube,2
+150,AntiWhiteness,The Pascal Show,1
+151,AntiWhiteness,Chaennie Lisoo,1
+152,AntiWhiteness,Rock & Roll Hall of Fame,1
+153,AntiWhiteness,tparbs,2
+154,AntiWhiteness,AL.com,1
+155,AntiWhiteness,Dead Meat,1
+156,AntiWhiteness,Michael Dapaah,3
+157,AntiWhiteness,Brawlhalla,3
+158,AntiWhiteness,No Jumper,1
+159,AntiWhiteness,Peter Parkkerr,5
+160,AntiWhiteness,Stewe,1
+161,AntiWhiteness,Trap Geek,1
+162,AntiWhiteness,African Diaspora News Insider,1
+163,AntiWhiteness,My Story Animated,10
+164,AntiWhiteness,KMTV 3 News Now,3
+165,AntiWhiteness,The Phillip Scott Show,1
+166,AntiWhiteness,SiriusXM,1
+167,AntiWhiteness,lisuga,1
+168,AntiWhiteness,Drumset Artistry,1
+169,AntiWhiteness,Hopsintv,1
+170,AntiWhiteness,BuzzFeed Multiplayer,3
+171,AntiWhiteness,WLKY News Louisville,3
+172,AntiWhiteness,The Center for Investigative Reporting,3
+173,AntiWhiteness,NBC4 Columbus,5
+174,AntiWhiteness,WXYZ-TV Detroit | Channel 7,12
+175,AntiWhiteness,True Story !,4
+176,AntiWhiteness,penguinz0,1
+177,AntiWhiteness,Michelle Dione Snider,2
+178,AntiWhiteness,SpiderGaming,2
+179,AntiWhiteness,The New School,1
+180,AntiWhiteness,ABC Action News,1
+181,AntiWhiteness,LastWeekTonight,1
+182,AntiWhiteness,superbowserlogan,5
+183,AntiWhiteness,Xenoshot,1
+184,AntiWhiteness,BETNetworks,1
+185,AntiWhiteness,Unus Annus,1
+186,AntiWhiteness,MTV Decoded,1
+187,AntiWhiteness,Wisecrack,2
+188,AntiWhiteness,H3 Podcast Highlights,1
+189,AntiWhiteness,The Late Show with Stephen Colbert,2
+190,AntiWhiteness,KHOU 11,2
+191,AntiWhiteness,WCPO 9,3
+192,AntiWhiteness,VAULT,2
+193,AntiWhiteness,Philip DeFranco,2
+194,AntiWhiteness,92nd Street Y,2
+195,AntiWhiteness,CBS,4
+196,AntiWhiteness,StarMediaEN,5
+197,AntiWhiteness,Michael and Ellecia Hayes,2
+198,AntiWhiteness,Encore +,2
+199,AntiWhiteness,Global News,2
+200,AntiWhiteness,WSYX ABC 6,2
+201,AntiWhiteness,HuffPost,8
+202,AntiWhiteness,NBC New York,1
+203,AntiWhiteness,Izm Radio,1
+204,AntiWhiteness,RealRealityGossip,1
+205,AntiWhiteness,13 ON YOUR SIDE,1
+206,AntiWhiteness,Comedy Central,8
+207,AntiWhiteness,Nipsey Hussle,2
+208,AntiWhiteness,Netflix Is A Joke,5
+209,AntiWhiteness,Comedy Central Stand-Up,2
+210,AntiWhiteness,The Weeknd,2
+211,AntiWhiteness,Adeola Patronne,1
+212,AntiWhiteness,Genius,6
+213,AntiWhiteness,Fire Films,3
+214,AntiWhiteness,Minks,1
+215,AntiWhiteness,Dry Bar Comedy,1
+216,AntiWhiteness,Kodak Black,3
+217,AntiWhiteness,SceneScreen,1
+218,AntiWhiteness,Seven Hip-Hop,2
+219,AntiWhiteness,RDCworld1,1
+220,AntiWhiteness,TeamFourStar,2
+221,AntiWhiteness,Brian Tyler Cohen,4
+222,AntiWhiteness,11Alive,3
+223,AntiWhiteness,MTV Catfish,1
+224,AntiWhiteness,Audit the Audit,2
+225,AntiWhiteness,SpACeFrOoT ENTeRtAinMeNT,1
+226,AntiWhiteness,Trevor Noah,1
+227,AntiWhiteness,BuzzFeedVideo,1
+228,AntiWhiteness,mysonnenygeneral,1
+229,AntiWhiteness,mark normand,1
+230,AntiWhiteness,Croc Gang Ent,2
+231,AntiWhiteness,Xseed in Life,3
+232,AntiWhiteness,NDN Television Network,1
+233,AntiWhiteness,MATHHOFFATV,1
+234,AntiWhiteness,MTV's Ridiculousness,1
+235,AntiWhiteness,FoundFlix,1
+236,AntiWhiteness,HoodzoneProductions,1
+237,AntiWhiteness,LIL UZI VERT,2
+238,AntiWhiteness,Story Party Tour - True Dating Stories,1
+239,AntiWhiteness,PBS Idea Channel,1
+240,AntiWhiteness,City of Asheville,2
+241,AntiWhiteness,Doja Cat,1
+242,AntiWhiteness,CollegeHumor,1
+243,AntiWhiteness,Unghetto Mathieu,1
+244,AntiWhiteness,Tekashi 6ix9ine,3
+245,AntiWhiteness,Joyner Lucas,2
+246,AntiWhiteness,The Angie Martinez Show,1
+247,AntiWhiteness,The Schmuck Squad,1
+248,AntiWhiteness,The Real News Network,5
+249,AntiWhiteness,FOX 17 WXMI,1
+250,AntiWhiteness,Donutz321,1
+251,AntiWhiteness,Dax,1
+252,AntiWhiteness,King Von,1
+253,AntiWhiteness,Now You See It,2
+254,AntiWhiteness,123 GO Like!,1
+255,AntiWhiteness,Mark Zona,1
+256,AntiWhiteness,godfreychi,1
+257,AntiWhiteness,The Root,1
+258,AntiWhiteness,XXL,3
+259,AntiWhiteness,Stephen Tries,1
+260,AntiWhiteness,MoreSidemen,1
+261,AntiWhiteness,fantano,3
+262,AntiWhiteness,Wiz Khalifa,1
+263,AntiWhiteness,Anomaly,1
+264,AntiWhiteness,Turkey Tom,1
+265,AntiWhiteness,NakeyJakey,1
+266,AntiWhiteness,TEDx Talks,1
+267,AntiWhiteness,JAY-Z,1
+268,AntiWhiteness,EminemMusic,1
+269,AntiWhiteness,Unreported World,1
+270,AntiWhiteness,MrBeast,1
+271,AntiWhiteness,Vanity Fair,1
+272,AntiWhiteness,The Right Opinion,2
+273,AntiWhiteness,Best Ever Food Review Show,1
+274,AntiWhiteness,AMP,1
+275,AntiWhiteness,The Andrew Schulz,1
+276,AntiWhiteness,Annoying Orange,1
+277,AntiWhiteness,WHAS11,1
+278,AntiWhiteness,Goalcast,1
+279,AntiWhiteness,BRIC TV,1
+280,AntiWhiteness,Times Talks,1
+281,AntiWhiteness,NASA,1
+282,AntiWhiteness,Georgetown University,1
+283,AntiWhiteness,MicDrop,1
+284,AntiWhiteness,SWAY'S UNIVERSE,1
+285,AntiWhiteness,OxfordUnion,1
+286,AntiWhiteness,Steve TV Show,1
+287,AntiWhiteness,Thee Mademoiselle,1
+288,AntiWhiteness,FOX 5 DC,1
+289,AntiWhiteness,FOX Carolina News,1
+290,AntiWhiteness,CBS 8 San Diego,1
+291,AntiWhiteness,Dr. Todd Grande,1
+292,AntiWhiteness,Guava Juice,1
+293,AntiWhiteness,LOL Network Stand-Up!,1
+294,AntiWhiteness,Caught In Providence,1
+295,AntiWhiteness,WKMG News 6 ClickOrlando,1
+296,AntiWhiteness,SuperMarioLogan,1
+297,AntiWhiteness,LaughPlanet,1
+298,AntiWhiteness,Aleteia,1
+299,AntiWhiteness,Charisma on Command,2
+300,AntiWhiteness,PewDiePie,1

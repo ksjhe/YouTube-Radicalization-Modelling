@@ -1,250 +1,447 @@
-,Category,Next Channel,Probability
-0,Educational News,Red Pill Philosophy,0.001607717041800643
-1,Educational News,Eyewitness News ABC7NY,0.001607717041800643
-2,Educational News,LegalEagle,0.00482315112540193
-3,Educational News,Zoe Amira,0.01929260450160772
-4,Educational News,Josh Gad,0.008038585209003215
-5,Educational News,Mark Rober,0.012861736334405145
-6,Educational News,Life With Jaii,0.001607717041800643
-7,Educational News,Ask A Mortician,0.001607717041800643
-8,Educational News,CNBC Prime,0.00482315112540193
-9,Educational News,Fox News,0.17845659163987138
-10,Educational News,9-Hole Reviews,0.001607717041800643
-11,Educational News,Jimmy Carr,0.01607717041800643
-12,Educational News,The People,0.003215434083601286
-13,Educational News,MSNBC,0.014469453376205787
-14,Educational News,SyqeMike,0.003215434083601286
-15,Educational News,Evan Kay,0.001607717041800643
-16,Educational News,The Surfers View,0.001607717041800643
-17,Educational News,News4JAX,0.001607717041800643
-18,Educational News,OpenMind,0.001607717041800643
-19,Educational News,Liberty University,0.04662379421221865
-20,Educational News,First United Methodist Church of Eustis,0.001607717041800643
-21,Educational News,FOX 10 Phoenix,0.008038585209003215
-22,Educational News,NBC News,0.012861736334405145
-23,Educational News,West Virginia Public Broadcasting,0.001607717041800643
-24,Educational News,Global News,0.001607717041800643
-25,Educational News,FS MaNiA,0.001607717041800643
-26,Educational News,Mark Wiens,0.001607717041800643
-27,Educational News,Got Talent Global,0.00482315112540193
-28,Educational News,jimgaffigan,0.003215434083601286
-29,Educational News,MTV's Ridiculousness,0.003215434083601286
-30,Educational News,FOX 61,0.001607717041800643
-31,Educational News,Voxiversity,0.006430868167202572
-32,Educational News,Einzelgänger,0.001607717041800643
-33,Educational News,Vsauce,0.003215434083601286
-34,Educational News,Bulldog Mindset,0.001607717041800643
-35,Educational News,GQ,0.008038585209003215
-36,Educational News,CareyHolzman,0.001607717041800643
-37,Educational News,Encore +,0.003215434083601286
-38,Educational News,The Delve,0.001607717041800643
-39,Educational News,All Hands,0.001607717041800643
-40,Educational News,Jordan B Peterson Clips,0.001607717041800643
-41,Educational News,Valuetainment,0.001607717041800643
-42,Educational News,Brown University,0.001607717041800643
-43,Educational News,Mile Higher Podcast,0.001607717041800643
-44,Educational News,PragerU,0.022508038585209004
-45,Educational News,Tech Spurt,0.001607717041800643
-46,Educational News,CrashCourse,0.001607717041800643
-47,Educational News,University of Notre Dame,0.001607717041800643
-48,Educational News,あるミニマリストの物欲,0.001607717041800643
-49,Educational News,The Rubin Report,0.008038585209003215
-50,Educational News,Atomic Shrimp,0.001607717041800643
-51,Educational News,Triggered Newscast,0.001607717041800643
-52,Educational News,Cord Cutters News,0.001607717041800643
-53,Educational News,The Golden One,0.006430868167202572
-54,Educational News,ARMBETS TV,0.001607717041800643
-55,Educational News,BuzzFeedVideo,0.001607717041800643
-56,Educational News,Librairie Drawn & Quarterly,0.001607717041800643
-57,Educational News,Feli,0.001607717041800643
-58,Educational News,Gordon Ramsay,0.003215434083601286
-59,Educational News,Patriot Act,0.003215434083601286
-60,Educational News,StarMediaEN,0.001607717041800643
-61,Educational News,Vox,0.003215434083601286
-62,Educational News,Alex Plamadeala,0.001607717041800643
-63,Educational News,Charisma on Command,0.003215434083601286
-64,Educational News,Eddie 'The Beast' Hall,0.001607717041800643
-65,Educational News,British GQ,0.003215434083601286
-66,Educational News,PowerfulJRE,0.00964630225080386
-67,Educational News,Liberty Doll,0.001607717041800643
-68,Educational News,HooverInstitution,0.06270096463022508
-69,Educational News,Roland S. Martin,0.006430868167202572
-70,Educational News,MxR Plays,0.001607717041800643
-71,Educational News,The Zero Hour with RJ Eskow,0.00964630225080386
-72,Educational News,老高與小茉 Mr & Mrs Gao,0.001607717041800643
-73,Educational News,A&E,0.003215434083601286
-74,Educational News,I Am Second,0.001607717041800643
-75,Educational News,Commonwealth Club,0.003215434083601286
-76,Educational News,Turning Point USA,0.001607717041800643
-77,Educational News,民視英語新聞 Formosa TV English News,0.001607717041800643
-78,Educational News,Lou Dobbs Tonight,0.00482315112540193
-79,Educational News,Fox Business,0.001607717041800643
-80,Educational News,agadmator's Chess Channel,0.00482315112540193
-81,Educational News,Sky News Australia,0.008038585209003215
-82,Educational News,Gravitahn,0.006430868167202572
-83,Educational News,Laura Loomer,0.001607717041800643
-84,Educational News,BBC,0.001607717041800643
-85,Educational News,Cosgrove Prod.,0.001607717041800643
-86,Educational News,Mani's Magic,0.001607717041800643
-87,Educational News,Eddie Woo,0.001607717041800643
-88,Educational News,USA TODAY,0.001607717041800643
-89,Educational News,The World of Boxing!,0.001607717041800643
-90,Educational News,Jubilee,0.008038585209003215
-91,Educational News,Little Big Shots Aus,0.001607717041800643
-92,Educational News,11Alive,0.001607717041800643
-93,Educational News,Fire Films,0.00482315112540193
-94,Educational News,CNN,0.00482315112540193
-95,Educational News,SHUTTERSHOT45,0.001607717041800643
-96,Educational News,Jerry and Laura RE/MAX Estate Properties,0.001607717041800643
-97,Educational News,California Rich,0.001607717041800643
-98,Educational News,Chris Adlam Real Estate,0.001607717041800643
-99,Educational News,Revelation_Glory,0.001607717041800643
-100,Educational News,Listings,0.001607717041800643
-101,Educational News,Jimmy Kimmel Live,0.003215434083601286
-102,Educational News,Palos Verdes Homes,0.001607717041800643
-103,Educational News,Studio 10,0.008038585209003215
-104,Educational News,Talent Recap,0.001607717041800643
-105,Educational News,Patriots' Soapbox News Network LIVE,0.001607717041800643
-106,Educational News,Dude Perfect,0.001607717041800643
-107,Educational News,Bon Appétit,0.001607717041800643
-108,Educational News,JYP Entertainment,0.001607717041800643
-109,Educational News,Minecraft,0.001607717041800643
-110,Educational News,SMTOWN,0.001607717041800643
-111,Educational News,Oliver Tree,0.001607717041800643
-112,Educational News,Binging with Babish,0.001607717041800643
-113,Educational News,starshipTV,0.001607717041800643
-114,Educational News,Screen Junkies,0.001607717041800643
-115,Educational News,KARE 11,0.001607717041800643
-116,Educational News,lil Boat,0.001607717041800643
-117,Educational News,Allie Beth Stuckey,0.001607717041800643
-118,Educational News,MrBeast,0.00964630225080386
-119,Educational News,Adam Lee,0.001607717041800643
-120,Educational News,WatchMojo.com,0.003215434083601286
-121,Educational News,The Try Guys,0.001607717041800643
-122,Educational News,Room for Discussion,0.00964630225080386
-123,Educational News,TVO Docs,0.008038585209003215
-124,Educational News,Jordan B Peterson,0.008038585209003215
-125,Educational News,BraveTheWorld,0.012861736334405145
-126,Educational News,Transform Your Dog,0.001607717041800643
-127,Educational News,How To Academy,0.001607717041800643
-128,Educational News,TEDx Talks,0.003215434083601286
-129,Educational News,Jeremy Vine on 5 - Official Channel,0.001607717041800643
-130,Educational News,Rodney Dangerfield,0.003215434083601286
-131,Educational News,RedWheel,0.001607717041800643
-132,Educational News,tvdays,0.001607717041800643
-133,Educational News,Acnologia,0.001607717041800643
-134,Educational News,Digiday,0.001607717041800643
-135,Educational News,And We Know,0.001607717041800643
-136,Educational News,This Life in Tech,0.003215434083601286
-137,Educational News,CNBC Television,0.003215434083601286
-138,Educational News,FRONTLINE PBS | Official,0.003215434083601286
-139,Educational News,The New School,0.006430868167202572
-140,Educational News,prayingmedic,0.001607717041800643
-141,Educational News,Reagan Library,0.001607717041800643
-142,Educational News,The Carol Burnett Show Official,0.003215434083601286
-143,Educational News,Graham Allen,0.001607717041800643
-144,Educational News,The Fighter and The Kid,0.001607717041800643
-145,Educational News,VICE,0.006430868167202572
-146,Educational News,Wild 'N Out,0.001607717041800643
-147,Educational News,REVOLT TV,0.001607717041800643
-148,Educational News,Drinkin' Bros Podcast,0.001607717041800643
-149,Educational News,Free Range American Podcast,0.001607717041800643
-150,Educational News,True Geordie,0.001607717041800643
-151,Educational News,Rebel News,0.001607717041800643
-152,Educational News,NowThis News,0.001607717041800643
-153,Educational News,9 News Australia,0.003215434083601286
-154,Educational News,Fed Up Eagle,0.001607717041800643
-155,Educational News,Harvard Kennedy School's Institute of Politics,0.00482315112540193
-156,Educational News,ideacity,0.001607717041800643
-157,Educational News,DESU-TV,0.001607717041800643
-158,Educational News,Nucleus Wealth,0.001607717041800643
-159,Educational News,The Josh Bernstein Show,0.001607717041800643
-160,Educational News,Fireball Tool,0.001607717041800643
-161,Educational News,The Hill,0.003215434083601286
-162,Educational News,News Now,0.001607717041800643
-163,Educational News,MGM,0.001607717041800643
-164,Educational News,SkyWatch TV,0.001607717041800643
-165,Educational News,BiolaUniversity,0.001607717041800643
-166,Educational News,Faithlife,0.001607717041800643
-167,Educational News,The Salvation Army Kroc Center,0.001607717041800643
-168,Educational News,Trinity Nashua,0.001607717041800643
-169,Educational News,Victory Tulsa,0.001607717041800643
-170,Educational News,Professor Dave Explains,0.001607717041800643
-171,Educational News,In Touch Ministries,0.001607717041800643
-172,Educational News,The Oriental Institute,0.001607717041800643
-173,Educational News,Ravi Zacharias International Ministries,0.001607717041800643
-174,Educational News,SickBiker,0.001607717041800643
-175,Educational News,Saddleback Church,0.001607717041800643
-176,Educational News,Celebration Church,0.001607717041800643
-177,Educational News,Moyers & Company,0.00482315112540193
-178,Educational News,Domination Station,0.001607717041800643
-179,Educational News,truTV,0.00482315112540193
-180,Educational News,CNBC,0.001607717041800643
-181,Educational News,LaughPlanet,0.003215434083601286
-182,Educational News,Anders Jacobsson,0.001607717041800643
-183,Educational News,JOE,0.001607717041800643
-184,Educational News,C-SPAN,0.001607717041800643
-185,Educational News,Brittany Sellner,0.003215434083601286
-186,Educational News,Vanity Fair,0.001607717041800643
-187,Educational News,Skavlan,0.001607717041800643
-188,Educational News,The Aspen Institute,0.003215434083601286
-189,Educational News,Just for Laugh Gags Compilations,0.001607717041800643
-190,Educational News,abcqanda,0.003215434083601286
-191,Educational News,Larry Elder with Epoch Times,0.003215434083601286
-192,Educational News,Hillsdale College,0.001607717041800643
-193,Educational News,Huckabee,0.001607717041800643
-194,Educational News,Viva Frei,0.001607717041800643
-195,Educational News,Larry King,0.001607717041800643
-196,Educational News,A Dormant Dynasty,0.001607717041800643
-197,Educational News,PewDiePie,0.001607717041800643
-198,Educational News,Lil Dicky,0.001607717041800643
-199,Educational News,Channel 4 News,0.003215434083601286
-200,Educational News,jacksepticeye,0.001607717041800643
-201,Educational News,Elanip,0.001607717041800643
-202,Educational News,CBC,0.003215434083601286
-203,Educational News,Liberty Hangout,0.00482315112540193
-204,Educational News,Daily Dose Of Internet,0.001607717041800643
-205,Educational News,WKYC Channel 3,0.003215434083601286
-206,Educational News,Good Morning Britain,0.001607717041800643
-207,Educational News,Ami Horowitz,0.006430868167202572
-208,Educational News,The George Washington University,0.001607717041800643
-209,Educational News,F2F Podcast,0.001607717041800643
-210,Educational News,ReasonTV,0.001607717041800643
-211,Educational News,George Washington's Mount Vernon,0.001607717041800643
-212,Educational News,Gun Owners of America,0.001607717041800643
-213,Educational News,TED,0.003215434083601286
-214,Educational News,George Carlin Official YouTube Channel,0.00482315112540193
-215,Educational News,Jesus Washes Feet,0.001607717041800643
-216,Educational News,T.REX ARMS,0.001607717041800643
-217,Educational News,Steubenville Conferences,0.001607717041800643
-218,Educational News,Small Arms Supply Co.,0.001607717041800643
-219,Educational News,Legally Armed America,0.001607717041800643
-220,Educational News,PBS NewsHour,0.001607717041800643
-221,Educational News,We Run Guns,0.001607717041800643
-222,Educational News,Justice OIG,0.001607717041800643
-223,Educational News,Colion Noir,0.001607717041800643
-224,Educational News,SyrianGirlpartisan,0.001607717041800643
-225,Educational News,Learn Liberty,0.001607717041800643
-226,Educational News,Co Videos,0.001607717041800643
-227,Educational News,Emory University,0.001607717041800643
-228,Educational News,Matthew North,0.001607717041800643
-229,Educational News,Christ Community Chapel,0.001607717041800643
-230,Educational News,God's Grace For Single Mothers (GG4SM),0.001607717041800643
-231,Educational News,The Narrow Gate,0.001607717041800643
-232,Educational News,LosGranosTV,0.001607717041800643
-233,Educational News,Johnny Bigger,0.001607717041800643
-234,Educational News,Milwaukee PBS,0.003215434083601286
-235,Educational News,Foundation for Economic Education,0.001607717041800643
-236,Educational News,X22Report Spotlight,0.001607717041800643
-237,Educational News,"Univ. of California, Riverside",0.001607717041800643
-238,Educational News,Mindfulness Molly,0.003215434083601286
-239,Educational News,CBC News,0.001607717041800643
-240,Educational News,EdChoice,0.001607717041800643
-241,Educational News,Real Vision Finance,0.001607717041800643
-242,Educational News,Cambridge House International Inc.,0.001607717041800643
-243,Educational News,pocketsofthefuture,0.001607717041800643
-244,Educational News,Looper,0.001607717041800643
-245,Educational News,Voicetv Nigeria,0.001607717041800643
-246,Educational News,LastWeekTonight,0.001607717041800643
-247,Educational News,The Andrew Schulz,0.001607717041800643
-248,Educational News,WhatCulture,0.001607717041800643
+,Category,Next Channel,Count
+0,PartisanRight,Fox News,138
+1,PartisanRight,Fox Business,2
+2,PartisanRight,Good Morning America,1
+3,PartisanRight,MSNBC,13
+4,PartisanRight,The Rubin Report,36
+5,PartisanRight,NBC News,48
+6,PartisanRight,ESPN,1
+7,PartisanRight,Five Star,10
+8,PartisanRight,CNN,18
+9,PartisanRight,Voxiversity,4
+10,PartisanRight,CrashCourse,1
+11,PartisanRight,Richard Wolff Briefly,1
+12,PartisanRight,Patricia Jenkinson,1
+13,PartisanRight,Digiday,2
+14,PartisanRight,Philosophy Tube,2
+15,PartisanRight,TEDx Talks,4
+16,PartisanRight,Paul Griffin,1
+17,PartisanRight,Lauren Sergy,1
+18,PartisanRight,Gresham College,1
+19,PartisanRight,Lindybeige,1
+20,PartisanRight,Mississippi Public Broadcasting,4
+21,PartisanRight,The Marxist Project,1
+22,PartisanRight,How To Academy,13
+23,PartisanRight,The School of Life,1
+24,PartisanRight,Stephen Klien,1
+25,PartisanRight,Matthew North,3
+26,PartisanRight,Chelsea,1
+27,PartisanRight,HooverInstitution,276
+28,PartisanRight,WatchMojo.com,2
+29,PartisanRight,The Young Turks,1
+30,PartisanRight,Rebel Wisdom,1
+31,PartisanRight,Saturday Night Live,1
+32,PartisanRight,Moyers & Company,11
+33,PartisanRight,REVOLT TV,5
+34,PartisanRight,fred26er,1
+35,PartisanRight,MILO,1
+36,PartisanRight,Simulation,2
+37,PartisanRight,Final Call News,1
+38,PartisanRight,Seattle Channel,1
+39,PartisanRight,MedCircle,1
+40,PartisanRight,Emory University,4
+41,PartisanRight,Jimmy Carr,4
+42,PartisanRight,WIRED UK,2
+43,PartisanRight,American Thought Leaders - The Epoch Times,3
+44,PartisanRight,TODAY,5
+45,PartisanRight,The Daily Signal,2
+46,PartisanRight,John James,1
+47,PartisanRight,Liberty University,30
+48,PartisanRight,Zooming In with Simone Gao,2
+49,PartisanRight,U.S. Department of State,1
+50,PartisanRight,World Affairs,1
+51,PartisanRight,FRONTLINE PBS | Official,9
+52,PartisanRight,PBS NewsHour,12
+53,PartisanRight,Global News,4
+54,PartisanRight,ANU TV,1
+55,PartisanRight,ABC13 Houston,2
+56,PartisanRight,News 19 WLTX,5
+57,PartisanRight,Coop's Channel,11
+58,PartisanRight,Leo Ashe,1
+59,PartisanRight,Reuters,1
+60,PartisanRight,Nik Nikam,1
+61,PartisanRight,The Intercept,1
+62,PartisanRight,The Late Show with Stephen Colbert,4
+63,PartisanRight,The Real News Network,1
+64,PartisanRight,LosGranosTV,2
+65,PartisanRight,CBS Philly,1
+66,PartisanRight,LSU Tiger TV,1
+67,PartisanRight,PTW,1
+68,PartisanRight,TheDC Shorts,2
+69,PartisanRight,Another Conservative Commentator,1
+70,PartisanRight,Candace Owens,5
+71,PartisanRight,OxfordUnion,8
+72,PartisanRight,The Eric Metaxas Radio Show,6
+73,PartisanRight,Liberty Hangout,4
+74,PartisanRight,Jubilee,2
+75,PartisanRight,Chortzy,1
+76,PartisanRight,anabellugh,3
+77,PartisanRight,TehMimi,1
+78,PartisanRight,Roly,1
+79,PartisanRight,applejooss,1
+80,PartisanRight,FBE,1
+81,PartisanRight,ImAllexx,1
+82,PartisanRight,Kat Blaque,1
+83,PartisanRight,Studio 10,6
+84,PartisanRight,VICE,9
+85,PartisanRight,Asha Logos,2
+86,PartisanRight,Talks at Google,11
+87,PartisanRight,Jordan B Peterson,53
+88,PartisanRight,Fall of Civilizations,1
+89,PartisanRight,YaleCourses,8
+90,PartisanRight,History Time,1
+91,PartisanRight,TVO Docs,18
+92,PartisanRight,Wyoming PBS,2
+93,PartisanRight,KCETOnline,1
+94,PartisanRight,FilmRise Documentaries,1
+95,PartisanRight,The Oriental Institute,1
+96,PartisanRight,BBC Documentary,5
+97,PartisanRight,EcoFarmVideo,6
+98,PartisanRight,Survive the Jive,2
+99,PartisanRight,Rick Beato,1
+100,PartisanRight,The Daily Wire,2
+101,PartisanRight,Ken Martinez,1
+102,PartisanRight,The Invisible Man,1
+103,PartisanRight,FreedomToons,1
+104,PartisanRight,DSA President Nick Mullen,1
+105,PartisanRight,SHAMIEN,3
+106,PartisanRight,Channel 4 News,3
+107,PartisanRight,Gravitahn,2
+108,PartisanRight,MyTalkShowHeroes,1
+109,PartisanRight,Pantagruelian,1
+110,PartisanRight,Skavlan,2
+111,PartisanRight,players02,1
+112,PartisanRight,A Dormant Dynasty,4
+113,PartisanRight,Jabroney,1
+114,PartisanRight,Family Guy,1
+115,PartisanRight,FORA.tv,2
+116,PartisanRight,Cryo Chamber,1
+117,PartisanRight,Questar Entertainment,1
+118,PartisanRight,BiolaUniversity,2
+119,PartisanRight,Josh Gad,4
+120,PartisanRight,X22Report Spotlight,5
+121,PartisanRight,The New School,70
+122,PartisanRight,Levy Economics Institute,19
+123,PartisanRight,Stevie Richards,1
+124,PartisanRight,Silver Bullion TV,3
+125,PartisanRight,Mindvalley Talks,2
+126,PartisanRight,RubinMuseum,1
+127,PartisanRight,vpro documentary,7
+128,PartisanRight,Jason Goodman,3
+129,PartisanRight,Brown University,18
+130,PartisanRight,American Museum of Natural History,6
+131,PartisanRight,Valuetainment,5
+132,PartisanRight,Freedom Speaks,2
+133,PartisanRight,University of Notre Dame,11
+134,PartisanRight,Gentile 22667121,1
+135,PartisanRight,The Heritage Foundation,3
+136,PartisanRight,Chicago Humanities Festival,1
+137,PartisanRight,Durtty Daily,1
+138,PartisanRight,CBC,1
+139,PartisanRight,michalrachon,1
+140,PartisanRight,WGBHForum,3
+141,PartisanRight,EdChoice,2
+142,PartisanRight,OWN,1
+143,PartisanRight,Black Conservative Patriot,1
+144,PartisanRight,ReaganFoundation,17
+145,PartisanRight,FOX 10 Phoenix,12
+146,PartisanRight,Mike Cernovich,3
+147,PartisanRight,BBC Radio 5 Live,1
+148,PartisanRight,London Real,1
+149,PartisanRight,Victory Tulsa,8
+150,PartisanRight,Ben Shapiro,8
+151,PartisanRight,Lewis Howes,12
+152,PartisanRight,Impaulsive,2
+153,PartisanRight,PowerfulJRE,57
+154,PartisanRight,John Anderson,11
+155,PartisanRight,Larry King,1
+156,PartisanRight,Room for Discussion,3
+157,PartisanRight,Charisma on Command,3
+158,PartisanRight,Jocko Podcast,11
+159,PartisanRight,DoctorOz,3
+160,PartisanRight,Election Predictions Official,1
+161,PartisanRight,Gavin McInnes,14
+162,PartisanRight,Mass Appeal,1
+163,PartisanRight,Tattoo Hero,1
+164,PartisanRight,We Heart Lives,1
+165,PartisanRight,Primink,1
+166,PartisanRight,This Is 42,1
+167,PartisanRight,CensoredTV,3
+168,PartisanRight,ReelzChannel,1
+169,PartisanRight,Michelle Malkin,1
+170,PartisanRight,Master Clipper,1
+171,PartisanRight,PragerU,2
+172,PartisanRight,Professor Dave Explains,6
+173,PartisanRight,Ryan Katsu Rivera,1
+174,PartisanRight,abcqanda,3
+175,PartisanRight,LastWeekTonight,4
+176,PartisanRight,The Free Speech Club,1
+177,PartisanRight,Copenhagen Consensus,1
+178,PartisanRight,Sean Kim,2
+179,PartisanRight,CNBC Television,18
+180,PartisanRight,Gapminder Foundation,4
+181,PartisanRight,Commonwealth Club,5
+182,PartisanRight,Tone Vays,1
+183,PartisanRight,Stansberry Research,1
+184,PartisanRight,Dry Bar Comedy,3
+185,PartisanRight,Movieclips Coming Soon,1
+186,PartisanRight,موقع الشيخ عبد الباسط عبد الصمد,1
+187,PartisanRight,jimgaffigan,2
+188,PartisanRight,George Carlin Official YouTube Channel,1
+189,PartisanRight,Anders Jacobsson,1
+190,PartisanRight,Netflix Is A Joke,2
+191,PartisanRight,Merc Returns,1
+192,PartisanRight,Jake 333,4
+193,PartisanRight,Fully Sourced,8
+194,PartisanRight,Real Time with Bill Maher,1
+195,PartisanRight,JRE Clips,1
+196,PartisanRight,BuzzFeed Multiplayer,3
+197,PartisanRight,60 Minutes Australia,17
+198,PartisanRight,Rodney Dangerfield,1
+199,PartisanRight,LBOITA,1
+200,PartisanRight,EmpLemon,1
+201,PartisanRight,CBC News,20
+202,PartisanRight,Sky News Australia,10
+203,PartisanRight,George Webb,8
+204,PartisanRight,Turning Point USA,2
+205,PartisanRight,Good Morning Britain,5
+206,PartisanRight,LifeSiteNews,1
+207,PartisanRight,Welding and stuff,2
+208,PartisanRight,Variety,2
+209,PartisanRight,Adam Carolla,9
+210,PartisanRight,British GQ,7
+211,PartisanRight,The Fighter and The Kid,1
+212,PartisanRight,Flagrant 2,1
+213,PartisanRight,92nd Street Y,6
+214,PartisanRight,Matt and Shane's Secret Podcast,1
+215,PartisanRight,The Fighter and The Kid Clips,1
+216,PartisanRight,Bret Weinstein,1
+217,PartisanRight,Encore +,5
+218,PartisanRight,SHUTTERSHOT45,4
+219,PartisanRight,City of Des Moines – DMTV,4
+220,PartisanRight,The Aspen Institute,8
+221,PartisanRight,Hillsdale College,4
+222,PartisanRight,The Josh Bernstein Show,3
+223,PartisanRight,The Hill,2
+224,PartisanRight,Washington Post,1
+225,PartisanRight,Soothing Relaxation,2
+226,PartisanRight,CBS News,6
+227,PartisanRight,Foundation for Economic Education,31
+228,PartisanRight,Spirit Tribe Awakening,3
+229,PartisanRight,Operation Freedom,3
+230,PartisanRight,PurchasingAdvantage,1
+231,PartisanRight,University of California Television (UCTV),2
+232,PartisanRight,Learn Liberty,8
+233,PartisanRight,C-SPAN,8
+234,PartisanRight,John Ward,7
+235,PartisanRight,UNRISD,1
+236,PartisanRight,Closer To Truth,3
+237,PartisanRight,Rolling Stone,4
+238,PartisanRight,Declassified With Gina Shakespeare,1
+239,PartisanRight,WCCO - CBS Minnesota,1
+240,PartisanRight,ABC News,4
+241,PartisanRight,Leadership Institute,1
+242,PartisanRight,Elex Michaelson,1
+243,PartisanRight,Haymarket Books,8
+244,PartisanRight,ReasonTV,1
+245,PartisanRight,Real Life with Jack Hibbs,1
+246,PartisanRight,Sky News,11
+247,PartisanRight,The Exploring Series,1
+248,PartisanRight,Inside Edition,1
+249,PartisanRight,The Infographics Show,1
+250,PartisanRight,CBS,1
+251,PartisanRight,History Buffs,2
+252,PartisanRight,HLN,1
+253,PartisanRight,Harvard Kennedy School's Institute of Politics,2
+254,PartisanRight,Kenneth Copeland Ministries,1
+255,PartisanRight,Brent P,1
+256,PartisanRight,Centennial Institute,5
+257,PartisanRight,Huckabee,2
+258,PartisanRight,TheJohnBirchSociety,4
+259,PartisanRight,Case Western Reserve University School of Law,1
+260,PartisanRight,USC U.S.-China Institute,1
+261,PartisanRight,Hip Hughes,1
+262,PartisanRight,Free To Choose Network,1
+263,PartisanRight,WellesleyCollege,2
+264,PartisanRight,LibertyPen,1
+265,PartisanRight,Phil Robertson,5
+266,PartisanRight,Leonard Pagel,1
+267,PartisanRight,BlazeTV,2
+268,PartisanRight,Duck Commander,1
+269,PartisanRight,I Am Second,1
+270,PartisanRight,Jep and Jessica Robertson,1
+271,PartisanRight,Gaijin Goombah Media,1
+272,PartisanRight,That Japanese Man Yuta,1
+273,PartisanRight,Cambridge House International Inc.,2
+274,PartisanRight,Philip DeFranco,1
+275,PartisanRight,PewDiePie,2
+276,PartisanRight,Armoured Media,1
+277,PartisanRight,YouTube Movies,4
+278,PartisanRight,NICKMERCS,1
+279,PartisanRight,TheKoreanSavage,1
+280,PartisanRight,akidearest,1
+281,PartisanRight,RNZ,2
+282,PartisanRight,Crossroads with JOSHUA PHILIPP,1
+283,PartisanRight,NTD,2
+284,PartisanRight,Understood,3
+285,PartisanRight,Brave New Films,4
+286,PartisanRight,UnHerd,2
+287,PartisanRight,AdamKokesh,2
+288,PartisanRight,9/11 Memorial & Museum,1
+289,PartisanRight,VICE News,3
+290,PartisanRight,True Stories,1
+291,PartisanRight,Alex Basiri,1
+292,PartisanRight,DW Documentary,6
+293,PartisanRight,WLKY News Louisville,1
+294,PartisanRight,Discovery Science,1
+295,PartisanRight,True Geordie,1
+296,PartisanRight,Donut Media,1
+297,PartisanRight,Derek Van Schaik,2
+298,PartisanRight,The New York Times,2
+299,PartisanRight,1091 ON DEMAND,1
+300,PartisanRight,Newsy,1
+301,PartisanRight,KOMO News,1
+302,PartisanRight,A&E,1
+303,PartisanRight,Rocky Mountain PBS,1
+304,PartisanRight,socratesinthecity,3
+305,PartisanRight,Federico E Cura,1
+306,PartisanRight,The Rush Limbaugh Show,2
+307,PartisanRight,American Intelligence Media,2
+308,PartisanRight,LBC,2
+309,PartisanRight,Cryptopreneur,1
+310,PartisanRight,Lex Fridman,4
+311,PartisanRight,BitBoy Crypto,1
+312,PartisanRight,Cryptocurrency Australia,1
+313,PartisanRight,Dr. Steve Turley,5
+314,PartisanRight,Yanasa Ama Ventures,1
+315,PartisanRight,Doctor Mike,1
+316,PartisanRight,Guardian News,1
+317,PartisanRight,大劇獨播Plus,1
+318,PartisanRight,The Great Courses Plus,1
+319,PartisanRight,The 700 Club,2
+320,PartisanRight,talkRADIO,1
+321,PartisanRight,PhilosophiCat,6
+322,PartisanRight,Intelligence Squared,1
+323,PartisanRight,The University of Melbourne,1
+324,PartisanRight,NCASVideo,1
+325,PartisanRight,Michael Millerman,1
+326,PartisanRight,Politics and Prose,1
+327,PartisanRight,CinemaSins,1
+328,PartisanRight,Dr. Edward Dutton: The Jolly Heretic,3
+329,PartisanRight,Watson Institute for International and Public Affairs,1
+330,PartisanRight,The James Delingpole Channel,1
+331,PartisanRight,Traditional Britain Group,2
+332,PartisanRight,The Royal Institution,6
+333,PartisanRight,Andrew Doyle,1
+334,PartisanRight,DronetekPolitics,2
+335,PartisanRight,USSenLindseyGraham,1
+336,PartisanRight,Late Night with Seth Meyers,1
+337,PartisanRight,Tyrone Magnus,2
+338,PartisanRight,pocketsofthefuture,5
+339,PartisanRight,Johnny Bigger,4
+340,PartisanRight,Siyamthanda ndamase,1
+341,PartisanRight,robert promo,1
+342,PartisanRight,NASA,4
+343,PartisanRight,Spark,1
+344,PartisanRight,WatchTheDaily,3
+345,PartisanRight,H3 Podcast Highlights,1
+346,PartisanRight,As/Is,1
+347,PartisanRight,CaseyNeistat,1
+348,PartisanRight,Theo Von,4
+349,PartisanRight,Now You See It,1
+350,PartisanRight,The Daily Dot,2
+351,PartisanRight,Teva,2
+352,PartisanRight,12 News,1
+353,PartisanRight,YourMomsHousePodcast,1
+354,PartisanRight,KUSI News,2
+355,PartisanRight,CBN News,2
+356,PartisanRight,MyDream MyLife,1
+357,PartisanRight,POLITICO,1
+358,PartisanRight,OCBF Church,1
+359,PartisanRight,Crossroads Community Church - Winchester VA,2
+360,PartisanRight,John Stossel,1
+361,PartisanRight,Richard Nixon Foundation,3
+362,PartisanRight,The Sun,3
+363,PartisanRight,Dr Taylor Marshall,1
+364,PartisanRight,7NEWS Australia,1
+365,PartisanRight,Pânico Jovem Pan,1
+366,PartisanRight,Real Vision Finance,1
+367,PartisanRight,Missing The Mark,4
+368,PartisanRight,Pangburn,2
+369,PartisanRight,Michael Foster,1
+370,PartisanRight,The Atheist Experience,1
+371,PartisanRight,Matt Dillahunty,1
+372,PartisanRight,HamboneProductions,1
+373,PartisanRight,Classical Theist,1
+374,PartisanRight,Atheists of Facebook,1
+375,PartisanRight,Talk Heathen,1
+376,PartisanRight,AronRa,1
+377,PartisanRight,theDoveTV,1
+378,PartisanRight,The Obama White House,1
+379,PartisanRight,Principles by Ray Dalio,2
+380,PartisanRight,Sesamstraße,1
+381,PartisanRight,Chop Daily,1
+382,PartisanRight,Bored Potato,1
+383,PartisanRight,Los Angeles Times,1
+384,PartisanRight,Nicole Sandler,2
+385,PartisanRight,Thomas Petrou,1
+386,PartisanRight,LazarBeam,1
+387,PartisanRight,Adventures with Purpose,1
+388,PartisanRight,Doctor Mike Hansen,5
+389,PartisanRight,StarMediaEN,1
+390,PartisanRight,CBC News: The National,1
+391,PartisanRight,Stephanie Harlowe,2
+392,PartisanRight,This Morning,2
+393,PartisanRight,Real Families,1
+394,PartisanRight,Reel Truth Crime - Crime Documentary,1
+395,PartisanRight,Real Stories,1
+396,PartisanRight,marshallcurry,1
+397,PartisanRight,Triggered Newscast,1
+398,PartisanRight,Anthony ONeal,1
+399,PartisanRight,SiriusXM,1
+400,PartisanRight,Luetin09,1
+401,PartisanRight,The Met,2
+402,PartisanRight,Bioneers,1
+403,PartisanRight,Breakfast Club Power 105.1 FM,1
+404,PartisanRight,Clevver News,1
+405,PartisanRight,LegalEagle,1
+406,PartisanRight,Marques Brownlee,1
+407,PartisanRight,E! Red Carpet & Award Shows,1
+408,PartisanRight,BBC News,1
+409,PartisanRight,Eddie 'The Beast' Hall,1
+410,PartisanRight,The Late Late Show with James Corden,1
+411,PartisanRight,Parse The Noise,3
+412,PartisanRight,joekilgobinet,1
+413,PartisanRight,Alston Branch,1
+414,PartisanRight,Latos Charts,1
+415,PartisanRight,StevenCrowder,1
+416,PartisanRight,NourFoundation,1
+417,PartisanRight,Colorado Channel,1
+418,PartisanRight,Sargon of Akkad Live,3
+419,PartisanRight,ProductiehuisEU,1
+420,PartisanRight,TLDR News,1
+421,PartisanRight,I Am Incorrigible,1
+422,PartisanRight,Pindex,1
+423,PartisanRight,Strategian,1
+424,PartisanRight,Second Thought,1
+425,PartisanRight,China in Focus - NTD,2
+426,PartisanRight,WION,1
+427,PartisanRight,MW Live,1
+428,PartisanRight,Space & The Universe HD,1
+429,PartisanRight,Epic History TV,2
+430,PartisanRight,NYU Langone Health,2
+431,PartisanRight,Hedgeye,1
+432,PartisanRight,Investigation Discovery,1
+433,PartisanRight,Miami Herald,1
+434,PartisanRight,Mount Sinai Health System,1
+435,PartisanRight,Gibi ASMR,2
+436,PartisanRight,PierceCollegeDist11,1
+437,PartisanRight,passionconferences,1
+438,PartisanRight,ITV News,1
+439,PartisanRight,Larry Elder with Epoch Times,1
+440,PartisanRight,"Kenneth Frantz, Summit Peak Drones",1
+441,PartisanRight,Penn State McCourtney Institute for Democracy,1
+442,PartisanRight,Schwartz Media,1
+443,PartisanRight,КПІ ім. Ігоря Сікорського,1
+444,PartisanRight,Wall Street Mozart,1
+445,PartisanRight,Arts & Ideas at the JCCSF,1

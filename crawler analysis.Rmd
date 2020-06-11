@@ -14,9 +14,10 @@ library("rbokeh")
 ## R Markdown
 
 ```{r}
-youtube <- read_csv("Community Recommendation Data")
-youtube <- youtube %>% select(-'X1',-'recommendation #',-'vid 2 recommendations #',-'vid 1 recommendations #',-'vid 3 recommendations #',-'vid 4 recommendations #',-'vid 5 recommendations #')
+youtube <- read_csv("Community Recommendation Data.csv")
+youtube<- youtube %>% select(-'X1',-'recommendation #',-'vid 2 recommendations #',-'vid 1 recommendations #',-'vid 3 recommendations #',-'vid 4 recommendations #',-'vid 5 recommendations #')
 youtube <- youtube %>% mutate('Step: 2 Channel' = paste(youtube$`Step: 2 Channel`, " 1"))
+youtube
 ```
 
 ```{r}

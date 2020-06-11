@@ -1,132 +1,465 @@
-,Category,Next Channel,Probability
-0,Educational News,Edge of Wonder,0.09322033898305085
-1,Educational News,Real Science,0.001694915254237288
-2,Educational News,Jordan B Peterson,0.03728813559322034
-3,Educational News,SciShow,0.001694915254237288
-4,Educational News,RT Documentary,0.001694915254237288
-5,Educational News,AMPAMPLIFY,0.001694915254237288
-6,Educational News,Lewis Howes,0.00847457627118644
-7,Educational News,Hillsdale College,0.01694915254237288
-8,Educational News,Moyers & Company,0.023728813559322035
-9,Educational News,HooverInstitution,0.11016949152542373
-10,Educational News,Kurzgesagt – In a Nutshell,0.001694915254237288
-11,Educational News,WatchMojo.com,0.001694915254237288
-12,Educational News,PowerfulJRE,0.04745762711864407
-13,Educational News,The Oriental Institute,0.00847457627118644
-14,Educational News,socratesinthecity,0.006779661016949152
-15,Educational News,The Royal Institution,0.006779661016949152
-16,Educational News,Josh Gad,0.003389830508474576
-17,Educational News,The Real Truth About Health,0.001694915254237288
-18,Educational News,Politics and Prose,0.015254237288135594
-19,Educational News,vpro documentary,0.023728813559322035
-20,Educational News,YouTube Movies,0.006779661016949152
-21,Educational News,Canam Missing Project,0.01864406779661017
-22,Educational News,Big Buck Registry,0.001694915254237288
-23,Educational News,BBC Documentary,0.011864406779661017
-24,Educational News,Dr Taylor Marshall,0.001694915254237288
-25,Educational News,Learn Liberty,0.010169491525423728
-26,Educational News,Fox News,0.030508474576271188
-27,Educational News,Talks at Google,0.04406779661016949
-28,Educational News,Encore +,0.01694915254237288
-29,Educational News,TVO Docs,0.022033898305084745
-30,Educational News,Mindvalley Talks,0.01694915254237288
-31,Educational News,American Museum of Natural History,0.03389830508474576
-32,Educational News,Spark,0.011864406779661017
-33,Educational News,World Science Festival,0.010169491525423728
-34,Educational News,DW Documentary,0.015254237288135594
-35,Educational News,Jason Goodman,0.010169491525423728
-36,Educational News,Chicago Humanities Festival,0.005084745762711864
-37,Educational News,Brown University,0.005084745762711864
-38,Educational News,The 700 Club,0.001694915254237288
-39,Educational News,NBCLA,0.003389830508474576
-40,Educational News,MSNBC,0.023728813559322035
-41,Educational News,The Zero Hour with RJ Eskow,0.005084745762711864
-42,Educational News,CBC News,0.003389830508474576
-43,Educational News,The New School,0.01694915254237288
-44,Educational News,The Intercept,0.006779661016949152
-45,Educational News,Mississippi Public Broadcasting,0.001694915254237288
-46,Educational News,Rolling Stone,0.010169491525423728
-47,Educational News,"Christina Lopes, DPT, MPH",0.001694915254237288
-48,Educational News,Higher Self,0.001694915254237288
-49,Educational News,Secrets d'Histoire Officiel,0.001694915254237288
-50,Educational News,Al Jazeera English,0.001694915254237288
-51,Educational News,RubinMuseum,0.001694915254237288
-52,Educational News,FOX 13 News Utah,0.006779661016949152
-53,Educational News,Valuetainment,0.011864406779661017
-54,Educational News,60 Minutes Australia,0.00847457627118644
-55,Educational News,TEDx Talks,0.001694915254237288
-56,Educational News,BBC Click,0.001694915254237288
-57,Educational News,World Affairs,0.001694915254237288
-58,Educational News,Futurology,0.001694915254237288
-59,Educational News,ScottiesTech.Info,0.001694915254237288
-60,Educational News,CNBC,0.001694915254237288
-61,Educational News,EdChoice,0.001694915254237288
-62,Educational News,Digital Trends,0.001694915254237288
-63,Educational News,Jay Myers Documentaries,0.006779661016949152
-64,Educational News,Dalhousie University,0.001694915254237288
-65,Educational News,KOMO News,0.001694915254237288
-66,Educational News,GQ,0.001694915254237288
-67,Educational News,VOA News,0.001694915254237288
-68,Educational News,OWN,0.001694915254237288
-69,Educational News,HELLO! Canada Magazine,0.001694915254237288
-70,Educational News,Royal Reviewer,0.003389830508474576
-71,Educational News,Entertainment Tonight,0.005084745762711864
-72,Educational News,On Demand News,0.001694915254237288
-73,Educational News,KTLA 5,0.001694915254237288
-74,Educational News,The Royal Family Channel,0.003389830508474576
-75,Educational News,Real Royalty,0.001694915254237288
-76,Educational News,Global News,0.001694915254237288
-77,Educational News,PINKVILLA,0.001694915254237288
-78,Educational News,WGBHForum,0.001694915254237288
-79,Educational News,Rob Moore,0.001694915254237288
-80,Educational News,PeopleTV,0.001694915254237288
-81,Educational News,TODAY,0.001694915254237288
-82,Educational News,Church Militant,0.001694915254237288
-83,Educational News,Closer To Truth,0.003389830508474576
-84,Educational News,Sky News Australia,0.001694915254237288
-85,Educational News,NBC News,0.020338983050847456
-86,Educational News,Victory Tulsa,0.006779661016949152
-87,Educational News,1091 ON DEMAND,0.003389830508474576
-88,Educational News,Sky News,0.003389830508474576
-89,Educational News,VICE Asia,0.001694915254237288
-90,Educational News,The Atlantic,0.001694915254237288
-91,Educational News,MagellanTV,0.003389830508474576
-92,Educational News,KONCRETE,0.001694915254237288
-93,Educational News,BuzzFeed Multiplayer,0.001694915254237288
-94,Educational News,space and astronomy,0.001694915254237288
-95,Educational News,Truthstream Media,0.001694915254237288
-96,Educational News,Simulation,0.001694915254237288
-97,Educational News,Derek Van Schaik,0.005084745762711864
-98,Educational News,Reel Truth History Documentaries,0.001694915254237288
-99,Educational News,CNN,0.001694915254237288
-100,Educational News,YaleCourses,0.001694915254237288
-101,Educational News,NASA,0.003389830508474576
-102,Educational News,Spirit Tribe Awakening,0.001694915254237288
-103,Educational News,WellesleyCollege,0.00847457627118644
-104,Educational News,PBS NewsHour,0.006779661016949152
-105,Educational News,CBS News,0.010169491525423728
-106,Educational News,Emory University,0.005084745762711864
-107,Educational News,Seattle Channel,0.001694915254237288
-108,Educational News,Miami Herald,0.001694915254237288
-109,Educational News,CNBC Television,0.001694915254237288
-110,Educational News,92nd Street Y,0.001694915254237288
-111,Educational News,University of California Television (UCTV),0.001694915254237288
-112,Educational News,Gapminder Foundation,0.001694915254237288
-113,Educational News,Digiday,0.001694915254237288
-114,Educational News,Reiki with Anna,0.001694915254237288
-115,Educational News,CONTACT in the DESERT,0.001694915254237288
-116,Educational News,Life Changing Word,0.001694915254237288
-117,Educational News,Levy Economics Institute,0.003389830508474576
-118,Educational News,Jocko Podcast,0.001694915254237288
-119,Educational News,Christo Aivalis,0.001694915254237288
-120,Educational News,Lex Fridman,0.001694915254237288
-121,Educational News,FiveThirtyEight,0.001694915254237288
-122,Educational News,VICE,0.001694915254237288
-123,Educational News,EncourageTV,0.001694915254237288
-124,Educational News,WELT Documentary,0.001694915254237288
-125,Educational News,offTheLeftEye,0.001694915254237288
-126,Educational News,FOX 10 Phoenix,0.001694915254237288
-127,Educational News,The University of Melbourne,0.003389830508474576
-128,Educational News,LegalEagle,0.003389830508474576
-129,Educational News,wocomoDOCS,0.001694915254237288
-130,Educational News,Professor Dave Explains,0.001694915254237288
+,Category,Next Channel,Count
+0,Conspiracy,Jake 333,1
+1,Conspiracy,Adam Savage’s Tested,1
+2,Conspiracy,Guitarist,2
+3,Conspiracy,TED,2
+4,Conspiracy,Gretsch Guitars,1
+5,Conspiracy,AcousticMagazine1,1
+6,Conspiracy,Peghead Nation,1
+7,Conspiracy,Musician's Friend,1
+8,Conspiracy,LifeHunters,1
+9,Conspiracy,Bob Ross,2
+10,Conspiracy,Star Wars,1
+11,Conspiracy,Bardot Brush,1
+12,Conspiracy,Acoustic Guitar Magazine,1
+13,Conspiracy,Mark Rober,1
+14,Conspiracy,Jamie Anderson,1
+15,Conspiracy,Wisecrack,2
+16,Conspiracy,ColorByFeliks,1
+17,Conspiracy,Amanpour and Company,2
+18,Conspiracy,Reverb,1
+19,Conspiracy,HighImpactVlogs,8
+20,Conspiracy,Fox News,431
+21,Conspiracy,The Rubin Report,16
+22,Conspiracy,TEDx Talks,13
+23,Conspiracy,MSNBC,31
+24,Conspiracy,Audit the Audit,4
+25,Conspiracy,Keith Rucker - VintageMachinery.org,1
+26,Conspiracy,The Late Show with Stephen Colbert,7
+27,Conspiracy,corbettreport,2
+28,Conspiracy,Tallahassee Democrat,2
+29,Conspiracy,WCPO 9,2
+30,Conspiracy,Jocko Podcast,21
+31,Conspiracy,ReasonTV,2
+32,Conspiracy,UnHerd,5
+33,Conspiracy,Mike Cernovich,3
+34,Conspiracy,HooverInstitution,176
+35,Conspiracy,Texas Parks and Wildlife,1
+36,Conspiracy,Watch What Happens Live with Andy Cohen,1
+37,Conspiracy,socratesinthecity,10
+38,Conspiracy,Viva Frei,1
+39,Conspiracy,WIRED UK,13
+40,Conspiracy,Moyers & Company,62
+41,Conspiracy,The 700 Club,21
+42,Conspiracy,Johnny Bigger,26
+43,Conspiracy,Jason Goodman,4
+44,Conspiracy,Rolling Stone,5
+45,Conspiracy,The New School,15
+46,Conspiracy,The Sun,4
+47,Conspiracy,vpro documentary,26
+48,Conspiracy,Talks at Google,49
+49,Conspiracy,Learn Liberty,24
+50,Conspiracy,PowerfulJRE,35
+51,Conspiracy,Hillsdale College,5
+52,Conspiracy,NBC News,30
+53,Conspiracy,RedPill78,4
+54,Conspiracy,NYU Langone Health,7
+55,Conspiracy,Levy Economics Institute,1
+56,Conspiracy,Senator Tim Scott,11
+57,Conspiracy,The Secrets of Nature,6
+58,Conspiracy,BBC Documentary,4
+59,Conspiracy,Fully Sourced,3
+60,Conspiracy,9NEWS,5
+61,Conspiracy,Nicolas Lepage,2
+62,Conspiracy,BuzzFeed Multiplayer,9
+63,Conspiracy,RNZ,1
+64,Conspiracy,kptspromotions,1
+65,Conspiracy,Paramount Network,1
+66,Conspiracy,ABC News,3
+67,Conspiracy,Inside Edition,3
+68,Conspiracy,Stephanie Harlowe,1
+69,Conspiracy,Tom Harlock,1
+70,Conspiracy,CNN,4
+71,Conspiracy,60 Minutes Australia,8
+72,Conspiracy,Dr. Phil,1
+73,Conspiracy,"Armchair Detective, No hiding place!",1
+74,Conspiracy,Entertainment Tonight,1
+75,Conspiracy,Nicholson1968,3
+76,Conspiracy,TVO Docs,30
+77,Conspiracy,"New Haven SDA Temple - Brooklyn, NY",1
+78,Conspiracy,Metatron I AM HEALING,1
+79,Conspiracy,Spark,24
+80,Conspiracy,FandangoNOW Extras,20
+81,Conspiracy,Gapminder Foundation,10
+82,Conspiracy,Theo Von,2
+83,Conspiracy,Stansberry Research,3
+84,Conspiracy,Vsauce,7
+85,Conspiracy,Kevin O'Leary,9
+86,Conspiracy,Woke Societies,1
+87,Conspiracy,Laura Loomer,7
+88,Conspiracy,CBS Local News,1
+89,Conspiracy,GoatVsFish,1
+90,Conspiracy,Guardian News,2
+91,Conspiracy,Fox Business,5
+92,Conspiracy,Townhall Media,1
+93,Conspiracy,WLWT,2
+94,Conspiracy,Wochit News,1
+95,Conspiracy,Sant K.,1
+96,Conspiracy,ITV News,10
+97,Conspiracy,Thescariestmovieever,6
+98,Conspiracy,Brown University,1
+99,Conspiracy,Professor Dave Explains,10
+100,Conspiracy,American Museum of Natural History,3
+101,Conspiracy,Jordan B Peterson,7
+102,Conspiracy,The Oriental Institute,3
+103,Conspiracy,DW Documentary,9
+104,Conspiracy,Politics and Prose,10
+105,Conspiracy,Encore +,11
+106,Conspiracy,Victory Tulsa,6
+107,Conspiracy,Brave New Films,2
+108,Conspiracy,Sequencer,1
+109,Conspiracy,YouTube Movies,23
+110,Conspiracy,Simulation,4
+111,Conspiracy,PineCreek,4
+112,Conspiracy,Closer To Truth,10
+113,Conspiracy,SphereBeing Alliance,4
+114,Conspiracy,DTTV Archaeology Answers,1
+115,Conspiracy,KSDK News,2
+116,Conspiracy,Rob Moore,3
+117,Conspiracy,Business Insider,2
+118,Conspiracy,1091 ON DEMAND,5
+119,Conspiracy,Imperial College London,6
+120,Conspiracy,Operation Freedom,4
+121,Conspiracy,Liberty University,5
+122,Conspiracy,Fox5NY,1
+123,Conspiracy,John Anderson,2
+124,Conspiracy,The Great Courses Plus,2
+125,Conspiracy,FRONTLINE PBS | Official,1
+126,Conspiracy,Jamie Dlux,2
+127,Conspiracy,Now You See It,3
+128,Conspiracy,LaughPlanet,2
+129,Conspiracy,AM to DM,1
+130,Conspiracy,CBC News,6
+131,Conspiracy,Supasly75,1
+132,Conspiracy,Dee Vida,1
+133,Conspiracy,Newsmax TV,2
+134,Conspiracy,ChangeDaChannel,3
+135,Conspiracy,Big Wreck,1
+136,Conspiracy,TheScottBrothersVEVO,1
+137,Conspiracy,Cosgrove Prod.,3
+138,Conspiracy,GameSpot Universe,9
+139,Conspiracy,Matt Redman,1
+140,Conspiracy,Rock & Roll Hall of Fame,1
+141,Conspiracy,The Tonight Show Starring Jimmy Fallon,1
+142,Conspiracy,Lipps Inc - Topic,1
+143,Conspiracy,Fred Hammond,1
+144,Conspiracy,iangillan,1
+145,Conspiracy,Shaking My Head Productions,2
+146,Conspiracy,UPROXX,1
+147,Conspiracy,Crossroads Community Church - Winchester VA,10
+148,Conspiracy,TheHighersideChats,3
+149,Conspiracy,Eileen Day McKusick,3
+150,Conspiracy,92nd Street Y,2
+151,Conspiracy,California Garden TV,2
+152,Conspiracy,NCASVideo,2
+153,Conspiracy,World Science Festival,4
+154,Conspiracy,NourFoundation,1
+155,Conspiracy,Lex Fridman,2
+156,Conspiracy,CurryCollegeVideo,1
+157,Conspiracy,ABC13 Houston,6
+158,Conspiracy,University of California Television (UCTV),3
+159,Conspiracy,YaleCourses,5
+160,Conspiracy,Koinonia House,1
+161,Conspiracy,David Wilcock | Divine Cosmos (OFFICIAL),1
+162,Conspiracy,Lewis Howes,2
+163,Conspiracy,JoyCamp,3
+164,Conspiracy,Bad Lip Reading,1
+165,Conspiracy,PigCake,1
+166,Conspiracy,EncourageTV,1
+167,Conspiracy,CBC,5
+168,Conspiracy,cenouralm,1
+169,Conspiracy,melodysheep,1
+170,Conspiracy,HTB Church,2
+171,Conspiracy,ICC,1
+172,Conspiracy,Bro. Sanchez TV,2
+173,Conspiracy,WYCC PBS Chicago,1
+174,Conspiracy,Big Think,1
+175,Conspiracy,djvlad,5
+176,Conspiracy,Feast TV,1
+177,Conspiracy,Chicago Humanities Festival,2
+178,Conspiracy,Mississippi Public Broadcasting,1
+179,Conspiracy,thepostarchive,1
+180,Conspiracy,Discovery Science,5
+181,Conspiracy,The Royal Institution,9
+182,Conspiracy,Portland State University,1
+183,Conspiracy,Odd Salon,2
+184,Conspiracy,Willem van Twillert,1
+185,Conspiracy,Eckhart Tolle,3
+186,Conspiracy,Mathas,1
+187,Conspiracy,Mr.Within's Gift,1
+188,Conspiracy,Destroying the Illusion,3
+189,Conspiracy,KET - Kentucky Educational Television,15
+190,Conspiracy,CNBC Television,3
+191,Conspiracy,Studio 10,1
+192,Conspiracy,CNBC,1
+193,Conspiracy,"WKBW TV | Buffalo, NY",1
+194,Conspiracy,Talent Recap,1
+195,Conspiracy,Goal Guys,1
+196,Conspiracy,Washington Post,10
+197,Conspiracy,TIME,1
+198,Conspiracy,Gaia,2
+199,Conspiracy,ICGC Catalunya,2
+200,Conspiracy,Space & The Universe HD,5
+201,Conspiracy,NASA,2
+202,Conspiracy,jennifergala,1
+203,Conspiracy,Naked Science,1
+204,Conspiracy,The Prehistory Guys,2
+205,Conspiracy,New York Post,2
+206,Conspiracy,WhatCulture,1
+207,Conspiracy,MagellanTV,1
+208,Conspiracy,space and astronomy,1
+209,Conspiracy,Best Documentary,1
+210,Conspiracy,And We Know,3
+211,Conspiracy,Sky News Australia,7
+212,Conspiracy,THE REAL BRAD LEA,3
+213,Conspiracy,Valuetainment,10
+214,Conspiracy,PBS KIDS for Parents,1
+215,Conspiracy,OxfordUnion,2
+216,Conspiracy,FOX 10 Phoenix,9
+217,Conspiracy,PBS NewsHour,12
+218,Conspiracy,Stevie Richards,2
+219,Conspiracy,Senator Ted Cruz,13
+220,Conspiracy,WellesleyCollege,1
+221,Conspiracy,WeAreChange,3
+222,Conspiracy,Marcus Viana,1
+223,Conspiracy,Bloomberg QuickTake Originals,2
+224,Conspiracy,GQ,10
+225,Conspiracy,ROME REPORTS in English,1
+226,Conspiracy,TODAY,4
+227,Conspiracy,AFP News Agency,1
+228,Conspiracy,OsiyoTV,1
+229,Conspiracy,FADE TO BLACK Radio,1
+230,Conspiracy,Perimeter Institute for Theoretical Physics,1
+231,Conspiracy,Metallica,1
+232,Conspiracy,RN RZZZ,1
+233,Conspiracy,Science Museum,3
+234,Conspiracy,packe777,1
+235,Conspiracy,Breakfast Club Power 105.1 FM,1
+236,Conspiracy,JRE Clips,6
+237,Conspiracy,UFC - Ultimate Fighting Championship,15
+238,Conspiracy,YouTube,1
+239,Conspiracy,It'sWhateverMedia,1
+240,Conspiracy,Jorge Masvidal,1
+241,Conspiracy,MMA On Point,1
+242,Conspiracy,ESPN MMA,1
+243,Conspiracy,ufcespanol,5
+244,Conspiracy,Motivedia - Boxing,1
+245,Conspiracy,RFB II,2
+246,Conspiracy,JailBreak Overlander,3
+247,Conspiracy,Anonymous Official,2
+248,Conspiracy,Linus Tech Tips,1
+249,Conspiracy,The Howard Stern Show,1
+250,Conspiracy,WatchMojo.com,3
+251,Conspiracy,Whurree Uzumaki,2
+252,Conspiracy,ONE FOR ISRAEL Ministry,1
+253,Conspiracy,BBC,1
+254,Conspiracy,DMEXCO,1
+255,Conspiracy,CBSDFW,1
+256,Conspiracy,KRQE,1
+257,Conspiracy,Richard Steele,3
+258,Conspiracy,Movieclips,1
+259,Conspiracy,The News & Observer,1
+260,Conspiracy,Eddie Bauer,1
+261,Conspiracy,What Would You Do?,2
+262,Conspiracy,VICE,2
+263,Conspiracy,Orion Pictures,1
+264,Conspiracy,prayingmedic,2
+265,Conspiracy,Foundation for Economic Education,5
+266,Conspiracy,XDubai,1
+267,Conspiracy,LosGranosTV,2
+268,Conspiracy,Islam On Demand,1
+269,Conspiracy,Smithsonian Channel,1
+270,Conspiracy,slaptv,1
+271,Conspiracy,National Geographic,1
+272,Conspiracy,Alsido Football,1
+273,Conspiracy,ITV,2
+274,Conspiracy,Refinery29,1
+275,Conspiracy,Skateboarding Nation,1
+276,Conspiracy,USA TODAY,1
+277,Conspiracy,FilmStruck,1
+278,Conspiracy,In Pursuit of Truth,3
+279,Conspiracy,USSenLindseyGraham,2
+280,Conspiracy,Ian R Crane,1
+281,Conspiracy,EdChoice,1
+282,Conspiracy,What Youth,1
+283,Conspiracy,Vox,3
+284,Conspiracy,Patriots' Soapbox News Network LIVE,4
+285,Conspiracy,Variety,1
+286,Conspiracy,Premier Boxing Champions,1
+287,Conspiracy,mudvayne,1
+288,Conspiracy,NBC New York,2
+289,Conspiracy,Edge of Wonder,1
+290,Conspiracy,Animal Planet,3
+291,Conspiracy,Bioneers,3
+292,Conspiracy,NewsChannel 5,3
+293,Conspiracy,Top Rank Boxing,1
+294,Conspiracy,MrBeast,1
+295,Conspiracy,CareyHolzman,1
+296,Conspiracy,Nexus,2
+297,Conspiracy,thecrowhouse,4
+298,Conspiracy,The HU,1
+299,Conspiracy,Xero Accounting Software,4
+300,Conspiracy,The Aspen Institute,1
+301,Conspiracy,Spy Kitten TV,2
+302,Conspiracy,BBC News,1
+303,Conspiracy,C-SPAN,5
+304,Conspiracy,Church Militant,2
+305,Conspiracy,UNRISD,2
+306,Conspiracy,germanytourism,1
+307,Conspiracy,SkyWatch TV,3
+308,Conspiracy,Ravi Zacharias International Ministries,3
+309,Conspiracy,Celebration Church,1
+310,Conspiracy,Catholic Answers,1
+311,Conspiracy,MeistariX,1
+312,Conspiracy,Faithlife,2
+313,Conspiracy,RichieFromBoston,2
+314,Conspiracy,ReaganFoundation,1
+315,Conspiracy,CBS News,4
+316,Conspiracy,jimgaffigan,4
+317,Conspiracy,Quest TV,1
+318,Conspiracy,TheEllenShow,1
+319,Conspiracy,The Voice Around The World,1
+320,Conspiracy,The Eric Metaxas Radio Show,1
+321,Conspiracy,The Hill,1
+322,Conspiracy,Montagraph,2
+323,Conspiracy,American Battlefield Trust,1
+324,Conspiracy,Senator John Cornyn,2
+325,Conspiracy,NextDisneyChannel,1
+326,Conspiracy,CrashCourse,1
+327,Conspiracy,Red Bull,1
+328,Conspiracy,Tamar Simmons,1
+329,Conspiracy,PlanetXtvshow,1
+330,Conspiracy,Clones Canal Festival,1
+331,Conspiracy,FS MaNiA,1
+332,Conspiracy,Funny Animals' Life,1
+333,Conspiracy,Television Jamaica,1
+334,Conspiracy,pReview'd,1
+335,Conspiracy,KARE 11,1
+336,Conspiracy,Orlando Sentinel,3
+337,Conspiracy,"Univ. of California, Riverside",1
+338,Conspiracy,WELT Documentary,1
+339,Conspiracy,Absolute Motivation,4
+340,Conspiracy,CBN News,1
+341,Conspiracy,AttractPassion,1
+342,Conspiracy,PeriscopeFilm,3
+343,Conspiracy,ScottiesTech.Info,1
+344,Conspiracy,daily MOTIVATION,1
+345,Conspiracy,China in Focus - NTD,1
+346,Conspiracy,George Galloway,1
+347,Conspiracy,TED-Ed,2
+348,Conspiracy,Fearless Soul,1
+349,Conspiracy,Discovery UK,1
+350,Conspiracy,TEDMED,1
+351,Conspiracy,Jeremy Bennett,1
+352,Conspiracy,Motivation Manifested,1
+353,Conspiracy,London Real,1
+354,Conspiracy,WGN News,5
+355,Conspiracy,Dobbs,1
+356,Conspiracy,Wyoming PBS,3
+357,Conspiracy,LastWeekTonight,1
+358,Conspiracy,Randi Rhodes Show,2
+359,Conspiracy,1035 TheBeat,1
+360,Conspiracy,shane,1
+361,Conspiracy,ET Canada,1
+362,Conspiracy,FOX10 News,2
+363,Conspiracy,LitTube,1
+364,Conspiracy,CUFBOYS,1
+365,Conspiracy,HollywoodLife,1
+366,Conspiracy,Habiba Da Silva,1
+367,Conspiracy,XXXTENTACION,1
+368,Conspiracy,Unknown Productions,1
+369,Conspiracy,King Trending,1
+370,Conspiracy,RubinMuseum,2
+371,Conspiracy,Orchestral Manoeuvres in the Dark,1
+372,Conspiracy,University of Notre Dame,3
+373,Conspiracy,The Spencer Davis Group - Topic,1
+374,Conspiracy,Tech Insider,1
+375,Conspiracy,ColdFusion,3
+376,Conspiracy,Council on Foreign Relations,1
+377,Conspiracy,DrewTalks,1
+378,Conspiracy,Business Casual,2
+379,Conspiracy,A&E,2
+380,Conspiracy,Late Night with Seth Meyers,2
+381,Conspiracy,superspeedersRob,1
+382,Conspiracy,Savage Garage,1
+383,Conspiracy,NowThis News,4
+384,Conspiracy,ABC10,1
+385,Conspiracy,A Current Affair,1
+386,Conspiracy,LackLuster,1
+387,Conspiracy,Daily Dose Of Internet,2
+388,Conspiracy,In Touch Ministries,5
+389,Conspiracy,Great Big Story,1
+390,Conspiracy,Mashable,1
+391,Conspiracy,NerdVid,1
+392,Conspiracy,Grunge,1
+393,Conspiracy,Eyewitness News ABC7NY,2
+394,Conspiracy,Truthstream Media,1
+395,Conspiracy,NowThis World,1
+396,Conspiracy,AeroEyez,1
+397,Conspiracy,Ligonier Ministries,3
+398,Conspiracy,Senator Marco Rubio,1
+399,Conspiracy,100huntley,2
+400,Conspiracy,Jelly Roll,1
+401,Conspiracy,Captain Joe,1
+402,Conspiracy,Positive Money Europe,1
+403,Conspiracy,Sziget Festival,1
+404,Conspiracy,FaceCulture,1
+405,Conspiracy,Absolute Radio,1
+406,Conspiracy,"Sincerely, K.S.O.",1
+407,Conspiracy,Our Daily Bread,1
+408,Conspiracy,LoganFam,1
+409,Conspiracy,FOX 13 News Utah,1
+410,Conspiracy,abcqanda,1
+411,Conspiracy,Denver7 – The Denver Channel,1
+412,Conspiracy,1 NEWS,1
+413,Conspiracy,True Crime Daily,1
+414,Conspiracy,Associated Press,1
+415,Conspiracy,Investigation Discovery,1
+416,Conspiracy,OWN,3
+417,Conspiracy,Netflix Film Club,1
+418,Conspiracy,Shared Channel,1
+419,Conspiracy,Johnny Harris,1
+420,Conspiracy,Understood,1
+421,Conspiracy,Tony Evans,1
+422,Conspiracy,ESPN,1
+423,Conspiracy,Collective Evolution,3
+424,Conspiracy,CBC News: The National,1
+425,Conspiracy,EWTN,1
+426,Conspiracy,MotivationHub,1
+427,Conspiracy,T.D. Jakes,2
+428,Conspiracy,TRT World,1
+429,Conspiracy,Austin Evans,1
+430,Conspiracy,Live Aid,1
+431,Conspiracy,The Guardian,2
+432,Conspiracy,Mindvalley Talks,1
+433,Conspiracy,nevadamining,1
+434,Conspiracy,Donna Clayton,1
+435,Conspiracy,Central Washington University,1
+436,Conspiracy,Stanford Health Care,1
+437,Conspiracy,The Raw Mermaid,1
+438,Conspiracy,BoutenkoFilms,1
+439,Conspiracy,Foldit,1
+440,Conspiracy,Isha USA,1
+441,Conspiracy,What I've Learned,1
+442,Conspiracy,"Jeff Novick, MS, RDN",1
+443,Conspiracy,Mike Kincaid,1
+444,Conspiracy,bananiac,1
+445,Conspiracy,The Urban Patio Gardener,1
+446,Conspiracy,Physicians Committee,1
+447,Conspiracy,Chael Sonnen,1
+448,Conspiracy,AK Fallible - Financial Entertainment,1
+449,Conspiracy,MIRZA MD ARIF,1
+450,Conspiracy,Christ Community Chapel,1
+451,Conspiracy,Jesus Culture,1
+452,Conspiracy,John Ward,1
+453,Conspiracy,LegalEagle,1
+454,Conspiracy,J.J. McCullough,1
+455,Conspiracy,The Greene Space at WNYC & WQXR,1
+456,Conspiracy,Bikslou,1
+457,Conspiracy,WhatCulture Gaming,1
+458,Conspiracy,Max Steel,1
+459,Conspiracy,Get Good Gaming,1
+460,Conspiracy,Official Jim Cornette,1
+461,Conspiracy,MTV News,1
+462,Conspiracy,Genius,1
+463,Conspiracy,Movieclips Indie,1

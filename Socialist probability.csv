@@ -1,230 +1,518 @@
-,Category,Next Channel,Probability
-0,Educational News,Empire Files,0.029508196721311476
-1,Educational News,The Agenda with Steve Paikin,0.004918032786885246
-2,Educational News,reticularimus,0.003278688524590164
-3,Educational News,truthdig,0.001639344262295082
-4,Educational News,FORA.tv,0.001639344262295082
-5,Educational News,Hillsdale College,0.001639344262295082
-6,Educational News,The New School,0.019672131147540985
-7,Educational News,NCASVideo,0.001639344262295082
-8,Educational News,OxfordUnion,0.004918032786885246
-9,Educational News,Matt Dillahunty,0.001639344262295082
-10,Educational News,Toronto Public Library,0.001639344262295082
-11,Educational News,The Real News Network,0.003278688524590164
-12,Educational News,LeftStreamed,0.001639344262295082
-13,Educational News,stateofbelief,0.001639344262295082
-14,Educational News,University of Notre Dame,0.004918032786885246
-15,Educational News,Democracy Now!,0.004918032786885246
-16,Educational News,Politics and Prose,0.003278688524590164
-17,Educational News,worldinformant,0.001639344262295082
-18,Educational News,KPFAradio,0.001639344262295082
-19,Educational News,Democracy At Work,0.011475409836065573
-20,Educational News,The Venus Project,0.001639344262295082
-21,Educational News,Talks at Google,0.00819672131147541
-22,Educational News,Levy Economics Institute,0.006557377049180328
-23,Educational News,ReasonTV,0.001639344262295082
-24,Educational News,Working Journalist Press,0.001639344262295082
-25,Educational News,vpro documentary,0.013114754098360656
-26,Educational News,The People's Forum NYC,0.001639344262295082
-27,Educational News,HooverInstitution,0.021311475409836064
-28,Educational News,The Laura Flanders Show,0.001639344262295082
-29,Educational News,ACLU of Southern California,0.001639344262295082
-30,Educational News,Xexizy,0.009836065573770493
-31,Educational News,92nd Street Y,0.001639344262295082
-32,Educational News,Jimmy Carr,0.019672131147540985
-33,Educational News,The Oriental Institute,0.001639344262295082
-34,Educational News,YaleCourses,0.001639344262295082
-35,Educational News,Intelligence Squared,0.00819672131147541
-36,Educational News,CBC News,0.001639344262295082
-37,Educational News,MIT School of Architecture & Planning,0.001639344262295082
-38,Educational News,TEDx Talks,0.00819672131147541
-39,Educational News,Josh Gad,0.00819672131147541
-40,Educational News,Jordan B Peterson,0.009836065573770493
-41,Educational News,TED,0.006557377049180328
-42,Educational News,SMAADallas,0.003278688524590164
-43,Educational News,Big Think,0.001639344262295082
-44,Educational News,Premier On Demand,0.001639344262295082
-45,Educational News,Learn Liberty,0.00819672131147541
-46,Educational News,DW News,0.001639344262295082
-47,Educational News,Russell Brand,0.11475409836065574
-48,Educational News,YouTube,0.01639344262295082
-49,Educational News,Dr Rangan Chatterjee,0.001639344262295082
-50,Educational News,Yuval Noah Harari,0.003278688524590164
-51,Educational News,Gregg Braden Official,0.001639344262295082
-52,Educational News,PowerfulJRE,0.03770491803278689
-53,Educational News,The Invisible Man,0.014754098360655738
-54,Educational News,Center for Inquiry,0.004918032786885246
-55,Educational News,David Lynch Foundation,0.004918032786885246
-56,Educational News,Joe Rogan Footage,0.001639344262295082
-57,Educational News,The Jayleno Fly,0.006557377049180328
-58,Educational News,Funny Compilations,0.004918032786885246
-59,Educational News,BBC Newsnight,0.013114754098360656
-60,Educational News,AttractPassion,0.001639344262295082
-61,Educational News,LaughPlanet,0.00819672131147541
-62,Educational News,Alan Carr: Chatty Man,0.006557377049180328
-63,Educational News,Therealizedman,0.011475409836065573
-64,Educational News,Rich Roll,0.003278688524590164
-65,Educational News,Phil Robertson,0.001639344262295082
-66,Educational News,Fire Films,0.014754098360655738
-67,Educational News,It'sWhateverMedia,0.001639344262295082
-68,Educational News,Channel 4 News,0.003278688524590164
-69,Educational News,TeleSUR English,0.021311475409836064
-70,Educational News,BuzzFeed Unsolved Network,0.001639344262295082
-71,Educational News,Independent POV,0.001639344262295082
-72,Educational News,Richard Wolff Briefly,0.001639344262295082
-73,Educational News,Gravitahn,0.001639344262295082
-74,Educational News,60 Minutes Australia,0.001639344262295082
-75,Educational News,Cizik School of Nursing,0.001639344262295082
-76,Educational News,Moyers & Company,0.006557377049180328
-77,Educational News,Mississippi Public Broadcasting,0.004918032786885246
-78,Educational News,acTVism Munich,0.001639344262295082
-79,Educational News,Rob Moore,0.004918032786885246
-80,Educational News,Simulation,0.001639344262295082
-81,Educational News,CBC,0.001639344262295082
-82,Educational News,donoteat01,0.02459016393442623
-83,Educational News,DaHandyMandy,0.001639344262295082
-84,Educational News,bsquiklehausen,0.001639344262295082
-85,Educational News,Flabaliki,0.001639344262295082
-86,Educational News,Strictoaster,0.003278688524590164
-87,Educational News,two dollars twenty,0.001639344262295082
-88,Educational News,ConflictNerd,0.001639344262295082
-89,Educational News,Matt Bryce,0.001639344262295082
-90,Educational News,Well There's Your Problem Podcast,0.01639344262295082
-91,Educational News,Akruas,0.001639344262295082
-92,Educational News,Razbuten,0.001639344262295082
-93,Educational News,Infrastructurist,0.001639344262295082
-94,Educational News,The Verge,0.001639344262295082
-95,Educational News,Timcast IRL,0.001639344262295082
-96,Educational News,Stanford,0.001639344262295082
-97,Educational News,CNBC Make It.,0.001639344262295082
-98,Educational News,Kek Wills It,0.001639344262295082
-99,Educational News,JRE Clips,0.00819672131147541
-100,Educational News,Create Quantum Wealth,0.001639344262295082
-101,Educational News,Dolores Cannon,0.001639344262295082
-102,Educational News,Mark Galer's Alpha Creative Skills,0.001639344262295082
-103,Educational News,Coffee Time,0.001639344262295082
-104,Educational News,TVO Docs,0.006557377049180328
-105,Educational News,Patriot Act,0.004918032786885246
-106,Educational News,The Zero Hour with RJ Eskow,0.001639344262295082
-107,Educational News,DW Documentary,0.011475409836065573
-108,Educational News,Encore +,0.006557377049180328
-109,Educational News,How To Academy,0.006557377049180328
-110,Educational News,LastWeekTonight,0.003278688524590164
-111,Educational News,PBS NewsHour,0.003278688524590164
-112,Educational News,NBC News,0.006557377049180328
-113,Educational News,Adam Curtis Documentary,0.003278688524590164
-114,Educational News,FRONTLINE PBS | Official,0.001639344262295082
-115,Educational News,agadmator's Chess Channel,0.003278688524590164
-116,Educational News,TYT's The Conversation,0.001639344262295082
-117,Educational News,Foreign Policy Research Institute,0.001639344262295082
-118,Educational News,MSNBC,0.003278688524590164
-119,Educational News,Eric Garcetti,0.006557377049180328
-120,Educational News,Rebel HQ,0.001639344262295082
-121,Educational News,abcqanda,0.001639344262295082
-122,Educational News,ColdFusion,0.001639344262295082
-123,Educational News,Fox News,0.003278688524590164
-124,Educational News,University of California Television (UCTV),0.003278688524590164
-125,Educational News,Folk & Country on MV,0.001639344262295082
-126,Educational News,Michael Bisping Podcast,0.001639344262295082
-127,Educational News,First We Feast,0.004918032786885246
-128,Educational News,Commune,0.003278688524590164
-129,Educational News,Universal Comedy,0.001639344262295082
-130,Educational News,Late Night with Seth Meyers,0.001639344262295082
-131,Educational News,Digiday,0.003278688524590164
-132,Educational News,ignoredvoices,0.003278688524590164
-133,Educational News,Jocko Podcast,0.00819672131147541
-134,Educational News,ABC News In-depth,0.001639344262295082
-135,Educational News,Sky News Australia,0.003278688524590164
-136,Educational News,Rolling Stone,0.004918032786885246
-137,Educational News,The Royal Institution,0.004918032786885246
-138,Educational News,StarMediaEN,0.011475409836065573
-139,Educational News,Foundation for Economic Education,0.001639344262295082
-140,Educational News,True Geordie,0.001639344262295082
-141,Educational News,WIRED UK,0.001639344262295082
-142,Educational News,AJ+,0.001639344262295082
-143,Educational News,Charisma on Command,0.004918032786885246
-144,Educational News,GQ,0.003278688524590164
-145,Educational News,Baba Ram Dass,0.001639344262295082
-146,Educational News,Team Coco,0.004918032786885246
-147,Educational News,james booker,0.001639344262295082
-148,Educational News,Danny Maude,0.003278688524590164
-149,Educational News,The Jonathan Ross Show,0.001639344262295082
-150,Educational News,My Story Animated,0.001639344262295082
-151,Educational News,ideasman69,0.003278688524590164
-152,Educational News,YouTube Movies,0.003278688524590164
-153,Educational News,Philosophies for Life,0.001639344262295082
-154,Educational News,Andrew DC TV,0.001639344262295082
-155,Educational News,Story Time Animated,0.001639344262295082
-156,Educational News,Professor Dave Explains,0.006557377049180328
-157,Educational News,Dream,0.001639344262295082
-158,Educational News,WILTY? Nope!,0.001639344262295082
-159,Educational News,Official Jim Cornette,0.001639344262295082
-160,Educational News,Philosophy Tube,0.003278688524590164
-161,Educational News,NowThis World,0.003278688524590164
-162,Educational News,CNN,0.001639344262295082
-163,Educational News,The View,0.001639344262295082
-164,Educational News,American Museum of Natural History,0.004918032786885246
-165,Educational News,TRT World,0.001639344262295082
-166,Educational News,British Vogue,0.001639344262295082
-167,Educational News,WatchMojoUK,0.001639344262295082
-168,Educational News,LegalEagle,0.001639344262295082
-169,Educational News,The Trigger Mechanism,0.001639344262295082
-170,Educational News,TED Archive,0.001639344262295082
-171,Educational News,Nicki Swift,0.001639344262295082
-172,Educational News,HarryPotterAdmirer,0.001639344262295082
-173,Educational News,Vogue,0.001639344262295082
-174,Educational News,Jamie Oliver,0.001639344262295082
-175,Educational News,Quiet Quest - Study Music,0.001639344262295082
-176,Educational News,Patrick Solomon,0.001639344262295082
-177,Educational News,Lewis Howes,0.004918032786885246
-178,Educational News,Tara Brach,0.001639344262295082
-179,Educational News,Graham Stephan,0.001639344262295082
-180,Educational News,CrossFit Games,0.003278688524590164
-181,Educational News,DashTransit,0.001639344262295082
-182,Educational News,JacktheG4m3r,0.001639344262295082
-183,Educational News,Geoff Marshall,0.001639344262295082
-184,Educational News,Eastern Marsh Lands,0.001639344262295082
-185,Educational News,UNSW eLearning,0.001639344262295082
-186,Educational News,Chicago Humanities Festival,0.001639344262295082
-187,Educational News,BiolaUniversity,0.001639344262295082
-188,Educational News,9 News Australia,0.001639344262295082
-189,Educational News,Mindvalley Talks,0.001639344262295082
-190,Educational News,Ligonier Ministries,0.001639344262295082
-191,Educational News,Biography,0.001639344262295082
-192,Educational News,jimgaffigan,0.001639344262295082
-193,Educational News,Gordon Ramsay,0.003278688524590164
-194,Educational News,Christo Aivalis,0.003278688524590164
-195,Educational News,AccurateEnglish,0.001639344262295082
-196,Educational News,Chomsky's Philosophy,0.001639344262295082
-197,Educational News,azureScapegoat,0.001639344262295082
-198,Educational News,alpergaga,0.001639344262295082
-199,Educational News,Studio 10,0.001639344262295082
-200,Educational News,Mexie,0.001639344262295082
-201,Educational News,Cuck Philosophy,0.001639344262295082
-202,Educational News,Poly-glot-a-lot,0.001639344262295082
-203,Educational News,Gapminder Foundation,0.003278688524590164
-204,Educational News,Johnny Bigger,0.001639344262295082
-205,Educational News,Danial Jones,0.001639344262295082
-206,Educational News,Wisecrack,0.001639344262295082
-207,Educational News,The Tonight Show Starring Jimmy Fallon,0.001639344262295082
-208,Educational News,The Film Theorists,0.001639344262295082
-209,Educational News,Think Club,0.001639344262295082
-210,Educational News,RubinMuseum,0.001639344262295082
-211,Educational News,George Carlin Official YouTube Channel,0.001639344262295082
-212,Educational News,The Wendy Williams Show,0.001639344262295082
-213,Educational News,The Rubin Report,0.001639344262295082
-214,Educational News,OPENCANADA,0.001639344262295082
-215,Educational News,tvGiselle,0.001639344262295082
-216,Educational News,truTV,0.001639344262295082
-217,Educational News,Larry King,0.001639344262295082
-218,Educational News,John Anderson,0.001639344262295082
-219,Educational News,University of Kentucky College of Arts & Sciences,0.001639344262295082
-220,Educational News,Israel,0.001639344262295082
-221,Educational News,Al Jazeera English,0.003278688524590164
-222,Educational News,The Economist,0.001639344262295082
-223,Educational News,The Late Show with Stephen Colbert,0.001639344262295082
-224,Educational News,Epic History TV,0.004918032786885246
-225,Educational News,Brown University,0.001639344262295082
-226,Educational News,Emory University,0.001639344262295082
-227,Educational News,iERA,0.001639344262295082
-228,Educational News,Kings and Generals,0.001639344262295082
+,Category,Next Channel,Count
+0,Socialist,Tom Nicholas,33
+1,Socialist,Curio,1
+2,Socialist,Max Joseph,3
+3,Socialist,Mad Blender,1
+4,Socialist,Peter Coffin,7
+5,Socialist,TEDx Talks,21
+6,Socialist,Then & Now,14
+7,Socialist,Cuck Philosophy,23
+8,Socialist,NCASVideo,6
+9,Socialist,HooverInstitution,66
+10,Socialist,Philosophy Guy,1
+11,Socialist,GETchan,25
+12,Socialist,Various Artists - Topic,1
+13,Socialist,CaptainGoldenhind,2
+14,Socialist,Nurettin Yilmaz,1
+15,Socialist,tristeresaca,1
+16,Socialist,Телеканал ОНТ,1
+17,Socialist,Slovak Philharmonic - Topic,1
+18,Socialist,Thought Slime,46
+19,Socialist,YouTube,27
+20,Socialist,Lindsay Ellis,8
+21,Socialist,Office of Graduate Research Flinders University,1
+22,Socialist,Texas A&M University,1
+23,Socialist,zontulfilmsltd,1
+24,Socialist,nottinghamscience,1
+25,Socialist,MovementMaterial,23
+26,Socialist,Graduate Research School Western Sydney University,2
+27,Socialist,Lucy Kissick - The PhDiaries,1
+28,Socialist,Pop Culture Detective,3
+29,Socialist,cecile badenhorst,1
+30,Socialist,The Rubin Report,1
+31,Socialist,Simon Clark,3
+32,Socialist,Atun-Shei Films,9
+33,Socialist,azureScapegoat,13
+34,Socialist,lilsimsie,3
+35,Socialist,James Turner,3
+36,Socialist,periodistadigital,1
+37,Socialist,Carl's Sim Guides,3
+38,Socialist,Elliandra,1
+39,Socialist,Viki 1999,1
+40,Socialist,Fantayzia,2
+41,Socialist,Larry Bundy Jr,2
+42,Socialist,EvanMCGaming,1
+43,Socialist,TeleSUR English,6
+44,Socialist,NBC News,12
+45,Socialist,CBC News: The National,3
+46,Socialist,MSNBC,32
+47,Socialist,TED-Ed,12
+48,Socialist,CARIBUPDATE CHANNEL,1
+49,Socialist,Jason Smart Travel,1
+50,Socialist,Vox,16
+51,Socialist,The Laura Flanders Show,41
+52,Socialist,CBC,25
+53,Socialist,ShirleyFilms,2
+54,Socialist,CNN,8
+55,Socialist,Grow Successful,1
+56,Socialist,TRT World,13
+57,Socialist,ZIZOnline,1
+58,Socialist,Hip Hughes,2
+59,Socialist,Al Jazeera English,2
+60,Socialist,RichardDWolff,15
+61,Socialist,Levy Economics Institute,54
+62,Socialist,Democracy At Work,16
+63,Socialist,thepostarchive,4
+64,Socialist,Town Hall Seattle,5
+65,Socialist,Bertelsmann Foundation,15
+66,Socialist,Moyers & Company,16
+67,Socialist,The New School,35
+68,Socialist,KET - Kentucky Educational Television,8
+69,Socialist,Fox News,98
+70,Socialist,YouTube Movies,14
+71,Socialist,UnHerd,8
+72,Socialist,Encore +,6
+73,Socialist,Mexie,16
+74,Socialist,LibertyPen,3
+75,Socialist,Philosophy Tube,29
+76,Socialist,Chomsky's Philosophy,5
+77,Socialist,The Zero Hour with RJ Eskow,3
+78,Socialist,PBS NewsHour,12
+79,Socialist,Ed Mays,1
+80,Socialist,LegalEagle,10
+81,Socialist,MIT School of Architecture & Planning,4
+82,Socialist,New Economic Thinking,3
+83,Socialist,Valuetainment,3
+84,Socialist,The Late Show with Stephen Colbert,15
+85,Socialist,The Intercept,2
+86,Socialist,Xexizy,1
+87,Socialist,Simple History,2
+88,Socialist,John D Ruddy,1
+89,Socialist,The Aspen Institute,5
+90,Socialist,NowThis World,3
+91,Socialist,BBC News,1
+92,Socialist,The Economist,14
+93,Socialist,Xanderhal,1
+94,Socialist,Shaun,21
+95,Socialist,LastWeekTonight,39
+96,Socialist,hbomberguy,18
+97,Socialist,Three Arrows,12
+98,Socialist,Patriot Act,27
+99,Socialist,Big Joel,20
+100,Socialist,Renegade Cut,3
+101,Socialist,Jack Saint,3
+102,Socialist,Fredrik Knudsen,2
+103,Socialist,Quinton Reviews,3
+104,Socialist,Some More News,5
+105,Socialist,Schaffrillas Productions,1
+106,Socialist,Kurtis Conner,1
+107,Socialist,Russell Brand,13
+108,Socialist,VICE,2
+109,Socialist,PowerfulJRE,3
+110,Socialist,Medlife Crisis,1
+111,Socialist,The Sun,5
+112,Socialist,Fit Of Vet,1
+113,Socialist,Lewis Howes,2
+114,Socialist,Tom Bilyeu,2
+115,Socialist,Wim Hof,1
+116,Socialist,Jocko Podcast,25
+117,Socialist,Red Star Videos,6
+118,Socialist,TED,5
+119,Socialist,Professor Dave Explains,15
+120,Socialist,TVO Docs,3
+121,Socialist,Daryl Talks Games,3
+122,Socialist,Real Time with Bill Maher,1
+123,Socialist,John Anderson,1
+124,Socialist,Official Jim Cornette,3
+125,Socialist,Aba & Preach,1
+126,Socialist,Rolling Stone,26
+127,Socialist,Jordan B Peterson,2
+128,Socialist,Tyrone Magnus,1
+129,Socialist,PewDiePie,1
+130,Socialist,Socialist East,6
+131,Socialist,Bartje Bartmans,5
+132,Socialist,Les Choeurs de l'Armée Rouge Alexandrov - Officiel,16
+133,Socialist,ГБУ РК «Крымский киномедиацентр»,1
+134,Socialist,Norwegian Baron,2
+135,Socialist,CCTV春晚,1
+136,Socialist,Moranbong Band HD,1
+137,Socialist,迫真チャンネル,1
+138,Socialist,Rhee,1
+139,Socialist,Maestro Ziikos,1
+140,Socialist,Dschinghis Khan Official,1
+141,Socialist,fkdiscoclub,1
+142,Socialist,ReasonTV,3
+143,Socialist,Philosophy Overdose,11
+144,Socialist,Amanpour and Company,4
+145,Socialist,Mr. Beat,10
+146,Socialist,Project Syndicate,3
+147,Socialist,Robert Reich,1
+148,Socialist,ContraPoints,9
+149,Socialist,Overly Sarcastic Productions,10
+150,Socialist,Revenge Of The Cis,4
+151,Socialist,All Gas No Brakes,1
+152,Socialist,let's talk about stuff.,6
+153,Socialist,Ramin Djawadi - Topic,1
+154,Socialist,New Rockstars,1
+155,Socialist,Wisecrack,2
+156,Socialist,Foals,2
+157,Socialist,Just Write,3
+158,Socialist,Civic Lab,1
+159,Socialist,Novara Media,2
+160,Socialist,CGP Grey,22
+161,Socialist,Rosa-Luxemburg-Stiftung,1
+162,Socialist,Jabzy,1
+163,Socialist,Jreg,4
+164,Socialist,HistoryPod,1
+165,Socialist,Luna oi!,1
+166,Socialist,Second Thought,2
+167,Socialist,J.J. McCullough,2
+168,Socialist,CrashCourse,18
+169,Socialist,Blaine Simple,3
+170,Socialist,Foundation for Economic Education,20
+171,Socialist,NonCompete,7
+172,Socialist,BadEmpanada,2
+173,Socialist,Stanford,4
+174,Socialist,Mississippi Public Broadcasting,5
+175,Socialist,LonerBox,3
+176,Socialist,Talks at Google,2
+177,Socialist,CNBC,2
+178,Socialist,University of Notre Dame,3
+179,Socialist,OxfordUnion,5
+180,Socialist,TIFF Originals,2
+181,Socialist,Intelligence Squared,3
+182,Socialist,Washington Post,7
+183,Socialist,The Tabernacle Choir at Temple Square,1
+184,Socialist,Группа ЛЮБЭ,2
+185,Socialist,DR Koncerthuset,3
+186,Socialist,YugoslavianHeroes 1943,1
+187,Socialist,The United States Army Field Band,2
+188,Socialist,JD Production Beograd,1
+189,Socialist,Ingen,2
+190,Socialist,Midas Lundgren,1
+191,Socialist,Leonard Bernstein - Topic,1
+192,Socialist,alpergaga,4
+193,Socialist,Hakim,3
+194,Socialist,British GQ,1
+195,Socialist,Computerphile,2
+196,Socialist,Skavlan,1
+197,Socialist,RobinHoodUK,1
+198,Socialist,Vaush,10
+199,Socialist,José,1
+200,Socialist,The Radical Revolution,17
+201,Socialist,The Raj of Maharta.,1
+202,Socialist,BasicEconomics,1
+203,Socialist,Kraut,2
+204,Socialist,reelblack,1
+205,Socialist,Todd in the Shadows,4
+206,Socialist,Internet Historian: Incognito Mode,2
+207,Socialist,Internet Historian,3
+208,Socialist,WonderWhy,2
+209,Socialist,Strat-Edgy Productions,4
+210,Socialist,Epic History TV,3
+211,Socialist,glenzboyz,1
+212,Socialist,Yael Lavie,1
+213,Socialist,Anna Calvi,1
+214,Socialist,CJ's Vinyl,1
+215,Socialist,Kashgar Khanate,1
+216,Socialist,AIERvideo,1
+217,Socialist,Songs from the DPRK,1
+218,Socialist,ParticleMen,1
+219,Socialist,Jason Unruhe,4
+220,Socialist,CNBC Television,7
+221,Socialist,ABC13 Houston,5
+222,Socialist,ITV News,5
+223,Socialist,Senator Ted Cruz,2
+224,Socialist,Danila Fox,2
+225,Socialist,Empire Files,3
+226,Socialist,The Agenda with Steve Paikin,4
+227,Socialist,Sky News Australia,2
+228,Socialist,Gapminder Foundation,3
+229,Socialist,WIRED UK,3
+230,Socialist,Inside Edition,1
+231,Socialist,This Place,1
+232,Socialist,The School of Life,20
+233,Socialist,Yestervid,1
+234,Socialist,Soundtrack Specialist,1
+235,Socialist,Learn Liberty,5
+236,Socialist,RE-EDUCATION,1
+237,Socialist,Tom Richey,1
+238,Socialist,Daily Dose Of Internet,1
+239,Socialist,YUNGBLUD,1
+240,Socialist,Flashback FM,1
+241,Socialist,Kevin O'Leary,7
+242,Socialist,Economics Explained,1
+243,Socialist,anarchopac,10
+244,Socialist,History Matters,2
+245,Socialist,OverSimplified,3
+246,Socialist,TREY the Explainer,1
+247,Socialist,Adi Shankar's BOOTLEG UNIVERSE,1
+248,Socialist,marlbrouk,1
+249,Socialist,LosGranosTV,2
+250,Socialist,Benjy,3
+251,Socialist,The Healing Foundation,1
+252,Socialist,Avatar: The Last Airbender,1
+253,Socialist,marshallcurry,3
+254,Socialist,Jimmy Carr,7
+255,Socialist,American Battlefield Trust,6
+256,Socialist,British Pathé,1
+257,Socialist,Oscars,1
+258,Socialist,MEANS TV,6
+259,Socialist,NBC New York,4
+260,Socialist,The Hill,2
+261,Socialist,C-SPAN,1
+262,Socialist,Wintergatan,1
+263,Socialist,Sheet Music Boss,6
+264,Socialist,GoldenPotatoBull,1
+265,Socialist,nusmax,1
+266,Socialist,Toms Mucenieks,1
+267,Socialist,Vinheteiro,1
+268,Socialist,Terry Miles,1
+269,Socialist,It’s Casper,1
+270,Socialist,Vesti News,1
+271,Socialist,L'Orchestra Cinématique,1
+272,Socialist,RubinMuseum,1
+273,Socialist,SOAS University of London,3
+274,Socialist,Eckhart Tolle,5
+275,Socialist,JJ Olatunji,1
+276,Socialist,The Royal Institution,6
+277,Socialist,Discovery Science,1
+278,Socialist,anton newcombe,1
+279,Socialist,GrayStillPlays,1
+280,Socialist,DESU-TV,1
+281,Socialist,Closer To Truth,3
+282,Socialist,Bite-sized Philosophy,1
+283,Socialist,92nd Street Y,22
+284,Socialist,Chapo Trap House,13
+285,Socialist,Film at Lincoln Center,3
+286,Socialist,RedLetterMedia,4
+287,Socialist,Trevor Noah,1
+288,Socialist,Council on Foreign Relations,1
+289,Socialist,Big Think,2
+290,Socialist,Rebel Wisdom,4
+291,Socialist,Interesting,1
+292,Socialist,Doctor Mike,1
+293,Socialist,Late Night with Seth Meyers,7
+294,Socialist,The People's Forum NYC,1
+295,Socialist,DemocraticSocialist01,1
+296,Socialist,Bloomberg QuickTake Originals,1
+297,Socialist,Reflex Cinema,3
+298,Socialist,Vanity Fair,1
+299,Socialist,AngryJoeShow,3
+300,Socialist,ColdFusion,2
+301,Socialist,PragerU,1
+302,Socialist,edbookfest,1
+303,Socialist,vpro documentary,1
+304,Socialist,Odd Salon,1
+305,Socialist,Theo Von,2
+306,Socialist,YaleCourses,2
+307,Socialist,GMA Public Affairs,1
+308,Socialist,Insane Reality,1
+309,Socialist,Kitco NEWS,1
+310,Socialist,Brave New Films,1
+311,Socialist,Brett Cenkus,1
+312,Socialist,Watson Institute for International and Public Affairs,2
+313,Socialist,Commonwealth Club,1
+314,Socialist,M Czerna,1
+315,Socialist,Academy of Ideas,3
+316,Socialist,Radio Open Source,1
+317,Socialist,FOX 2 St. Louis,1
+318,Socialist,Mashed,1
+319,Socialist,Wendover Productions,1
+320,Socialist,Ruptly,1
+321,Socialist,Max Steel,1
+322,Socialist,The Armchair Historian,1
+323,Socialist,The Irish Brigade - Topic,1
+324,Socialist,Kurzgesagt – In a Nutshell,5
+325,Socialist,Vinesauce: The Full Sauce,1
+326,Socialist,Harvard University,1
+327,Socialist,Grian,1
+328,Socialist,Trainwreckstv,1
+329,Socialist,SirDimetrious,1
+330,Socialist,Turkey Tom,1
+331,Socialist,Arif Kasim,1
+332,Socialist,Weird History,1
+333,Socialist,America First with Sebastian Gorka,2
+334,Socialist,Lindsay Holiday,1
+335,Socialist,Shady Attia,1
+336,Socialist,The Write Channel with Nicola Monaghan,1
+337,Socialist,Ranywayz Random,1
+338,Socialist,University of Birmingham,1
+339,Socialist,TurningScience,1
+340,Socialist,Movieclips,1
+341,Socialist,ABC10,1
+342,Socialist,Boondocking Bears,1
+343,Socialist,rqmondo,1
+344,Socialist,Sergey Baklykov / Real Russia,1
+345,Socialist,BackRoadsWest1,1
+346,Socialist,Joseph Anderson,1
+347,Socialist,Play On Tabletop,2
+348,Socialist,superbowserlogan,1
+349,Socialist,The Salt Factory,1
+350,Socialist,Libertarian Socialist Rants,4
+351,Socialist,Enter Shikari,1
+352,Socialist,melodysheep,1
+353,Socialist,bill wurtz,1
+354,Socialist,YourMovieSucksDOTorg,3
+355,Socialist,David Ridlen,1
+356,Socialist,Polygon,1
+357,Socialist,Carlos Maza,1
+358,Socialist,Nerd City,1
+359,Socialist,XOXO Festival,1
+360,Socialist,NewAfrica,1
+361,Socialist,Sky News,1
+362,Socialist,The Michael Brooks Show,4
+363,Socialist,Jay Foreman,1
+364,Socialist,Bad Crayfish Productions,1
+365,Socialist,KnowledgeHub,1
+366,Socialist,DARKUMENTARY,1
+367,Socialist,AJ+,1
+368,Socialist,Coleman Hughes,2
+369,Socialist,CRX,1
+370,Socialist,Danny Gonzalez,1
+371,Socialist,Cody Ko,1
+372,Socialist,donoteat01,1
+373,Socialist,militaryensemble,1
+374,Socialist,Otava Yo,1
+375,Socialist,John Williams - Topic,1
+376,Socialist,Sabaton,1
+377,Socialist,Ian Berwick,1
+378,Socialist,South China Morning Post,1
+379,Socialist,Commieball,1
+380,Socialist,The 51st Division,1
+381,Socialist,matogolf,1
+382,Socialist,bilegt beegii,1
+383,Socialist,Red_Cosmonaut,1
+384,Socialist,SciGirls,1
+385,Socialist,Surviving and Thriving in Higher Education,1
+386,Socialist,hackerdashery,2
+387,Socialist,Understood,3
+388,Socialist,Michael Kilman,1
+389,Socialist,The Dave Ramsey Show,1
+390,Socialist,PierceCollegeDist11,2
+391,Socialist,Origin Of Everything,1
+392,Socialist,Dinkertons,1
+393,Socialist,The Story of Stuff Project,1
+394,Socialist,Digiday,1
+395,Socialist,Principles by Ray Dalio,1
+396,Socialist,UW Video,5
+397,Socialist,Paula Deen,1
+398,Socialist,Lex van Dam Trading Academy,1
+399,Socialist,Ryan Stewart,1
+400,Socialist,Angie Speaks,4
+401,Socialist,The Cinema Cartography,1
+402,Socialist,Entertainment Weekly,2
+403,Socialist,The Mechanic Shark Channel,1
+404,Socialist,musicalSaint,1
+405,Socialist,Peppe Frasca,1
+406,Socialist,Sparrowmaiden,1
+407,Socialist,Pogo,1
+408,Socialist,Next of Ken,1
+409,Socialist,farmerne,1
+410,Socialist,The Original Ace,1
+411,Socialist,Aidan Pang,1
+412,Socialist,David Bruce Composer,1
+413,Socialist,Secular Talk,1
+414,Socialist,Taylor Avella,4
+415,Socialist,KyleKallgrenBHH,1
+416,Socialist,Coffeezilla,1
+417,Socialist,Cynic Snacks,1
+418,Socialist,Cave Jokes,1
+419,Socialist,Guardian Supporters,2
+420,Socialist,KHOU 11,2
+421,Socialist,Slugger O'Toole,1
+422,Socialist,Learn English with Gill (engVid),1
+423,Socialist,FORA.tv,1
+424,Socialist,Berklee Online,1
+425,Socialist,Rhymesayers Entertainment,1
+426,Socialist,Matt Mayfield Music,1
+427,Socialist,melanie martinez,1
+428,Socialist,KEXP,1
+429,Socialist,Lex Fridman,2
+430,Socialist,BillEvansArchive,1
+431,Socialist,The Independent,1
+432,Socialist,CNNMoney Switzerland,1
+433,Socialist,This Morning,1
+434,Socialist,TheEllenShow,1
+435,Socialist,ABC COMEDY,1
+436,Socialist,The Wendy Williams Show,2
+437,Socialist,Holly - Kapia Mera Soap,1
+438,Socialist,Kin,1
+439,Socialist,BBC Newsnight,1
+440,Socialist,Royalty Soaps,1
+441,Socialist,goodtele2222,1
+442,Socialist,Ozzy Man Reviews,1
+443,Socialist,onemediamusic,1
+444,Socialist,Josh Gad,1
+445,Socialist,The Kino Corner,2
+446,Socialist,Zero Books,6
+447,Socialist,First Congregational Church of LA,1
+448,Socialist,Emory University,1
+449,Socialist,Financial Times,1
+450,Socialist,UWinnipeg,1
+451,Socialist,UNRISD,1
+452,Socialist,American Museum of Natural History,1
+453,Socialist,EdChoice,1
+454,Socialist,Precision Independent Media,1
+455,Socialist,Bamalam,1
+456,Socialist,The Why,1
+457,Socialist,FRIENDS MemesPh,1
+458,Socialist,MovieShowTime,1
+459,Socialist,Thejazzsingers channel,1
+460,Socialist,BBC Radio 1,1
+461,Socialist,Adam Savage’s Tested,1
+462,Socialist,Your Daily Nigga Wake Up Call,1
+463,Socialist,Kevin Bautista,1
+464,Socialist,Onipsi,1
+465,Socialist,Emma Dicki,2
+466,Socialist,yankeesfan22vt,1
+467,Socialist,Schmoedown Entertainment Network,1
+468,Socialist,CineVore,1
+469,Socialist,Sony Pictures Entertainment,1
+470,Socialist,Yeah that's so it,1
+471,Socialist,St. Vincent,1
+472,Socialist,Saturday Night Live,1
+473,Socialist,JohnnyFlynnVEVO,1
+474,Socialist,FoundationINTERVIEWS,1
+475,Socialist,Fatboy Slim,1
+476,Socialist,jimgaffigan,2
+477,Socialist,DiEM25,1
+478,Socialist,abcqanda,1
+479,Socialist,CBC News,1
+480,Socialist,Ippolit Belinski,1
+481,Socialist,David Rubenstein,1
+482,Socialist,Chael Sonnen,1
+483,Socialist,RunTheJewels,1
+484,Socialist,Alexander von Humboldt Institut für Internet und Gesellschaft,1
+485,Socialist,swedemason,1
+486,Socialist,Cinemassacre,1
+487,Socialist,ESPN,1
+488,Socialist,Bat'ko,1
+489,Socialist,Sexy Biscuit,1
+490,Socialist,Turin,1
+491,Socialist,Loremaster_of_Sotek,1
+492,Socialist,Kings and Generals,3
+493,Socialist,The Spiffing Brit,1
+494,Socialist,Formosa,1
+495,Socialist,Nerdwriter1,1
+496,Socialist,Alt Shift X,1
+497,Socialist,Forming Film,1
+498,Socialist,In Praise of Shadows,1
+499,Socialist,Rodrigo Notari,1
+500,Socialist,Chris Stuckmann,1
+501,Socialist,Rocky Mountain PBS,1
+502,Socialist,CBSDFW,1
+503,Socialist,Durham Constabulary,1
+504,Socialist,WXYZ-TV Detroit | Channel 7,1
+505,Socialist,icould career stories,1
+506,Socialist,NowThis News,1
+507,Socialist,WLWT,1
+508,Socialist,TODAY,1
+509,Socialist,Tallahassee Democrat,1
+510,Socialist,The Office,1
+511,Socialist,Jon Solo,1
+512,Socialist,Folding Ideas,1
+513,Socialist,DisneyMusicVEVO,2
+514,Socialist,Ladyknightthebrave,1
+515,Socialist,Josh Keefe,1
+516,Socialist,i24NEWS English,1
