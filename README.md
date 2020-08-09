@@ -2,6 +2,12 @@
 This project was completed with support from the Undergraduate Student Research Award provided by the National Science and Engineering Research Council of Canada. As well, this project was done under the supervision of Paul Tupper in the Department of Mathematics at Simon Fraser University.
 
 ## Table of Contents
+- [Introduction](https://github.com/kaishuun/YouTube-Radicalization-Modelling/blob/master/README.md#introduction)
+- [Data Collection](https://github.com/kaishuun/YouTube-Radicalization-Modelling/blob/master/README.md#data-collection)
+- [Results](https://github.com/kaishuun/YouTube-Radicalization-Modelling/blob/master/README.md#results)
+  - [Channel Flow Analysis](https://github.com/kaishuun/YouTube-Radicalization-Modelling/blob/master/README.md#channel-flow-analysis)
+  - [Markov Model](https://github.com/kaishuun/YouTube-Radicalization-Modelling/blob/master/README.md#markov-model)
+- [References](https://github.com/kaishuun/YouTube-Radicalization-Modelling/blob/master/README.md#references
 
 
 ## Introduction 
@@ -14,7 +20,7 @@ We used Selenium WebDriver to automate this data collection process.
 
 ## Results
 
-### Exploratory Analysis
+### Channel Flow Analysis
 Here in this section, we look at the distribution of views for each community to better understand the popularity of each ideology on YouTube. As seen in the boxplot and scatterplot below we specifically look at videos with views from 10000 views to one million views. The majority of the ideologies average around 30 thousand views per video with the most variable ideologies being the Partisan Left, Anti- Theist, as well as the Alt-light, this suggests that there exists more users interact with videos from these communities. This data is also right skewed as certain videos gain more hype and become 'viral' where their views increase dramatically in comparison to regular videos. 
 
 ![](https://github.com/kaishuun/YouTube-Radicalization-Modelling/blob/master/Charts%20and%20Graphs/Ideology%20Subscriber.png)
