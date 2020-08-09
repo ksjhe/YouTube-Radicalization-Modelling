@@ -7,7 +7,7 @@ This project was completed with support from the Undergraduate Student Research 
 - [Results](https://github.com/kaishuun/YouTube-Radicalization-Modelling/blob/master/README.md#results)
   - [Channel Flow Analysis](https://github.com/kaishuun/YouTube-Radicalization-Modelling/blob/master/README.md#channel-flow-analysis)
   - [Markov Model](https://github.com/kaishuun/YouTube-Radicalization-Modelling/blob/master/README.md#markov-model)
-- [References](https://github.com/kaishuun/YouTube-Radicalization-Modelling/blob/master/README.md#references
+- [References](https://github.com/kaishuun/YouTube-Radicalization-Modelling/blob/master/README.md#references)
 
 
 ## Introduction 
@@ -56,7 +56,6 @@ Here we see that Social Justice videos are heavily favoured in terms of recommen
 | Revolutionary Socialist | 0 | 
 | Social Justice | 0.55 | 
 | Socialist | 0.04 | 
-
 
 ## References
 
