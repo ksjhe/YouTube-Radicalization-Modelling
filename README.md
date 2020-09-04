@@ -64,3 +64,6 @@ Here we see that Social Justice videos are heavily favoured in terms of recommen
 The inspiration for this project was based on Mark Ledwich and Anna Zaitsev's paper "Algorithmic Extremism: Examining YouTube's Rabbit Hole of Radicalization" that can be accessed [here](https://arxiv.org/abs/1912.11211).
 The dataset of tagged ideologies and channels were also taken from the paper and could be accessed on Mark Ledwich's GitHub [here](https://github.com/markledwich2/Recfluence).
 This project is not affiliated with any of the aforementioned researchers.
+
+## Report
+To see the research paper written for this project click the link [here](https://github.com/kaishuun/YouTube-Radicalization-Modelling/blob/master/Paper/Project%20Report.pdf)
